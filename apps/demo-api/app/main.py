@@ -1,8 +1,11 @@
 """Back-end provisório da demonstração. Contrato público: /api/v1."""
 
 import asyncio
+import base64
+import hashlib
+import hmac
 import json
-import secrets
+import os
 import time
 import uuid
 from contextlib import asynccontextmanager
@@ -49,8 +52,28 @@ MODULES = [
     "settings",
 ]
 ACTIONS = ["read", "create", "update", "delete", "approve", "export"]
-SESSIONS: dict[str, str] = {}
 JOBS: dict[str, dict] = {}
+
+# Na Vercel cada requisição pode cair em uma instância diferente da função, então a sessão não pode
+# ficar em memória. O token é assinado (HMAC) e carrega o id do usuário: qualquer instância o valida.
+TOKEN_SECRET = os.environ.get("DEMO_TOKEN_SECRET", "atena-demo-nao-use-em-producao").encode()
+
+
+def make_token(user_id: str) -> str:
+    payload = base64.urlsafe_b64encode(user_id.encode()).decode().rstrip("=")
+    signature = hmac.new(TOKEN_SECRET, payload.encode(), hashlib.sha256).hexdigest()
+    return f"{payload}.{signature}"
+
+
+def user_id_from_token(token: str) -> str | None:
+    payload, _, signature = token.partition(".")
+    expected = hmac.new(TOKEN_SECRET, payload.encode(), hashlib.sha256).hexdigest()
+    if not payload or not hmac.compare_digest(signature, expected):
+        return None
+    try:
+        return base64.urlsafe_b64decode(payload + "=" * (-len(payload) % 4)).decode()
+    except ValueError:
+        return None
 
 
 class ApiError(Exception):
@@ -82,7 +105,8 @@ async def validation_error(_: Request, exc: RequestValidationError):
 def current_user(request: Request) -> dict:
     header = request.headers.get("authorization", "")
     token = header.removeprefix("Bearer ").strip() or request.query_params.get("token", "")
-    user = db.get("users", SESSIONS[token]) if token in SESSIONS else None
+    user_id = user_id_from_token(token)
+    user = db.get("users", user_id) if user_id else None
     if not user:
         raise ApiError(401, "unauthenticated", "Sessão ausente ou expirada.")
     return user
@@ -117,9 +141,7 @@ async def login(request: Request):
     )
     if not user:
         raise ApiError(401, "invalid_credentials", "E-mail ou senha inválidos.")
-    token = secrets.token_urlsafe(24)
-    SESSIONS[token] = user["id"]
-    return {"data": {"token": token, "user": public(user)}}
+    return {"data": {"token": make_token(user["id"]), "user": public(user)}}
 
 
 @api.get("/auth/me")
@@ -128,8 +150,8 @@ def me(user: Annotated[dict, Depends(current_user)]):
 
 
 @api.post("/auth/logout")
-def logout(request: Request):
-    SESSIONS.pop(request.headers.get("authorization", "").removeprefix("Bearer ").strip(), None)
+def logout():
+    # Token sem estado: o cliente descarta o token ao sair.
     return {"data": None}
 
 
