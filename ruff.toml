@@ -1,9 +1,0 @@
-line-length = 120
-target-version = "py312"
-
-[lint]
-select = ["E", "F", "I", "B", "UP", "SIM"]
-
-[lint.per-file-ignores]
-# Tabelas de dados do gerador de seed são mais largas que o limite.
-"tools/**" = ["E501"]
