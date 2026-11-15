@@ -1,14 +1,12 @@
-import { readFileSync } from 'node:fs';
 import { fileURLToPath, URL } from 'node:url';
 import tailwindcss from '@tailwindcss/vite';
 import react from '@vitejs/plugin-react';
 import { defineConfig } from 'vite';
 import { VitePWA } from 'vite-plugin-pwa';
 
-// As cores do manifesto vêm da fonte única dos tokens da marca (brand/colors/tokens.json).
-const tokens = JSON.parse(
-  readFileSync(fileURLToPath(new URL('../../brand/colors/tokens.json', import.meta.url)), 'utf8'),
-) as { themes: { light: { background: string; foreground: string } } };
+// Cores do manifesto (tema claro), iguais a --background e --foreground em src/design/tokens.css.
+// A pasta brand/ não faz parte deste repositório, então os valores ficam inline.
+const tokens = { themes: { light: { background: '#f4f7fa', foreground: '#04233f' } } };
 
 export default defineConfig({
   plugins: [
