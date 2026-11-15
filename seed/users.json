@@ -1,0 +1,50 @@
+[
+ {
+  "id": "0506a2b3-2030-5804-a465-e3bfb5bd2cf2",
+  "name": "Robson Carvalho",
+  "email": "robson@cgaacabamentos.example",
+  "password": "demo1234",
+  "role": "owner",
+  "roleLabel": "Dono",
+  "active": true,
+  "initials": "RC",
+  "createdAt": "@h-768",
+  "updatedAt": "@h-768"
+ },
+ {
+  "id": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "name": "Beatriz Nogueira",
+  "email": "beatriz@cgaacabamentos.example",
+  "password": "demo1234",
+  "role": "engineer",
+  "roleLabel": "Engenheira responsável",
+  "active": true,
+  "initials": "BN",
+  "createdAt": "@h-1728",
+  "updatedAt": "@h-1728"
+ },
+ {
+  "id": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "name": "Jacinto Ribeiro",
+  "email": "jacinto@cgaacabamentos.example",
+  "password": "demo1234",
+  "role": "foreman",
+  "roleLabel": "Encarregado",
+  "active": true,
+  "initials": "JR",
+  "createdAt": "@h-1848",
+  "updatedAt": "@h-1848"
+ },
+ {
+  "id": "a72d4d5e-ea4c-51f4-a18b-78bb793782b4",
+  "name": "Camila Ferraz",
+  "email": "camila@cgaacabamentos.example",
+  "password": "demo1234",
+  "role": "admin",
+  "roleLabel": "Administrativo",
+  "active": true,
+  "initials": "CF",
+  "createdAt": "@h-1512",
+  "updatedAt": "@h-1512"
+ }
+]

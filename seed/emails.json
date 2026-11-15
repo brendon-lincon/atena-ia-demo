@@ -1,0 +1,327 @@
+[
+ {
+  "id": "1eae869c-5ea5-5a2b-b75f-69a862235b3d",
+  "folder": "inbox",
+  "contactId": "ef529531-cb58-5a89-b9c5-80629d9c8197",
+  "direction": "in",
+  "subject": "Solicitação de relatório fotográfico — Base Cuiabá",
+  "body": "Prezados, solicito o relatório fotográfico da frente de piso industrial referente ao período da medição nº 4, para análise do boletim.",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "labels": [
+   "Medições"
+  ],
+  "attachments": [],
+  "hasAttachments": false,
+  "receivedAt": "@h-6",
+  "read": false,
+  "draftedBy": null,
+  "createdAt": "@h-1896",
+  "updatedAt": "@h-1896"
+ },
+ {
+  "id": "53023358-0270-59f4-be25-1ee0f19e81cb",
+  "folder": "inbox",
+  "contactId": "35b40b70-0971-5eeb-9ebc-efc23bd29084",
+  "direction": "in",
+  "subject": "Protocolo recebido — condicionantes da LI de Osasco",
+  "body": "Informamos o recebimento do cronograma de atendimento às condicionantes da Licença de Instalação. O protocolo segue anexo.",
+  "obraId": "4d7771c4-41b3-5aaa-a475-7cd99378c006",
+  "labels": [
+   "Regularização"
+  ],
+  "attachments": [
+   {
+    "name": "protocolo-li.pdf",
+    "sizeKb": 214
+   }
+  ],
+  "hasAttachments": true,
+  "receivedAt": "@h-20",
+  "read": false,
+  "draftedBy": null,
+  "createdAt": "@h-2160",
+  "updatedAt": "@h-2160"
+ },
+ {
+  "id": "86fbecdb-cc91-54d6-b2a7-3912f955fce7",
+  "folder": "inbox",
+  "contactId": "91ad29eb-3401-5bdf-957f-cbce40300efd",
+  "direction": "in",
+  "subject": "Antecipação da liberação do piso — parque de tanques",
+  "body": "Robson, confirmo a liberação da área sul na quarta à tarde, conforme combinado. Segue o croqui com as frentes.",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "labels": [
+   "Obras"
+  ],
+  "attachments": [
+   {
+    "name": "croqui-area-sul.pdf",
+    "sizeKb": 480
+   }
+  ],
+  "hasAttachments": true,
+  "receivedAt": "@h-22",
+  "read": false,
+  "draftedBy": null,
+  "createdAt": "@h-1464",
+  "updatedAt": "@h-1464"
+ },
+ {
+  "id": "e01fd91c-0470-58ac-b3f7-770315e3bbb4",
+  "folder": "inbox",
+  "contactId": "26096447-602f-5d05-8fba-0eaa8f1fe81d",
+  "direction": "in",
+  "subject": "Tabela de preços — CA-50 (validade 48 h)",
+  "body": "Segue a tabela atualizada para CA-50 nos diâmetros de 8 a 20 mm, com entrega na obra de Candeias.",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "labels": [
+   "Suprimentos"
+  ],
+  "attachments": [
+   {
+    "name": "tabela-ca50.xlsx",
+    "sizeKb": 38
+   }
+  ],
+  "hasAttachments": true,
+  "receivedAt": "@h-27",
+  "read": true,
+  "draftedBy": null,
+  "createdAt": "@h-1992",
+  "updatedAt": "@h-1992"
+ },
+ {
+  "id": "5b9408a5-6341-5aaf-9c01-2d684d43021a",
+  "folder": "inbox",
+  "contactId": "09486579-f4ea-5889-a155-4bf2ac7eadb8",
+  "direction": "in",
+  "subject": "Documentos pendentes do fechamento do mês",
+  "body": "Faltam duas notas fiscais de Cuiabá e o comprovante de recolhimento do FGTS de uma competência.",
+  "obraId": null,
+  "labels": [
+   "Contábil"
+  ],
+  "attachments": [],
+  "hasAttachments": false,
+  "receivedAt": "@h-12",
+  "read": false,
+  "draftedBy": null,
+  "createdAt": "@h-480",
+  "updatedAt": "@h-480"
+ },
+ {
+  "id": "d6fc2c2c-3dc7-5a29-b831-bd93fd1ca1c4",
+  "folder": "inbox",
+  "contactId": "be9e1b7d-2a8c-56f8-866b-3bdde7fc3999",
+  "direction": "in",
+  "subject": "Exigências para análise do alvará de construção",
+  "body": "Após análise preliminar, solicitamos: memorial descritivo atualizado, ART de projeto e laudo de sondagem.",
+  "obraId": "4d7771c4-41b3-5aaa-a475-7cd99378c006",
+  "labels": [
+   "Regularização"
+  ],
+  "attachments": [],
+  "hasAttachments": false,
+  "receivedAt": "@h-40",
+  "read": true,
+  "draftedBy": null,
+  "createdAt": "@h-480",
+  "updatedAt": "@h-480"
+ },
+ {
+  "id": "7439bb8b-2371-5a62-9190-a76481273101",
+  "folder": "inbox",
+  "contactId": "aec5ec02-1c2b-5472-a800-6ce74a70d942",
+  "direction": "in",
+  "subject": "Comprovante de protocolo — pedido de LO de Candeias",
+  "body": "Registramos o recebimento da solicitação de Licença de Operação. Prazo estimado de análise: 120 dias.",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "labels": [
+   "Regularização"
+  ],
+  "attachments": [
+   {
+    "name": "comprovante-lo.pdf",
+    "sizeKb": 156
+   }
+  ],
+  "hasAttachments": true,
+  "receivedAt": "@h-100",
+  "read": true,
+  "draftedBy": null,
+  "createdAt": "@h-1392",
+  "updatedAt": "@h-1392"
+ },
+ {
+  "id": "2bcf2cb7-e681-5b50-b831-d514fed0152c",
+  "folder": "inbox",
+  "contactId": "0a3002ec-b03b-5202-8b35-4a094c98a104",
+  "direction": "in",
+  "subject": "Novo cronograma de fornecimento — QGBT e CCM",
+  "body": "Conforme conversa, segue o cronograma revisado: CCM na data original e QGBT com 10 dias de acréscimo.",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "labels": [
+   "Suprimentos"
+  ],
+  "attachments": [
+   {
+    "name": "cronograma-qgbt.pdf",
+    "sizeKb": 98
+   }
+  ],
+  "hasAttachments": true,
+  "receivedAt": "@h-68",
+  "read": true,
+  "draftedBy": null,
+  "createdAt": "@h-1296",
+  "updatedAt": "@h-1296"
+ },
+ {
+  "id": "a8758a59-0fe3-51e7-bfa3-7cbc2eaf3705",
+  "folder": "drafts",
+  "contactId": "26096447-602f-5d05-8fba-0eaa8f1fe81d",
+  "direction": "out",
+  "subject": "Cotação de aço CA-50 12,5 mm — 12 t — Candeias",
+  "body": "Prezado Jorge, solicitamos cotação de 12 t de aço CA-50 12,5 mm, barras de 12 m, com entrega na obra de Candeias em até 4 dias. Condição de pagamento: 28 dias.",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "labels": [
+   "Suprimentos"
+  ],
+  "attachments": [],
+  "hasAttachments": false,
+  "receivedAt": "@h-1",
+  "read": true,
+  "draftedBy": "atena",
+  "createdAt": "@h-744",
+  "updatedAt": "@h-744"
+ },
+ {
+  "id": "d26b86b0-5884-579b-8ea3-fb2a794b70c4",
+  "folder": "drafts",
+  "contactId": "0a3002ec-b03b-5202-8b35-4a094c98a104",
+  "direction": "out",
+  "subject": "Prazo de entrega do QGBT — impacto no cronograma",
+  "body": "Prezados, o atraso de 10 dias no QGBT impacta a energização da Casa de Gerador. Solicitamos plano de recuperação e data firme de entrega.",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "labels": [
+   "Suprimentos"
+  ],
+  "attachments": [],
+  "hasAttachments": false,
+  "receivedAt": "@h-2",
+  "read": true,
+  "draftedBy": "atena",
+  "createdAt": "@h-1896",
+  "updatedAt": "@h-1896"
+ },
+ {
+  "id": "3d330a3e-f860-58b7-a989-69f236be7ec7",
+  "folder": "drafts",
+  "contactId": "ef529531-cb58-5a89-b9c5-80629d9c8197",
+  "direction": "out",
+  "subject": "Medição nº 4 — Reforma da Base Cuiabá",
+  "body": "Prezado Ricardo, encaminhamos a medição nº 4 da Reforma da Base Cuiabá, com boletim e relatório fotográfico anexos, para análise e aprovação.",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "labels": [
+   "Medições"
+  ],
+  "attachments": [
+   {
+    "name": "boletim-medicao-04.pdf",
+    "sizeKb": 612
+   }
+  ],
+  "hasAttachments": true,
+  "receivedAt": "@h-3",
+  "read": true,
+  "draftedBy": "atena",
+  "createdAt": "@h-816",
+  "updatedAt": "@h-816"
+ },
+ {
+  "id": "993ec9f1-9d47-56bd-be68-7e03efe6ffda",
+  "folder": "drafts",
+  "contactId": "91ad29eb-3401-5bdf-957f-cbce40300efd",
+  "direction": "out",
+  "subject": "Documentação do subempreiteiro — parque de tanques",
+  "body": "Solicitamos a documentação de SST do subempreiteiro responsável pelo piso: PGR, PCMSO, ASO e treinamentos das equipes.",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "labels": [
+   "SST"
+  ],
+  "attachments": [],
+  "hasAttachments": false,
+  "receivedAt": "@h-5",
+  "read": true,
+  "draftedBy": "atena",
+  "createdAt": "@h-1176",
+  "updatedAt": "@h-1176"
+ },
+ {
+  "id": "2f17c577-176c-554e-b916-fa6d1550a644",
+  "folder": "sent",
+  "contactId": "ef529531-cb58-5a89-b9c5-80629d9c8197",
+  "direction": "out",
+  "subject": "Relatório semanal — Base Candeias (semana 14)",
+  "body": "Segue o relatório semanal com avanço físico, efetivo, ocorrências e registro fotográfico da semana.",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "labels": [
+   "Obras"
+  ],
+  "attachments": [
+   {
+    "name": "relatorio-semanal-14.pdf",
+    "sizeKb": 1280
+   }
+  ],
+  "hasAttachments": true,
+  "receivedAt": "@h-120",
+  "read": true,
+  "draftedBy": null,
+  "createdAt": "@h-288",
+  "updatedAt": "@h-288"
+ },
+ {
+  "id": "61c48d20-87fa-5819-9487-f4baeecba1d3",
+  "folder": "sent",
+  "contactId": "09486579-f4ea-5889-a155-4bf2ac7eadb8",
+  "direction": "out",
+  "subject": "Pacote mensal — lançamentos, folha e vales",
+  "body": "Segue o pacote mensal com os lançamentos por obra, folha, vales e notas fiscais emitidas e recebidas.",
+  "obraId": null,
+  "labels": [
+   "Contábil"
+  ],
+  "attachments": [
+   {
+    "name": "pacote-mensal.zip",
+    "sizeKb": 3400
+   }
+  ],
+  "hasAttachments": true,
+  "receivedAt": "@h-300",
+  "read": true,
+  "draftedBy": null,
+  "createdAt": "@h-1848",
+  "updatedAt": "@h-1848"
+ },
+ {
+  "id": "208d62fa-61bd-5931-bf74-d04a152360c9",
+  "folder": "sent",
+  "contactId": "d2883427-0de3-59f0-bb75-40af2ee2cca5",
+  "direction": "out",
+  "subject": "Lista de hóspedes — equipe Cuiabá",
+  "body": "Seguem os nomes da equipe para a reserva dos 9 apartamentos no período combinado.",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "labels": [
+   "Logística"
+  ],
+  "attachments": [],
+  "hasAttachments": false,
+  "receivedAt": "@h-56",
+  "read": true,
+  "draftedBy": null,
+  "createdAt": "@h-192",
+  "updatedAt": "@h-192"
+ }
+]

@@ -1,0 +1,2012 @@
+[
+ {
+  "id": "a9193d1f-6baf-5d5b-8413-8501b6758a5d",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-1",
+  "weather": {
+   "condition": "Nublado",
+   "tempC": 28,
+   "rainMm": 0
+  },
+  "headcountOwn": 18,
+  "headcountThird": 28,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+    "description": "Base do tanque TQ-09",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "34678ab5-4411-51c6-89f7-0c8e97298e61",
+    "description": "Base do tanque TQ-10",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Armadores aguardando aço CA-50 12,5 mm: o estoque no canteiro cobre apenas mais 1 dia de serviço. Necessário pedido urgente ao fornecedor.",
+  "photoIds": [
+   "5633084a-8c31-5087-9351-780f3c649c5b",
+   "f1798654-9ef9-5602-a5c4-7e20a361dfba",
+   "0ae261c3-ac7a-5473-a27c-a4c3bf66dcaf"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 4500000,
+  "createdAt": "@h-1536",
+  "updatedAt": "@h-1536"
+ },
+ {
+  "id": "4cd574f9-7c82-5b6e-bc54-df94261829ca",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-2",
+  "weather": {
+   "condition": "Nublado",
+   "tempC": 28,
+   "rainMm": 0
+  },
+  "headcountOwn": 18,
+  "headcountThird": 26,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+    "description": "Base do tanque TQ-09",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "34678ab5-4411-51c6-89f7-0c8e97298e61",
+    "description": "Base do tanque TQ-10",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Concretagem da base do TQ-08 interrompida por 3 h devido à chuva forte; retomada às 14h30. Cura úmida mantida.",
+  "photoIds": [
+   "87a15223-5a4d-5a03-83a4-3111b732f3e3",
+   "52bc5ff8-4738-5d3d-a07a-0bc7cc919e3f"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 5100000,
+  "createdAt": "@h-696",
+  "updatedAt": "@h-696"
+ },
+ {
+  "id": "71f4b211-ef61-5612-90f8-ed110ba1c599",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-3",
+  "weather": {
+   "condition": "Ensolarado",
+   "tempC": 33,
+   "rainMm": 0
+  },
+  "headcountOwn": 16,
+  "headcountThird": 28,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+    "description": "Base do tanque TQ-09",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "400660b3-cb17-564f-86b7-d8b7ec048d16",
+    "description": "Fundação dos muros de contenção",
+    "quantity": 21.9,
+    "unit": "m"
+   }
+  ],
+  "incidents": null,
+  "notes": "Frentes de tanques e bacia com ritmo normal.",
+  "photoIds": [
+   "d02b0904-0e6d-5215-b13e-06d2a9a1920d",
+   "3e9992d4-a125-58b1-bc62-bb855b005139",
+   "9ae60949-f819-53ee-88a6-074692238f5a"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 3600000,
+  "createdAt": "@h-648",
+  "updatedAt": "@h-648"
+ },
+ {
+  "id": "d8e0548f-f94b-519d-9d73-4c053eaac538",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-4",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 31,
+   "rainMm": 0
+  },
+  "headcountOwn": 17,
+  "headcountThird": 23,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+    "description": "Base do tanque TQ-09",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "400660b3-cb17-564f-86b7-d8b7ec048d16",
+    "description": "Fundação dos muros de contenção",
+    "quantity": 26.6,
+    "unit": "m"
+   }
+  ],
+  "incidents": null,
+  "notes": "Visita da fiscalização do contratante à frente de tanques. Sem apontamentos de não conformidade.",
+  "photoIds": [
+   "f14dc022-5501-561c-a976-6b3f1af74e9e",
+   "2dde76ee-6843-53ff-8b57-86363df3f9cd"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 4500000,
+  "createdAt": "@h-360",
+  "updatedAt": "@h-360"
+ },
+ {
+  "id": "163b110f-10f5-57bc-b16e-5c202d36d39b",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-5",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 27,
+   "rainMm": 0
+  },
+  "headcountOwn": 16,
+  "headcountThird": 25,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+    "description": "Base do tanque TQ-09",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "400660b3-cb17-564f-86b7-d8b7ec048d16",
+    "description": "Fundação dos muros de contenção",
+    "quantity": 25.1,
+    "unit": "m"
+   }
+  ],
+  "incidents": null,
+  "notes": "Descarga de aço e conferência de romaneio.",
+  "photoIds": [
+   "d56fecc2-5d22-5c50-aa32-27e57add64ab",
+   "4b6e755b-ca29-5c62-b8bb-619e3a0a7a1e",
+   "19e245f6-2966-5703-8965-15604b708a88"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 5600000,
+  "createdAt": "@h-2160",
+  "updatedAt": "@h-2160"
+ },
+ {
+  "id": "256e7a75-d436-5aa8-9b0e-3047b45d90f7",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-6",
+  "weather": {
+   "condition": "Chuva leve",
+   "tempC": 25,
+   "rainMm": 6
+  },
+  "headcountOwn": 18,
+  "headcountThird": 26,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+    "description": "Base do tanque TQ-07",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+    "description": "Base do tanque TQ-09",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Entrega do concreto fck 30 MPa atrasou 2 h; equipe de lançamento ficou ociosa.",
+  "photoIds": [
+   "0fc009c1-0652-5dac-b857-53c89aa1f7ff",
+   "2f0c45f2-da22-5748-a76b-f3fb3907bcd1"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 4200000,
+  "createdAt": "@h-1248",
+  "updatedAt": "@h-1248"
+ },
+ {
+  "id": "05813400-b592-5507-9378-6e21be271479",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-7",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 31,
+   "rainMm": 0
+  },
+  "headcountOwn": 18,
+  "headcountThird": 25,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+    "description": "Base do tanque TQ-07",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+    "description": "Base do tanque TQ-09",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Descarga de aço e conferência de romaneio.",
+  "photoIds": [
+   "73b9e35d-8b69-5c50-abef-40b691c04f75",
+   "6c0e360d-933b-517c-b1e2-f9a57d75c6b0",
+   "e3957054-cafb-593e-ad6b-d804d81159ff"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 5600000,
+  "createdAt": "@h-1992",
+  "updatedAt": "@h-1992"
+ },
+ {
+  "id": "41c81764-9a3a-55e6-b642-43ed70683e45",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-8",
+  "weather": {
+   "condition": "Chuva leve",
+   "tempC": 27,
+   "rainMm": 6
+  },
+  "headcountOwn": 16,
+  "headcountThird": 27,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+    "description": "Base do tanque TQ-07",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+    "description": "Base do tanque TQ-09",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Ensaio de rompimento de corpos de prova: resultados dentro do fck especificado.",
+  "photoIds": [
+   "743e8ec2-fb69-5e74-87b5-7275d3149789",
+   "d21e9579-7b88-5ea6-9d06-04005159df15"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 5500000,
+  "createdAt": "@h-840",
+  "updatedAt": "@h-840"
+ },
+ {
+  "id": "53adca8f-e976-5ba9-82d9-97de57ed7aa9",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-9",
+  "weather": {
+   "condition": "Nublado",
+   "tempC": 27,
+   "rainMm": 0
+  },
+  "headcountOwn": 18,
+  "headcountThird": 27,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+    "description": "Base do tanque TQ-07",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+    "description": "Base do tanque TQ-09",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Início da armação da base do TQ-09. Liberação do projeto de formas com revisão 02.",
+  "photoIds": [
+   "d0b13159-7699-5757-9c19-7890c40c297a",
+   "e9531d68-f372-510e-90d6-5abeebc89b78",
+   "9070028b-0097-5def-8c14-04929584b5d6"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 4700000,
+  "createdAt": "@h-1728",
+  "updatedAt": "@h-1728"
+ },
+ {
+  "id": "96cfa0c2-0af1-556a-af3f-69e5c3febbc9",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-10",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 27,
+   "rainMm": 0
+  },
+  "headcountOwn": 18,
+  "headcountThird": 27,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+    "description": "Base do tanque TQ-06",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+    "description": "Base do tanque TQ-07",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Descarga de aço e conferência de romaneio.",
+  "photoIds": [
+   "cf0133c8-37fe-5e61-9e54-d4d3786af3e5",
+   "50e1490c-48b5-5a40-acb3-df925690997a"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 4300000,
+  "createdAt": "@h-1848",
+  "updatedAt": "@h-1848"
+ },
+ {
+  "id": "70eb945a-03bf-59c7-a2e2-11e04c80ea50",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-11",
+  "weather": {
+   "condition": "Chuva leve",
+   "tempC": 23,
+   "rainMm": 6
+  },
+  "headcountOwn": 18,
+  "headcountThird": 23,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+    "description": "Base do tanque TQ-06",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+    "description": "Base do tanque TQ-07",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Terceiro de hidrantes iniciou a abertura de valas.",
+  "photoIds": [
+   "4997aee3-24b4-5f25-9be5-867a7f8749d1",
+   "41418184-05bc-5d9f-9b12-434ac9d5a0d4",
+   "cb2534ee-61d6-525a-896d-10de98807d7f"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 2800000,
+  "createdAt": "@h-2136",
+  "updatedAt": "@h-2136"
+ },
+ {
+  "id": "d1bf45cf-519f-56c6-beef-4593399ae133",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-12",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 28,
+   "rainMm": 0
+  },
+  "headcountOwn": 18,
+  "headcountThird": 23,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+    "description": "Base do tanque TQ-06",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+    "description": "Base do tanque TQ-07",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Ensaio de rompimento de corpos de prova: resultados dentro do fck especificado.",
+  "photoIds": [
+   "c68c48d8-2122-57ba-93d4-181508947e9d",
+   "41ce2d1a-6d5f-544c-9fa4-b97d295f14cc"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 3600000,
+  "createdAt": "@h-1776",
+  "updatedAt": "@h-1776"
+ },
+ {
+  "id": "82143150-ea19-5f5f-9c5d-6d3e0efb1554",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-13",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 31,
+   "rainMm": 0
+  },
+  "headcountOwn": 16,
+  "headcountThird": 25,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+    "description": "Base do tanque TQ-06",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+    "description": "Base do tanque TQ-07",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+    "description": "Base do tanque TQ-08",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Descarga de aço e conferência de romaneio.",
+  "photoIds": [
+   "5168e20e-7b8a-5e4c-8115-115cd345b565",
+   "a28d9716-78ab-5cc8-9254-119a29800a9e",
+   "1fc9b227-291c-55f1-a3e6-ce3b8c19a8bc"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 5300000,
+  "createdAt": "@h-744",
+  "updatedAt": "@h-744"
+ },
+ {
+  "id": "c2a1d50b-6d40-521a-af90-466b29112b39",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-14",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 30,
+   "rainMm": 0
+  },
+  "headcountOwn": 18,
+  "headcountThird": 25,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+    "description": "Base do tanque TQ-05",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+    "description": "Base do tanque TQ-06",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+    "description": "Base do tanque TQ-07",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "DDS sobre trabalho em altura e içamento de cargas.",
+  "photoIds": [
+   "021f3244-d140-5eef-925f-415435837c61",
+   "b21b681d-eaad-5ef2-9c17-745e602f8548"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 6200000,
+  "createdAt": "@h-552",
+  "updatedAt": "@h-552"
+ },
+ {
+  "id": "abc5ba5b-e4c7-5103-a207-020eee17de61",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-15",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 29,
+   "rainMm": 0
+  },
+  "headcountOwn": 18,
+  "headcountThird": 25,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+    "description": "Base do tanque TQ-05",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+    "description": "Base do tanque TQ-06",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+    "description": "Base do tanque TQ-07",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Frentes de tanques e bacia com ritmo normal.",
+  "photoIds": [
+   "c2086067-7ab8-549a-ba43-0c1762b29bc6",
+   "a33c8a0b-970e-543d-aae6-d330131ed16d",
+   "35449fed-f4a9-568c-8fb4-f9dc21f9c22a"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 5900000,
+  "createdAt": "@h-1824",
+  "updatedAt": "@h-1824"
+ },
+ {
+  "id": "ca9fa15a-e469-5dca-a77a-5a320ee796a7",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-16",
+  "weather": {
+   "condition": "Chuva leve",
+   "tempC": 23,
+   "rainMm": 6
+  },
+  "headcountOwn": 17,
+  "headcountThird": 23,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+    "description": "Base do tanque TQ-05",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+    "description": "Base do tanque TQ-06",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+    "description": "Base do tanque TQ-07",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "DDS sobre trabalho em altura e içamento de cargas.",
+  "photoIds": [
+   "34692606-e131-55f3-82bd-0549617d6064",
+   "82fac996-734a-5f96-b188-00ac47c35031"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 4000000,
+  "createdAt": "@h-72",
+  "updatedAt": "@h-72"
+ },
+ {
+  "id": "aa3ec29a-0b82-540f-92cb-220786fdd1c2",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-17",
+  "weather": {
+   "condition": "Ensolarado",
+   "tempC": 33,
+   "rainMm": 0
+  },
+  "headcountOwn": 18,
+  "headcountThird": 27,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+    "description": "Base do tanque TQ-05",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+    "description": "Base do tanque TQ-06",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+    "description": "Base do tanque TQ-07",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Terceiro de hidrantes iniciou a abertura de valas.",
+  "photoIds": [
+   "bfb99806-3d05-55aa-ac9d-624ae3cc24d6",
+   "93dd9eed-dacd-5eba-b27d-57e66fe45656",
+   "fed31a63-4e9e-5df3-925b-7cbdb07ca9b5"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 3900000,
+  "createdAt": "@h-1368",
+  "updatedAt": "@h-1368"
+ },
+ {
+  "id": "0fc2feeb-3be1-5a03-a535-655cb0a02f70",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-18",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 28,
+   "rainMm": 0
+  },
+  "headcountOwn": 16,
+  "headcountThird": 28,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+    "description": "Base do tanque TQ-04",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+    "description": "Base do tanque TQ-05",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+    "description": "Base do tanque TQ-06",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Frentes de tanques e bacia com ritmo normal.",
+  "photoIds": [
+   "f22a311f-98c6-560a-9918-cd7f71fc93cd",
+   "56ab93f8-773e-5f23-9451-5e173721c2fe"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 5700000,
+  "createdAt": "@h-2064",
+  "updatedAt": "@h-2064"
+ },
+ {
+  "id": "46987646-40cb-5688-a03b-ec6807cccf09",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-19",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 30,
+   "rainMm": 0
+  },
+  "headcountOwn": 17,
+  "headcountThird": 26,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+    "description": "Base do tanque TQ-04",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+    "description": "Base do tanque TQ-05",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+    "description": "Base do tanque TQ-06",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Ensaio de rompimento de corpos de prova: resultados dentro do fck especificado.",
+  "photoIds": [
+   "b526390b-eeb8-5d40-ab98-52032ddd33b0",
+   "7a98fc76-d254-5341-9cbd-9616a8fb6b0d",
+   "2e1f9c53-d962-513e-b38e-bd2e6e671ba9"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 2800000,
+  "createdAt": "@h-1968",
+  "updatedAt": "@h-1968"
+ },
+ {
+  "id": "29b4ef17-6677-51ac-93e6-42d7fd2266e2",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-20",
+  "weather": {
+   "condition": "Ensolarado",
+   "tempC": 30,
+   "rainMm": 0
+  },
+  "headcountOwn": 17,
+  "headcountThird": 28,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+    "description": "Base do tanque TQ-04",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+    "description": "Base do tanque TQ-05",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+    "description": "Base do tanque TQ-06",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Descarga de aço e conferência de romaneio.",
+  "photoIds": [
+   "858c2fe6-217d-540f-a839-5ccc7d4052ed",
+   "241dea3b-d370-53d6-a412-4f4e0bd85591"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 5700000,
+  "createdAt": "@h-600",
+  "updatedAt": "@h-600"
+ },
+ {
+  "id": "9cc8a832-d017-5c04-a1b1-62fc7384cf4f",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-21",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 31,
+   "rainMm": 0
+  },
+  "headcountOwn": 16,
+  "headcountThird": 28,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+    "description": "Base do tanque TQ-04",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+    "description": "Base do tanque TQ-05",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+    "description": "Base do tanque TQ-06",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Ensaio de rompimento de corpos de prova: resultados dentro do fck especificado.",
+  "photoIds": [
+   "5763af58-3454-5134-9346-01104a39b7c3",
+   "1afe2dbb-369e-5a62-9411-365ab027f264",
+   "8199b4e5-ec71-54f2-84b8-0dfedc8a31c5"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 3400000,
+  "createdAt": "@h-1320",
+  "updatedAt": "@h-1320"
+ },
+ {
+  "id": "fba710f1-698e-5c00-a24e-9532caedd2ea",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-22",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 28,
+   "rainMm": 0
+  },
+  "headcountOwn": 17,
+  "headcountThird": 27,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "049a971d-fe7b-5de9-87a6-5e6dff76642c",
+    "description": "Base do tanque TQ-03",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+    "description": "Base do tanque TQ-04",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+    "description": "Base do tanque TQ-05",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Terceiro de hidrantes iniciou a abertura de valas.",
+  "photoIds": [
+   "b4fcfcfd-f0ef-5dc9-bf3e-00966325a506",
+   "9c8c2523-3dc1-554b-b995-982563060ff5"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 3700000,
+  "createdAt": "@h-1296",
+  "updatedAt": "@h-1296"
+ },
+ {
+  "id": "f7dee5fe-d222-5dbb-a107-50145973e571",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-23",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 27,
+   "rainMm": 0
+  },
+  "headcountOwn": 17,
+  "headcountThird": 25,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "049a971d-fe7b-5de9-87a6-5e6dff76642c",
+    "description": "Base do tanque TQ-03",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+    "description": "Base do tanque TQ-04",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+    "description": "Base do tanque TQ-05",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Frentes de tanques e bacia com ritmo normal.",
+  "photoIds": [
+   "7f9b224c-7d29-5532-a744-5ed5f892895c",
+   "cca73e7d-760c-5158-a68b-f68b6eb9000f",
+   "5800b7be-f06d-5ef4-9c2a-b1f3230690ce"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 4000000,
+  "createdAt": "@h-1800",
+  "updatedAt": "@h-1800"
+ },
+ {
+  "id": "4cae852b-90e8-57c7-8ab6-cc0fbe986482",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-24",
+  "weather": {
+   "condition": "Chuva leve",
+   "tempC": 23,
+   "rainMm": 6
+  },
+  "headcountOwn": 16,
+  "headcountThird": 28,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "049a971d-fe7b-5de9-87a6-5e6dff76642c",
+    "description": "Base do tanque TQ-03",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+    "description": "Base do tanque TQ-04",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+    "description": "Base do tanque TQ-05",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Descarga de aço e conferência de romaneio.",
+  "photoIds": [
+   "4faebbbb-67f1-5183-9461-46b732ef6c3e",
+   "f47ca40f-2358-56cc-8457-8ad3aae4ba99"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 5800000,
+  "createdAt": "@h-792",
+  "updatedAt": "@h-792"
+ },
+ {
+  "id": "b54a2862-1832-5d73-968a-57841f4c8a0c",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "date": "@d-25",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 27,
+   "rainMm": 0
+  },
+  "headcountOwn": 16,
+  "headcountThird": 23,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "049a971d-fe7b-5de9-87a6-5e6dff76642c",
+    "description": "Base do tanque TQ-03",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+    "description": "Base do tanque TQ-04",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+    "description": "Base do tanque TQ-05",
+    "quantity": 1,
+    "unit": "un"
+   }
+  ],
+  "incidents": null,
+  "notes": "Ensaio de rompimento de corpos de prova: resultados dentro do fck especificado.",
+  "photoIds": [
+   "53264add-7fea-5233-8411-0975b2482f66",
+   "090edbd4-aa2c-5cc6-a1f4-384656a54440",
+   "3ae594c2-2649-53fd-acaa-31d740cf04f7",
+   "074a9f2e-04f0-5b4f-8eea-057fc326ced2",
+   "2ef9b064-1bea-5149-b5f0-26f8d90cc193",
+   "4342b18a-f49d-5c50-9ac5-0d0ab1960f59",
+   "587eac2f-e84c-5346-847c-53b9945bf36b",
+   "4d697f6d-7139-56ec-8d20-fa4ea3ea8ed5",
+   "1debe91c-03c3-505a-ac47-bb7a159cbf27",
+   "f8138168-5da4-5d89-8b9a-54f6e87c20c4"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 3200000,
+  "createdAt": "@h-288",
+  "updatedAt": "@h-288"
+ },
+ {
+  "id": "5e4defdf-46c7-5c47-b33b-3fdf5b21071f",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "date": "@d-1",
+  "weather": {
+   "condition": "Ensolarado",
+   "tempC": 29,
+   "rainMm": 0
+  },
+  "headcountOwn": 9,
+  "headcountThird": 9,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "a636784c-524f-5235-9082-8d902619e25a",
+    "description": "Piso de concreto polido",
+    "quantity": 286.1,
+    "unit": "m²"
+   },
+   {
+    "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+    "description": "Substituição de telhas, calhas e rufos",
+    "quantity": 76.6,
+    "unit": "m²"
+   },
+   {
+    "eapItemId": "180033a4-0ae1-5246-a310-ff3b8a9d7d51",
+    "description": "Instalações elétricas e SPDA",
+    "quantity": 1,
+    "unit": "vb"
+   }
+  ],
+  "incidents": null,
+  "notes": "Piso polido: 3ª faixa concluída. Aguardando cura para início do corte de juntas.",
+  "photoIds": [
+   "7bca45cc-8eb0-557b-be36-398e26b6a58c",
+   "4f7ceb52-ffc7-5de1-840c-707efd5c37f8",
+   "d1d1ab5a-066a-5d90-955f-2cc82280bd38"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 2200000,
+  "createdAt": "@h-936",
+  "updatedAt": "@h-936"
+ },
+ {
+  "id": "0a5b7629-7ba8-5c85-bde4-30d2644ad9ec",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "date": "@d-2",
+  "weather": {
+   "condition": "Ensolarado",
+   "tempC": 30,
+   "rainMm": 0
+  },
+  "headcountOwn": 7,
+  "headcountThird": 7,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "a636784c-524f-5235-9082-8d902619e25a",
+    "description": "Piso de concreto polido",
+    "quantity": 272.0,
+    "unit": "m²"
+   },
+   {
+    "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+    "description": "Substituição de telhas, calhas e rufos",
+    "quantity": 74.6,
+    "unit": "m²"
+   },
+   {
+    "eapItemId": "180033a4-0ae1-5246-a310-ff3b8a9d7d51",
+    "description": "Instalações elétricas e SPDA",
+    "quantity": 1,
+    "unit": "vb"
+   }
+  ],
+  "incidents": null,
+  "notes": "Entrega de telhas e rufos conferida.",
+  "photoIds": [
+   "142d10dc-c850-5131-bd89-68f6948246db",
+   "2f5a7f8d-def6-5c84-8ae1-a176f62eb346"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1800000,
+  "createdAt": "@h-1656",
+  "updatedAt": "@h-1656"
+ },
+ {
+  "id": "bf8b2d4d-8d4c-511a-bbca-0f80f32583a7",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "date": "@d-3",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 27,
+   "rainMm": 0
+  },
+  "headcountOwn": 8,
+  "headcountThird": 9,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "a636784c-524f-5235-9082-8d902619e25a",
+    "description": "Piso de concreto polido",
+    "quantity": 388.3,
+    "unit": "m²"
+   },
+   {
+    "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+    "description": "Substituição de telhas, calhas e rufos",
+    "quantity": 63.2,
+    "unit": "m²"
+   },
+   {
+    "eapItemId": "180033a4-0ae1-5246-a310-ff3b8a9d7d51",
+    "description": "Instalações elétricas e SPDA",
+    "quantity": 1,
+    "unit": "vb"
+   }
+  ],
+  "incidents": null,
+  "notes": "Reforço do pilar P12 com encamisamento: armadura corroída além do previsto, projetista acionado.",
+  "photoIds": [
+   "5c59ba4a-9694-5092-b2dc-ebbce3b9c873",
+   "d892d6d4-7689-595c-8ef9-9729d9563a82",
+   "8b42be46-81a4-5c2b-942e-a14b463dd86d"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1900000,
+  "createdAt": "@h-1416",
+  "updatedAt": "@h-1416"
+ },
+ {
+  "id": "ff619f1f-4457-5855-857f-5772403ceb08",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "date": "@d-4",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 30,
+   "rainMm": 0
+  },
+  "headcountOwn": 9,
+  "headcountThird": 8,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "a636784c-524f-5235-9082-8d902619e25a",
+    "description": "Piso de concreto polido",
+    "quantity": 436.4,
+    "unit": "m²"
+   },
+   {
+    "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+    "description": "Substituição de telhas, calhas e rufos",
+    "quantity": 82.2,
+    "unit": "m²"
+   },
+   {
+    "eapItemId": "180033a4-0ae1-5246-a310-ff3b8a9d7d51",
+    "description": "Instalações elétricas e SPDA",
+    "quantity": 1,
+    "unit": "vb"
+   }
+  ],
+  "incidents": null,
+  "notes": "Inspeção das calhas com o fiscal do contratante.",
+  "photoIds": [
+   "82b48570-cefb-5197-95ca-26e00ff0faff",
+   "6b563456-3ddb-5bbd-803f-ed48e9af0a67"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 2200000,
+  "createdAt": "@h-1176",
+  "updatedAt": "@h-1176"
+ },
+ {
+  "id": "6cb98138-9ffa-525f-b715-3c4b3297f482",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "date": "@d-5",
+  "weather": {
+   "condition": "Ensolarado",
+   "tempC": 29,
+   "rainMm": 0
+  },
+  "headcountOwn": 8,
+  "headcountThird": 4,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "a636784c-524f-5235-9082-8d902619e25a",
+    "description": "Piso de concreto polido",
+    "quantity": 260.5,
+    "unit": "m²"
+   },
+   {
+    "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+    "description": "Substituição de telhas, calhas e rufos",
+    "quantity": 57.0,
+    "unit": "m²"
+   },
+   {
+    "eapItemId": "180033a4-0ae1-5246-a310-ff3b8a9d7d51",
+    "description": "Instalações elétricas e SPDA",
+    "quantity": 1,
+    "unit": "vb"
+   }
+  ],
+  "incidents": null,
+  "notes": "DDS sobre trabalho em altura.",
+  "photoIds": [
+   "d82756b6-8a46-5689-b3b6-2f0d7352a705",
+   "265f3098-083a-554f-aa26-8d6381b47af6",
+   "6b86fff1-6dc6-52f2-8d7a-9b0603d87d73"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1000000,
+  "createdAt": "@h-432",
+  "updatedAt": "@h-432"
+ },
+ {
+  "id": "ceddd88e-d343-5487-af22-b86705167326",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "date": "@d-6",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 31,
+   "rainMm": 0
+  },
+  "headcountOwn": 8,
+  "headcountThird": 4,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+    "description": "Tratamento de fissuras e juntas",
+    "quantity": 39.5,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "a636784c-524f-5235-9082-8d902619e25a",
+    "description": "Piso de concreto polido",
+    "quantity": 342.4,
+    "unit": "m²"
+   },
+   {
+    "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+    "description": "Substituição de telhas, calhas e rufos",
+    "quantity": 97.2,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "Inspeção das calhas com o fiscal do contratante.",
+  "photoIds": [
+   "3b862e73-725f-5384-a34f-8fac029a83ff",
+   "612068e4-9b97-5521-ba22-42dd43f3f688"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1800000,
+  "createdAt": "@h-1656",
+  "updatedAt": "@h-1656"
+ },
+ {
+  "id": "b9993e23-71d6-5a8c-a2c7-853db691e03e",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "date": "@d-7",
+  "weather": {
+   "condition": "Ensolarado",
+   "tempC": 31,
+   "rainMm": 0
+  },
+  "headcountOwn": 9,
+  "headcountThird": 5,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+    "description": "Tratamento de fissuras e juntas",
+    "quantity": 59.4,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+    "description": "Substituição de telhas, calhas e rufos",
+    "quantity": 97.3,
+    "unit": "m²"
+   },
+   {
+    "eapItemId": "180033a4-0ae1-5246-a310-ff3b8a9d7d51",
+    "description": "Instalações elétricas e SPDA",
+    "quantity": 1,
+    "unit": "vb"
+   }
+  ],
+  "incidents": null,
+  "notes": "Inspeção das calhas com o fiscal do contratante.",
+  "photoIds": [
+   "3d35deee-e960-5856-a4e4-b28fd8909c0f",
+   "4cd00484-f248-5beb-9d12-ea4d8956a60d",
+   "64ac0863-d69c-504b-8ecc-8eb65f027071"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1400000,
+  "createdAt": "@h-1728",
+  "updatedAt": "@h-1728"
+ },
+ {
+  "id": "54502b09-7fc3-5841-be85-909bfaa4b59f",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "date": "@d-8",
+  "weather": {
+   "condition": "Nublado",
+   "tempC": 27,
+   "rainMm": 0
+  },
+  "headcountOwn": 9,
+  "headcountThird": 6,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "4c9719e7-5d4a-589e-b587-4f9b19645a5e",
+    "description": "Reforço de pilares e vigas",
+    "quantity": 10.9,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+    "description": "Tratamento de fissuras e juntas",
+    "quantity": 67.4,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+    "description": "Substituição de telhas, calhas e rufos",
+    "quantity": 108.6,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "DDS sobre trabalho em altura.",
+  "photoIds": [
+   "aa704c75-c0bd-51a2-97c2-05822b54d3b8",
+   "8f7be40e-b22b-5029-8aa7-3e5f205cfb7d"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1100000,
+  "createdAt": "@h-624",
+  "updatedAt": "@h-624"
+ },
+ {
+  "id": "dbf80b4d-bf45-59c1-80ab-97c03c0f8052",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "date": "@d-9",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 28,
+   "rainMm": 0
+  },
+  "headcountOwn": 9,
+  "headcountThird": 8,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "4c9719e7-5d4a-589e-b587-4f9b19645a5e",
+    "description": "Reforço de pilares e vigas",
+    "quantity": 22.6,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+    "description": "Tratamento de fissuras e juntas",
+    "quantity": 36.9,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+    "description": "Substituição de telhas, calhas e rufos",
+    "quantity": 73.7,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "Frentes de piso e cobertura com ritmo normal.",
+  "photoIds": [
+   "08af23cb-9df9-5849-99ab-bacc14915c14",
+   "7eff65cb-4d39-504b-8fc7-79df9f066ab9",
+   "6315ca58-b15e-58ce-bb66-5e8e67568e9e"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 900000,
+  "createdAt": "@h-1176",
+  "updatedAt": "@h-1176"
+ },
+ {
+  "id": "9b2a7bd8-0f9c-54a4-8cd0-2231e2051dc4",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "date": "@d-10",
+  "weather": {
+   "condition": "Nublado",
+   "tempC": 29,
+   "rainMm": 0
+  },
+  "headcountOwn": 8,
+  "headcountThird": 6,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "4c9719e7-5d4a-589e-b587-4f9b19645a5e",
+    "description": "Reforço de pilares e vigas",
+    "quantity": 18.4,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+    "description": "Tratamento de fissuras e juntas",
+    "quantity": 48.5,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+    "description": "Substituição de telhas, calhas e rufos",
+    "quantity": 105.2,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "Frentes de piso e cobertura com ritmo normal.",
+  "photoIds": [
+   "76ddce65-d7f9-57e3-8de6-913d6bd33d38",
+   "1fb06f80-181d-5bac-924b-32475495a09f"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1100000,
+  "createdAt": "@h-1800",
+  "updatedAt": "@h-1800"
+ },
+ {
+  "id": "bd881d16-51c2-53d7-b77c-acb99598d035",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "date": "@d-11",
+  "weather": {
+   "condition": "Nublado",
+   "tempC": 26,
+   "rainMm": 0
+  },
+  "headcountOwn": 8,
+  "headcountThird": 4,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "4c9719e7-5d4a-589e-b587-4f9b19645a5e",
+    "description": "Reforço de pilares e vigas",
+    "quantity": 12.1,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+    "description": "Tratamento de fissuras e juntas",
+    "quantity": 33.7,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+    "description": "Substituição de telhas, calhas e rufos",
+    "quantity": 104.3,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "Frentes de piso e cobertura com ritmo normal.",
+  "photoIds": [
+   "de8f6111-0d35-5002-8ac7-e4eca6da7c9a",
+   "54f2f2cc-f726-5623-8eca-fbdeea7ddd74",
+   "5d2f9b41-90c5-5a6b-a5e0-7b68a00ce631"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1800000,
+  "createdAt": "@h-2112",
+  "updatedAt": "@h-2112"
+ },
+ {
+  "id": "3da16f29-d211-51fe-965f-37718c4d351d",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "date": "@d-12",
+  "weather": {
+   "condition": "Ensolarado",
+   "tempC": 32,
+   "rainMm": 0
+  },
+  "headcountOwn": 7,
+  "headcountThird": 8,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "4c9719e7-5d4a-589e-b587-4f9b19645a5e",
+    "description": "Reforço de pilares e vigas",
+    "quantity": 15.0,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+    "description": "Tratamento de fissuras e juntas",
+    "quantity": 44.4,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+    "description": "Substituição de telhas, calhas e rufos",
+    "quantity": 103.2,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "Inspeção das calhas com o fiscal do contratante.",
+  "photoIds": [
+   "a10df9c9-137d-51e0-b345-91524d33410c",
+   "301db05d-8f78-526d-b28d-51fc6b900a05"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1700000,
+  "createdAt": "@h-1632",
+  "updatedAt": "@h-1632"
+ },
+ {
+  "id": "19234b8d-5053-5828-8cc1-8a2f71da343c",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "date": "@d-1",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 27,
+   "rainMm": 0
+  },
+  "headcountOwn": 7,
+  "headcountThird": 7,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+    "description": "Escavação e canaletas",
+    "quantity": 14.0,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+    "description": "Caixas separadoras e interligações",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+    "description": "Piso industrial do parque de tanques",
+    "quantity": 50.4,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "Canaletas do eixo C entregues para teste de estanqueidade.",
+  "photoIds": [
+   "8e2cbee9-fd02-5db5-9f64-ee8d8d5aff65",
+   "63b37ea7-2ead-5783-8437-49c7aa61d5fa",
+   "96bfc97d-7346-5392-8b73-f93e66e3365d"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1000000,
+  "createdAt": "@h-744",
+  "updatedAt": "@h-744"
+ },
+ {
+  "id": "6e75f166-498e-5b93-8800-a31a41744733",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "date": "@d-2",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 29,
+   "rainMm": 0
+  },
+  "headcountOwn": 6,
+  "headcountThird": 2,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+    "description": "Escavação e canaletas",
+    "quantity": 15.4,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+    "description": "Caixas separadoras e interligações",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+    "description": "Piso industrial do parque de tanques",
+    "quantity": 76.8,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "Conferência de armaduras antes da concretagem.",
+  "photoIds": [
+   "7ac5831a-ecb9-5135-9238-bbc2ad22ab13",
+   "a6e1ed4f-f8ef-5fed-8013-cb9b5977595e"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1500000,
+  "createdAt": "@h-264",
+  "updatedAt": "@h-264"
+ },
+ {
+  "id": "ca3bd5b9-85f9-5aea-8d43-5c8e763d8402",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "date": "@d-3",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 31,
+   "rainMm": 0
+  },
+  "headcountOwn": 7,
+  "headcountThird": 2,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+    "description": "Escavação e canaletas",
+    "quantity": 15.7,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+    "description": "Caixas separadoras e interligações",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+    "description": "Piso industrial do parque de tanques",
+    "quantity": 57.3,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "DDS sobre escavações e interferências.",
+  "photoIds": [
+   "6f722d3a-f417-5d15-b462-6bcc2df57291",
+   "185f32fe-a5f0-5e46-96fb-80f9702be8b8",
+   "b59da222-087e-595b-bcb5-5dc922c9707f"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1600000,
+  "createdAt": "@h-1032",
+  "updatedAt": "@h-1032"
+ },
+ {
+  "id": "fc227ced-75bc-5b5b-83ae-ad1f478e9a6b",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "date": "@d-4",
+  "weather": {
+   "condition": "Chuva leve",
+   "tempC": 24,
+   "rainMm": 6
+  },
+  "headcountOwn": 5,
+  "headcountThird": 6,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+    "description": "Escavação e canaletas",
+    "quantity": 10.2,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+    "description": "Caixas separadoras e interligações",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+    "description": "Piso industrial do parque de tanques",
+    "quantity": 51.3,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "Conferência de armaduras antes da concretagem.",
+  "photoIds": [
+   "7f188d6d-5577-57d6-a337-2ae9658f9429",
+   "08e452f3-8bea-54c7-9e29-5a6b1ba70218"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 2000000,
+  "createdAt": "@h-1896",
+  "updatedAt": "@h-1896"
+ },
+ {
+  "id": "bc29f117-d6d1-55f0-b12c-66b6cece404b",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "date": "@d-5",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 31,
+   "rainMm": 0
+  },
+  "headcountOwn": 5,
+  "headcountThird": 7,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+    "description": "Escavação e canaletas",
+    "quantity": 13.0,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+    "description": "Caixas separadoras e interligações",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+    "description": "Piso industrial do parque de tanques",
+    "quantity": 56.1,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "Frentes de canaletas e piso com ritmo normal.",
+  "photoIds": [
+   "6d272761-83c2-56b5-9df1-f5ea9d71c172",
+   "20646b4a-8fad-5b81-acfe-7d7fefbcc514",
+   "2c070df7-77c4-50ca-b350-fdb63acf396a"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1400000,
+  "createdAt": "@h-1440",
+  "updatedAt": "@h-1440"
+ },
+ {
+  "id": "34c44db1-46f2-5d25-961c-b9543020f66c",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "date": "@d-6",
+  "weather": {
+   "condition": "Ensolarado",
+   "tempC": 32,
+   "rainMm": 0
+  },
+  "headcountOwn": 5,
+  "headcountThird": 7,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+    "description": "Escavação e canaletas",
+    "quantity": 14.7,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+    "description": "Caixas separadoras e interligações",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+    "description": "Piso industrial do parque de tanques",
+    "quantity": 77.9,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "DDS sobre escavações e interferências.",
+  "photoIds": [
+   "a644bf85-eff3-5c39-89ac-5f39f16b9d27",
+   "874b2270-b760-52cf-81fc-863ed9ca73eb"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1200000,
+  "createdAt": "@h-192",
+  "updatedAt": "@h-192"
+ },
+ {
+  "id": "b8aa949d-c546-5678-ba30-9d267d846bc3",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "date": "@d-7",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 28,
+   "rainMm": 0
+  },
+  "headcountOwn": 7,
+  "headcountThird": 3,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+    "description": "Escavação e canaletas",
+    "quantity": 11.0,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+    "description": "Caixas separadoras e interligações",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+    "description": "Piso industrial do parque de tanques",
+    "quantity": 41.5,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "DDS sobre escavações e interferências.",
+  "photoIds": [
+   "e5b1c2e8-ab12-5014-b083-18e3a05f1ba5",
+   "ac52c3ce-ba62-5ad2-9a8d-60297ff55aac",
+   "e6383058-1bcd-5934-82ec-bc1a4a0ac7f7"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 1900000,
+  "createdAt": "@h-936",
+  "updatedAt": "@h-936"
+ },
+ {
+  "id": "966e2af5-359a-5c08-bb06-9cffd48e3a01",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "date": "@d-8",
+  "weather": {
+   "condition": "Parcialmente nublado",
+   "tempC": 30,
+   "rainMm": 0
+  },
+  "headcountOwn": 7,
+  "headcountThird": 2,
+  "startTime": "07:00",
+  "endTime": "17:00",
+  "services": [
+   {
+    "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+    "description": "Escavação e canaletas",
+    "quantity": 19.5,
+    "unit": "m"
+   },
+   {
+    "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+    "description": "Caixas separadoras e interligações",
+    "quantity": 1,
+    "unit": "un"
+   },
+   {
+    "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+    "description": "Piso industrial do parque de tanques",
+    "quantity": 67.9,
+    "unit": "m²"
+   }
+  ],
+  "incidents": null,
+  "notes": "Conferência de armaduras antes da concretagem.",
+  "photoIds": [
+   "aeb3f024-5e66-5611-8c30-f834967597b8",
+   "0b597f51-b1ab-58ca-8eda-561c0cff2178"
+  ],
+  "authorId": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "dayCostCents": 900000,
+  "createdAt": "@h-2040",
+  "updatedAt": "@h-2040"
+ }
+]

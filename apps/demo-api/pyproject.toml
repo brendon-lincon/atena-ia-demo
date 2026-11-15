@@ -1,0 +1,12 @@
+[project]
+name = "atena-demo-api"
+version = "0.0.0"
+description = "Back-end provisório da demonstração (descartável); o contrato /api/v1 é que sobrevive."
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.162",
+    "uvicorn[standard]>=0.40",
+]
+
+[dependency-groups]
+dev = ["ruff>=0.15"]

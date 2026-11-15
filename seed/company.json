@@ -1,0 +1,37 @@
+[
+ {
+  "id": "6cb14591-fdd3-5028-8ae2-58117423c429",
+  "name": "CGA Acabamentos",
+  "legalName": "CGA Acabamentos e Construções Ltda.",
+  "cnpj": "12.345.678/0001-00",
+  "address": {
+   "street": "Rua Dom Aquino, 1850, sala 402",
+   "district": "Centro",
+   "city": "Campo Grande",
+   "state": "MS",
+   "zip": "79002-181"
+  },
+  "phone": "(67) 3321-4400",
+  "email": "contato@cgaacabamentos.example",
+  "website": "www.cgaacabamentos.example",
+  "technicalResponsible": {
+   "name": "Robson Carvalho",
+   "title": "Engenheiro Civil",
+   "council": "CREA-MS",
+   "registration": "12345/D"
+  },
+  "identity": {
+   "primaryColor": "#154470",
+   "accentColor": "#2F6AA3",
+   "logoText": "CGA",
+   "headerNote": "Obras industriais · Reformas · Serviços civis",
+   "footerNote": "CGA Acabamentos e Construções Ltda. · CNPJ 12.345.678/0001-00 · Campo Grande/MS"
+  },
+  "latitude": -20.4628,
+  "longitude": -54.6153,
+  "foundedYear": 2009,
+  "taxRegime": "Lucro presumido",
+  "createdAt": "@h-240",
+  "updatedAt": "@h-240"
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "afterSeconds": 14,
+  "notification": {
+   "title": "Mensagem de Ricardo Menezes",
+   "body": "Pode confirmar o envio da medição nº 4?",
+   "kind": "message",
+   "link": "/conversations"
+  }
+ },
+ {
+  "afterSeconds": 38,
+  "notification": {
+   "title": "Novo apontamento do Olhar de Atena",
+   "body": "Previsão de chuva forte na quinta-feira.",
+   "kind": "insight",
+   "link": "/athena-watch"
+  }
+ },
+ {
+  "afterSeconds": 75,
+  "notification": {
+   "title": "Cotação recebida",
+   "body": "Aço Brasil respondeu à requisição de CA-50 12,5 mm.",
+   "kind": "message",
+   "link": "/procurement"
+  }
+ }
+]
