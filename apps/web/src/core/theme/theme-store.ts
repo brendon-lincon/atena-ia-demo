@@ -10,7 +10,8 @@ interface ThemeState {
 
 function initialMode(): ThemeMode {
   const stored = readPreference('theme');
-  return stored === 'light' || stored === 'dark' ? stored : 'system';
+  // Sem preferência salva, a interface abre no modo claro (e não segue o tema do sistema).
+  return stored === 'light' || stored === 'dark' || stored === 'system' ? stored : 'light';
 }
 
 function apply(mode: ThemeMode): void {
