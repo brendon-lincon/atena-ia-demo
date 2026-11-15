@@ -1,0 +1,758 @@
+[
+ {
+  "id": "7925dac0-5b44-50b9-9eec-192db0a7638e",
+  "templateId": "b42dd98a-9bf2-5616-b018-d8836d74d96d",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "type": "memorial",
+  "title": "Memorial descritivo — Reforma da Base Cuiabá",
+  "number": "MEM-2026-001",
+  "version": 2,
+  "status": "issued",
+  "issuedAt": "@d-120",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "MEMORIAL DESCRITIVO — Reforma da Base Cuiabá"
+   },
+   {
+    "type": "paragraph",
+    "text": "1. OBJETO\nO presente memorial descreve os serviços de Reforma da Base Cuiabá da obra Reforma da Base Cuiabá, localizada em Cuiabá/MT, contratada por Atlas Distribuidora de Combustíveis S.A.."
+   },
+   {
+    "type": "paragraph",
+    "text": "2. DESCRIÇÃO DOS SERVIÇOS\n1. Demolições e remoções\n2. Recuperação estrutural\n3. Piso industrial\n4. Cobertura e calhas\n5. Instalações elétricas\n6. Instalações hidráulicas e combate a incêndio\n7. Pintura e acabamento\n8. Urbanização e sinalização"
+   },
+   {
+    "type": "paragraph",
+    "text": "3. NORMAS APLICÁVEIS\nOs serviços serão executados conforme as normas da ABNT aplicáveis, com destaque para NBR 6118, NBR 17505 e NBR 5410, e as Normas Regulamentadoras de segurança e saúde no trabalho, em especial a NR-18."
+   },
+   {
+    "type": "paragraph",
+    "text": "4. MATERIAIS E CONTROLE TECNOLÓGICO\nOs materiais serão recebidos mediante conferência de nota fiscal e certificado. O concreto estrutural terá controle de resistência por corpos de prova, conforme o plano de controle tecnológico da obra."
+   },
+   {
+    "type": "paragraph",
+    "text": "5. RESPONSABILIDADE TÉCNICA\nResponsável técnico: Antônio Carvalho — CREA-MS 12345/D."
+   },
+   {
+    "type": "signature",
+    "text": "Antônio Carvalho\nResponsável técnico"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-2880",
+  "updatedAt": "@h-2880"
+ },
+ {
+  "id": "3260cbaf-7315-5766-bf11-9dd7d5a00e4a",
+  "templateId": "b42dd98a-9bf2-5616-b018-d8836d74d96d",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "type": "memorial",
+  "title": "Memorial descritivo — Serviços civis do parque de tanques",
+  "number": "MEM-2026-002",
+  "version": 3,
+  "status": "issued",
+  "issuedAt": "@d-70",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "MEMORIAL DESCRITIVO — Serviços civis — Parque de tanques (Vértice)"
+   },
+   {
+    "type": "paragraph",
+    "text": "1. OBJETO\nO presente memorial descreve os serviços de Serviços civis do parque de tanques da obra Serviços civis — Parque de tanques (Vértice), localizada em Candeias/BA, contratada por Vértice Montagens Industriais Ltda.."
+   },
+   {
+    "type": "paragraph",
+    "text": "2. DESCRIÇÃO DOS SERVIÇOS\n1. Bases de bombas e skids\n2. Canaletas e drenagem oleosa\n3. Pisos industriais\n4. Muretas e calçadas\n5. Fundações de suportes de tubulação"
+   },
+   {
+    "type": "paragraph",
+    "text": "3. NORMAS APLICÁVEIS\nOs serviços serão executados conforme as normas da ABNT aplicáveis, com destaque para NBR 6118, NBR 17505 e NBR 5410, e as Normas Regulamentadoras de segurança e saúde no trabalho, em especial a NR-18."
+   },
+   {
+    "type": "paragraph",
+    "text": "4. MATERIAIS E CONTROLE TECNOLÓGICO\nOs materiais serão recebidos mediante conferência de nota fiscal e certificado. O concreto estrutural terá controle de resistência por corpos de prova, conforme o plano de controle tecnológico da obra."
+   },
+   {
+    "type": "paragraph",
+    "text": "5. RESPONSABILIDADE TÉCNICA\nResponsável técnico: Antônio Carvalho — CREA-MS 12345/D."
+   },
+   {
+    "type": "signature",
+    "text": "Antônio Carvalho\nResponsável técnico"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-1680",
+  "updatedAt": "@h-1680"
+ },
+ {
+  "id": "8b925e33-8e38-5a9a-b67e-b39c47282ce1",
+  "templateId": "b42dd98a-9bf2-5616-b018-d8836d74d96d",
+  "obraId": "34ef7dc7-2814-5072-a190-446ced6d26ad",
+  "type": "memorial",
+  "title": "Memorial descritivo — Base de Distribuição Paulínia",
+  "number": "MEM-2026-003",
+  "version": 1,
+  "status": "issued",
+  "issuedAt": "@d-400",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "MEMORIAL DESCRITIVO — Base de Distribuição Paulínia"
+   },
+   {
+    "type": "paragraph",
+    "text": "1. OBJETO\nO presente memorial descreve os serviços de Base de Distribuição Paulínia da obra Base de Distribuição Paulínia, localizada em Paulínia/SP, contratada por Atlas Distribuidora de Combustíveis S.A.."
+   },
+   {
+    "type": "paragraph",
+    "text": "2. DESCRIÇÃO DOS SERVIÇOS\n1. Terraplenagem\n2. Bases e bacia de contenção\n3. Edificações e plataformas\n4. Instalações\n5. Pavimentação e comissionamento"
+   },
+   {
+    "type": "paragraph",
+    "text": "3. NORMAS APLICÁVEIS\nOs serviços serão executados conforme as normas da ABNT aplicáveis, com destaque para NBR 6118, NBR 17505 e NBR 5410, e as Normas Regulamentadoras de segurança e saúde no trabalho, em especial a NR-18."
+   },
+   {
+    "type": "paragraph",
+    "text": "4. MATERIAIS E CONTROLE TECNOLÓGICO\nOs materiais serão recebidos mediante conferência de nota fiscal e certificado. O concreto estrutural terá controle de resistência por corpos de prova, conforme o plano de controle tecnológico da obra."
+   },
+   {
+    "type": "paragraph",
+    "text": "5. RESPONSABILIDADE TÉCNICA\nResponsável técnico: Antônio Carvalho — CREA-MS 12345/D."
+   },
+   {
+    "type": "signature",
+    "text": "Antônio Carvalho\nResponsável técnico"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-9600",
+  "updatedAt": "@h-9600"
+ },
+ {
+  "id": "4a7e121a-593f-5d22-82a2-d1913aab4d68",
+  "templateId": "a56d5698-ee24-598d-a68a-117d079c6fe6",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "type": "contract",
+  "title": "Contrato de empreitada — Base de Distribuição Candeias",
+  "number": "CON-2026-004",
+  "version": 2,
+  "status": "issued",
+  "issuedAt": "@d-125",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "CONTRATO DE EMPREITADA Nº 004/2026"
+   },
+   {
+    "type": "paragraph",
+    "text": "CONTRATANTE: Atlas Distribuidora de Combustíveis S.A..\nCONTRATADA: CGA Acabamentos e Construções Ltda., CNPJ 12.345.678/0001-00, com sede em Campo Grande/MS."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 1ª — DO OBJETO\nA CONTRATADA executará, em regime de empreitada por preço global, a obra Base de Distribuição Candeias, em Candeias/BA, conforme projetos, memoriais e planilha contratual."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 2ª — DO PREÇO E DO PAGAMENTO\nO preço global é de R$ 18.400.000,00. O pagamento será feito por medição mensal, em até 30 (trinta) dias após a emissão da nota fiscal, com retenção contratual de 5%."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 3ª — DO PRAZO\nA obra será executada entre conforme cronograma e conforme cronograma, salvo prorrogações formalizadas por aditivo."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 4ª — DO REAJUSTE\nO preço será reajustado anualmente pelo índice INCC-M, a contar da data-base da proposta."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 5ª — DA RESPONSABILIDADE TÉCNICA E DA SEGURANÇA\nA CONTRATADA manterá responsável técnico habilitado, com ART registrada, e cumprirá as Normas Regulamentadoras de segurança e saúde no trabalho aplicáveis."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 6ª — DA GARANTIA\nA CONTRATADA oferece garantia de 5% do valor do contrato, nos termos da lei civil para o contrato de empreitada."
+   },
+   {
+    "type": "signature",
+    "text": "CGA Acabamentos e Construções Ltda.\nContratada"
+   },
+   {
+    "type": "signature",
+    "text": "Atlas Distribuidora de Combustíveis S.A.\nContratante"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-3000",
+  "updatedAt": "@h-3000"
+ },
+ {
+  "id": "828e3042-543b-56a5-a7f9-df162dfd192a",
+  "templateId": "a56d5698-ee24-598d-a68a-117d079c6fe6",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "type": "contract",
+  "title": "Contrato de empreitada — Reforma da Base Cuiabá",
+  "number": "CON-2026-005",
+  "version": 3,
+  "status": "issued",
+  "issuedAt": "@d-95",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "CONTRATO DE EMPREITADA Nº 005/2026"
+   },
+   {
+    "type": "paragraph",
+    "text": "CONTRATANTE: Atlas Distribuidora de Combustíveis S.A..\nCONTRATADA: CGA Acabamentos e Construções Ltda., CNPJ 12.345.678/0001-00, com sede em Campo Grande/MS."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 1ª — DO OBJETO\nA CONTRATADA executará, em regime de empreitada por preço global, a obra Reforma da Base Cuiabá, em Cuiabá/MT, conforme projetos, memoriais e planilha contratual."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 2ª — DO PREÇO E DO PAGAMENTO\nO preço global é de R$ 3.200.000,00. O pagamento será feito por medição mensal, em até 30 (trinta) dias após a emissão da nota fiscal, com retenção contratual de 5%."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 3ª — DO PRAZO\nA obra será executada entre conforme cronograma e conforme cronograma, salvo prorrogações formalizadas por aditivo."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 4ª — DO REAJUSTE\nO preço será reajustado anualmente pelo índice INCC-M, a contar da data-base da proposta."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 5ª — DA RESPONSABILIDADE TÉCNICA E DA SEGURANÇA\nA CONTRATADA manterá responsável técnico habilitado, com ART registrada, e cumprirá as Normas Regulamentadoras de segurança e saúde no trabalho aplicáveis."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 6ª — DA GARANTIA\nA CONTRATADA oferece garantia de 5% do valor do contrato, nos termos da lei civil para o contrato de empreitada."
+   },
+   {
+    "type": "signature",
+    "text": "CGA Acabamentos e Construções Ltda.\nContratada"
+   },
+   {
+    "type": "signature",
+    "text": "Atlas Distribuidora de Combustíveis S.A.\nContratante"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-2280",
+  "updatedAt": "@h-2280"
+ },
+ {
+  "id": "1b1ad37b-0873-5a91-bb28-9b2bb770c9dc",
+  "templateId": "a56d5698-ee24-598d-a68a-117d079c6fe6",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "type": "contract",
+  "title": "Contrato de empreitada — Serviços civis — Parque de tanques (Vértice)",
+  "number": "CON-2026-006",
+  "version": 1,
+  "status": "issued",
+  "issuedAt": "@d-70",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "CONTRATO DE EMPREITADA Nº 006/2026"
+   },
+   {
+    "type": "paragraph",
+    "text": "CONTRATANTE: Vértice Montagens Industriais Ltda..\nCONTRATADA: CGA Acabamentos e Construções Ltda., CNPJ 12.345.678/0001-00, com sede em Campo Grande/MS."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 1ª — DO OBJETO\nA CONTRATADA executará, em regime de empreitada por preço global, a obra Serviços civis — Parque de tanques (Vértice), em Candeias/BA, conforme projetos, memoriais e planilha contratual."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 2ª — DO PREÇO E DO PAGAMENTO\nO preço global é de R$ 2.100.000,00. O pagamento será feito por medição mensal, em até 30 (trinta) dias após a emissão da nota fiscal, com retenção contratual de 5%."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 3ª — DO PRAZO\nA obra será executada entre conforme cronograma e conforme cronograma, salvo prorrogações formalizadas por aditivo."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 4ª — DO REAJUSTE\nO preço será reajustado anualmente pelo índice INCC-M, a contar da data-base da proposta."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 5ª — DA RESPONSABILIDADE TÉCNICA E DA SEGURANÇA\nA CONTRATADA manterá responsável técnico habilitado, com ART registrada, e cumprirá as Normas Regulamentadoras de segurança e saúde no trabalho aplicáveis."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 6ª — DA GARANTIA\nA CONTRATADA oferece garantia de 5% do valor do contrato, nos termos da lei civil para o contrato de empreitada."
+   },
+   {
+    "type": "signature",
+    "text": "CGA Acabamentos e Construções Ltda.\nContratada"
+   },
+   {
+    "type": "signature",
+    "text": "Vértice Montagens Industriais Ltda.\nContratante"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-1680",
+  "updatedAt": "@h-1680"
+ },
+ {
+  "id": "af30f0a7-35a8-5333-8375-fd40974a3f8a",
+  "templateId": "a56d5698-ee24-598d-a68a-117d079c6fe6",
+  "obraId": "4d7771c4-41b3-5aaa-a475-7cd99378c006",
+  "type": "contract",
+  "title": "Contrato de empreitada — Base de Distribuição Osasco",
+  "number": "CON-2026-007",
+  "version": 2,
+  "status": "approved",
+  "issuedAt": null,
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "CONTRATO DE EMPREITADA Nº 007/2026"
+   },
+   {
+    "type": "paragraph",
+    "text": "CONTRATANTE: Atlas Distribuidora de Combustíveis S.A..\nCONTRATADA: CGA Acabamentos e Construções Ltda., CNPJ 12.345.678/0001-00, com sede em Campo Grande/MS."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 1ª — DO OBJETO\nA CONTRATADA executará, em regime de empreitada por preço global, a obra Base de Distribuição Osasco, em Osasco/SP, conforme projetos, memoriais e planilha contratual."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 2ª — DO PREÇO E DO PAGAMENTO\nO preço global é de R$ 9.700.000,00. O pagamento será feito por medição mensal, em até 30 (trinta) dias após a emissão da nota fiscal, com retenção contratual de 5%."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 3ª — DO PRAZO\nA obra será executada entre conforme cronograma e conforme cronograma, salvo prorrogações formalizadas por aditivo."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 4ª — DO REAJUSTE\nO preço será reajustado anualmente pelo índice INCC-M, a contar da data-base da proposta."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 5ª — DA RESPONSABILIDADE TÉCNICA E DA SEGURANÇA\nA CONTRATADA manterá responsável técnico habilitado, com ART registrada, e cumprirá as Normas Regulamentadoras de segurança e saúde no trabalho aplicáveis."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 6ª — DA GARANTIA\nA CONTRATADA oferece garantia de 5% do valor do contrato, nos termos da lei civil para o contrato de empreitada."
+   },
+   {
+    "type": "signature",
+    "text": "CGA Acabamentos e Construções Ltda.\nContratada"
+   },
+   {
+    "type": "signature",
+    "text": "Atlas Distribuidora de Combustíveis S.A.\nContratante"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-1488",
+  "updatedAt": "@h-1488"
+ },
+ {
+  "id": "4775e934-51e6-5e0e-9762-a2f2687d776b",
+  "templateId": "146a77f9-c5d3-52ae-84da-5d8da879e5d0",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "type": "minutes",
+  "title": "Ata de reunião — Base de Distribuição Candeias",
+  "number": "MIN-2026-008",
+  "version": 3,
+  "status": "issued",
+  "issuedAt": "@d-14",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "ATA DE REUNIÃO — Base de Distribuição Candeias"
+   },
+   {
+    "type": "paragraph",
+    "text": "Data: conforme registro. Pauta: [pauta]"
+   },
+   {
+    "type": "paragraph",
+    "text": "Encaminhamentos: [encaminhamentos]"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-336",
+  "updatedAt": "@h-336"
+ },
+ {
+  "id": "b8cbd3c4-70a1-5073-bced-84c303f632bb",
+  "templateId": "146a77f9-c5d3-52ae-84da-5d8da879e5d0",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "type": "minutes",
+  "title": "Ata de reunião — Reforma da Base Cuiabá",
+  "number": "MIN-2026-009",
+  "version": 1,
+  "status": "issued",
+  "issuedAt": "@d-9",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "ATA DE REUNIÃO — Reforma da Base Cuiabá"
+   },
+   {
+    "type": "paragraph",
+    "text": "Data: conforme registro. Pauta: [pauta]"
+   },
+   {
+    "type": "paragraph",
+    "text": "Encaminhamentos: [encaminhamentos]"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-216",
+  "updatedAt": "@h-216"
+ },
+ {
+  "id": "8edc44cd-6c69-5887-ab7a-b85c5c2c4634",
+  "templateId": "146a77f9-c5d3-52ae-84da-5d8da879e5d0",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "type": "minutes",
+  "title": "Ata de reunião — Serviços civis — Parque de tanques (Vértice)",
+  "number": "MIN-2026-010",
+  "version": 2,
+  "status": "issued",
+  "issuedAt": "@d-21",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "ATA DE REUNIÃO — Serviços civis — Parque de tanques (Vértice)"
+   },
+   {
+    "type": "paragraph",
+    "text": "Data: conforme registro. Pauta: [pauta]"
+   },
+   {
+    "type": "paragraph",
+    "text": "Encaminhamentos: [encaminhamentos]"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-504",
+  "updatedAt": "@h-504"
+ },
+ {
+  "id": "e393e74d-abcc-5ac9-bdca-9b4823125c43",
+  "templateId": "39211231-7899-5a93-9c89-d6d7ea4406f2",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "type": "workorder",
+  "title": "Ordem de serviço — Base de Distribuição Candeias",
+  "number": "WOR-2026-011",
+  "version": 3,
+  "status": "issued",
+  "issuedAt": "@d-30",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "ORDEM DE SERVIÇO Nº 011/2026"
+   },
+   {
+    "type": "paragraph",
+    "text": "Fica autorizada a execução de [servico] na obra Base de Distribuição Candeias, a partir de conforme registro."
+   },
+   {
+    "type": "signature",
+    "text": "Antônio Carvalho\nResponsável técnico"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-720",
+  "updatedAt": "@h-720"
+ },
+ {
+  "id": "a41e250a-8385-5e6c-b4b9-d8dcb4277510",
+  "templateId": "39211231-7899-5a93-9c89-d6d7ea4406f2",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "type": "workorder",
+  "title": "Ordem de serviço — Reforma da Base Cuiabá",
+  "number": "WOR-2026-012",
+  "version": 1,
+  "status": "issued",
+  "issuedAt": "@d-40",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "ORDEM DE SERVIÇO Nº 012/2026"
+   },
+   {
+    "type": "paragraph",
+    "text": "Fica autorizada a execução de [servico] na obra Reforma da Base Cuiabá, a partir de conforme registro."
+   },
+   {
+    "type": "signature",
+    "text": "Antônio Carvalho\nResponsável técnico"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-960",
+  "updatedAt": "@h-960"
+ },
+ {
+  "id": "6469a764-a33a-5be5-a384-3d91998a79d2",
+  "templateId": "54592e24-5c86-57f3-ac8a-280acfc01693",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "type": "report",
+  "title": "Relatório técnico — Base de Distribuição Candeias",
+  "number": "REP-2026-013",
+  "version": 2,
+  "status": "in_review",
+  "issuedAt": null,
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "RELATÓRIO TÉCNICO — Base de Distribuição Candeias"
+   },
+   {
+    "type": "paragraph",
+    "text": "Período: últimos 30 dias. Avanço físico acumulado: 34.0%. Efetivo médio: 46 colaboradores."
+   },
+   {
+    "type": "paragraph",
+    "text": "Principais ocorrências: [ocorrencias]"
+   },
+   {
+    "type": "signature",
+    "text": "Antônio Carvalho\nResponsável técnico"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-72",
+  "updatedAt": "@h-72"
+ },
+ {
+  "id": "f0ab7ad5-cdd4-55b1-b53b-0ff1da3f5163",
+  "templateId": "54592e24-5c86-57f3-ac8a-280acfc01693",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "type": "report",
+  "title": "Relatório técnico — Reforma da Base Cuiabá",
+  "number": "REP-2026-014",
+  "version": 3,
+  "status": "issued",
+  "issuedAt": "@d-16",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "RELATÓRIO TÉCNICO — Reforma da Base Cuiabá"
+   },
+   {
+    "type": "paragraph",
+    "text": "Período: últimos 30 dias. Avanço físico acumulado: 71.0%. Efetivo médio: 18 colaboradores."
+   },
+   {
+    "type": "paragraph",
+    "text": "Principais ocorrências: [ocorrencias]"
+   },
+   {
+    "type": "signature",
+    "text": "Antônio Carvalho\nResponsável técnico"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-384",
+  "updatedAt": "@h-384"
+ },
+ {
+  "id": "e18227d0-2f0a-5ce8-ac68-f9bfc4bd7790",
+  "templateId": "3c6e81ed-24c8-5b76-ae64-511f8cc6bd24",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "type": "expert",
+  "title": "Laudo técnico — Pilar P12",
+  "number": "EXP-2026-015",
+  "version": 1,
+  "status": "issued",
+  "issuedAt": "@d-26",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "LAUDO TÉCNICO — Reforma da Base Cuiabá"
+   },
+   {
+    "type": "paragraph",
+    "text": "Vistoria realizada em conforme registro em Cuiabá/MT. Constatações: [constatacoes]"
+   },
+   {
+    "type": "paragraph",
+    "text": "Conclusão: [conclusao]"
+   },
+   {
+    "type": "signature",
+    "text": "Antônio Carvalho\nResponsável técnico"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-624",
+  "updatedAt": "@h-624"
+ },
+ {
+  "id": "1103eaea-88da-5097-869e-d603d7da351a",
+  "templateId": "36dce6b3-8b03-53dc-9a28-2e04117da58b",
+  "obraId": null,
+  "type": "declaration",
+  "title": "Declaração — CGA Acabamentos",
+  "number": "DEC-2026-016",
+  "version": 2,
+  "status": "issued",
+  "issuedAt": "@d-50",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "DECLARAÇÃO"
+   },
+   {
+    "type": "paragraph",
+    "text": "A CGA Acabamentos e Construções Ltda., CNPJ 12.345.678/0001-00, declara para os devidos fins que [declaracao]."
+   },
+   {
+    "type": "signature",
+    "text": "Antônio Carvalho\nCGA Acabamentos e Construções Ltda."
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-1200",
+  "updatedAt": "@h-1200"
+ },
+ {
+  "id": "3a213cd3-c135-513d-8fb6-cc81eaa241fb",
+  "templateId": "36dce6b3-8b03-53dc-9a28-2e04117da58b",
+  "obraId": null,
+  "type": "declaration",
+  "title": "Declaração — CGA Acabamentos",
+  "number": "DEC-2026-017",
+  "version": 3,
+  "status": "draft",
+  "issuedAt": null,
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "DECLARAÇÃO"
+   },
+   {
+    "type": "paragraph",
+    "text": "A CGA Acabamentos e Construções Ltda., CNPJ 12.345.678/0001-00, declara para os devidos fins que [declaracao]."
+   },
+   {
+    "type": "signature",
+    "text": "Antônio Carvalho\nCGA Acabamentos e Construções Ltda."
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-48",
+  "updatedAt": "@h-48"
+ },
+ {
+  "id": "a3cffcf9-b1fb-57cb-9f1d-c3a16a974ad8",
+  "templateId": "76d2952b-7c12-52c7-ae68-703fe3e8abb2",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "type": "letter",
+  "title": "Ofício — Base de Distribuição Candeias",
+  "number": "LET-2026-018",
+  "version": 1,
+  "status": "issued",
+  "issuedAt": "@d-11",
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "OFÍCIO Nº 018/2026"
+   },
+   {
+    "type": "paragraph",
+    "text": "Prezado(a) Atlas Distribuidora de Combustíveis S.A., [texto]"
+   },
+   {
+    "type": "signature",
+    "text": "Antônio Carvalho\nCGA Acabamentos e Construções Ltda."
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-264",
+  "updatedAt": "@h-264"
+ },
+ {
+  "id": "3e1f7462-71fc-518e-9dba-864b65b956fe",
+  "templateId": "76d2952b-7c12-52c7-ae68-703fe3e8abb2",
+  "obraId": "4d7771c4-41b3-5aaa-a475-7cd99378c006",
+  "type": "letter",
+  "title": "Ofício — Base de Distribuição Osasco",
+  "number": "LET-2026-019",
+  "version": 2,
+  "status": "in_review",
+  "issuedAt": null,
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "OFÍCIO Nº 019/2026"
+   },
+   {
+    "type": "paragraph",
+    "text": "Prezado(a) Atlas Distribuidora de Combustíveis S.A., [texto]"
+   },
+   {
+    "type": "signature",
+    "text": "Antônio Carvalho\nCGA Acabamentos e Construções Ltda."
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-120",
+  "updatedAt": "@h-120"
+ },
+ {
+  "id": "7038e67d-6460-5f4c-b527-0006002e48a3",
+  "templateId": "9757abee-d857-515e-978d-9e0b5c7d0264",
+  "obraId": "34ef7dc7-2814-5072-a190-446ced6d26ad",
+  "type": "handover",
+  "title": "Termo de recebimento — Base de Distribuição Paulínia",
+  "number": "HAN-2026-020",
+  "version": 3,
+  "status": "in_review",
+  "issuedAt": null,
+  "authorId": "7556b6e7-0c56-55fa-9498-97b2728d57d2",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "TERMO DE RECEBIMENTO provisório — Base de Distribuição Paulínia"
+   },
+   {
+    "type": "paragraph",
+    "text": "As partes reconhecem o recebimento provisório da obra Base de Distribuição Paulínia, em conforme registro, com as pendências listadas em anexo."
+   },
+   {
+    "type": "signature",
+    "text": "Atlas Distribuidora de Combustíveis S.A.\nContratante"
+   },
+   {
+    "type": "signature",
+    "text": "CGA Acabamentos e Construções Ltda.\nContratada"
+   }
+  ],
+  "fileId": null,
+  "createdAt": "@h-192",
+  "updatedAt": "@h-192"
+ }
+]

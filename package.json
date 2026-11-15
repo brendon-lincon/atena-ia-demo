@@ -1,0 +1,34 @@
+{
+  "name": "atena-ia",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Atena IA — Fase 0 (demonstração)",
+  "workspaces": [
+    "apps/web"
+  ],
+  "scripts": {
+    "dev": "concurrently -k -n api,web -c blue,cyan \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:api": "uv run --project apps/demo-api uvicorn app.main:app --app-dir apps/demo-api --reload --reload-dir apps/demo-api/app --port 8787",
+    "dev:web": "npm run dev -w apps/web",
+    "build": "npm run build -w apps/web",
+    "lint": "npm run lint -w apps/web && uv run --project apps/demo-api ruff check apps/demo-api tools",
+    "typecheck": "npm run typecheck -w apps/web",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "seed": "uv run --project apps/demo-api python -m app.seed",
+    "seed:build": "uv run --project apps/demo-api python -m tools.seed.build",
+    "brand:trace": "uv run --no-project --with pillow --with potracer --with numpy python -m tools.brand.trace",
+    "brand:svg": "uv run --no-project python -m tools.brand.build_logo && uv run --no-project python -m tools.brand.build_assets",
+    "brand:png": "node tools/brand/render.mjs",
+    "brand:pack": "uv run --no-project --with pillow python -m tools.brand.pack",
+    "brand:tokens": "uv run --no-project python -m tools.brand.build_tokens",
+    "brand:build": "npm run brand:fonts && npm run brand:svg && npm run brand:png && npm run brand:pack && npm run brand:tokens",
+    "brand:fonts": "uv run --no-project --with fonttools --with brotli python -m tools.brand.fonts_for_render",
+    "brand:contrast": "uv run --no-project python -m tools.brand.check_contrast"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "concurrently": "^10.0.7",
+    "prettier": "^3.10.1"
+  }
+}

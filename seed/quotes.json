@@ -1,0 +1,98 @@
+[
+ {
+  "id": "1aa1045c-7a95-5a11-97fb-6ab3fc885c4b",
+  "requestId": "4f9cdfb6-483f-5804-8710-c7cb7cccfc38",
+  "supplierId": "5be154c1-e194-58ac-aaa6-76d995fef19e",
+  "totalCents": 10210000,
+  "deliveryDays": 4,
+  "validUntil": "@d+10",
+  "status": "selected",
+  "notes": "",
+  "createdAt": "@h-456",
+  "updatedAt": "@h-456"
+ },
+ {
+  "id": "868726a5-c029-5d2a-82c8-4feec0aea3ed",
+  "requestId": "4f9cdfb6-483f-5804-8710-c7cb7cccfc38",
+  "supplierId": "49b63df0-6251-5524-9c94-d2697776819e",
+  "totalCents": 10490000,
+  "deliveryDays": 6,
+  "validUntil": "@d+10",
+  "status": "received",
+  "notes": "",
+  "createdAt": "@h-744",
+  "updatedAt": "@h-744"
+ },
+ {
+  "id": "c94e1a17-361a-5099-bb29-5c00edf635ff",
+  "requestId": "6a657b5d-20a1-59a9-bd0c-e6a11ae279e5",
+  "supplierId": "d61b001e-4cd2-55b6-8386-3f8f9bf8914e",
+  "totalCents": 3680000,
+  "deliveryDays": 2,
+  "validUntil": "@d+10",
+  "status": "selected",
+  "notes": "",
+  "createdAt": "@h-1584",
+  "updatedAt": "@h-1584"
+ },
+ {
+  "id": "812da11c-68ea-568c-97db-2dc6d01d0096",
+  "requestId": "6a657b5d-20a1-59a9-bd0c-e6a11ae279e5",
+  "supplierId": "87e9f1c6-d0ff-5479-860e-42515e34cfbf",
+  "totalCents": 3890000,
+  "deliveryDays": 3,
+  "validUntil": "@d+10",
+  "status": "received",
+  "notes": "",
+  "createdAt": "@h-504",
+  "updatedAt": "@h-504"
+ },
+ {
+  "id": "0831b6e4-0c81-5540-aecb-149c694db412",
+  "requestId": "b15fca0a-7ec8-5845-855b-4535e2afc2ac",
+  "supplierId": "49b63df0-6251-5524-9c94-d2697776819e",
+  "totalCents": 890000,
+  "deliveryDays": 5,
+  "validUntil": "@d+10",
+  "status": "selected",
+  "notes": "",
+  "createdAt": "@h-480",
+  "updatedAt": "@h-480"
+ },
+ {
+  "id": "423fa5ee-adf4-5590-85d0-50be3683a299",
+  "requestId": "f9c74ef8-65d7-50c4-a4f0-2c5567938c61",
+  "supplierId": "0196dde3-debc-596b-bcf0-cdf17c800b94",
+  "totalCents": 48600000,
+  "deliveryDays": 0,
+  "validUntil": "@d+10",
+  "status": "selected",
+  "notes": "",
+  "createdAt": "@h-96",
+  "updatedAt": "@h-96"
+ },
+ {
+  "id": "7e0868d4-87c6-56d8-9042-85ed3ddf11ef",
+  "requestId": "f66c161d-a7ce-5c4a-a116-8d309132c1b2",
+  "supplierId": "49b63df0-6251-5524-9c94-d2697776819e",
+  "totalCents": 9640000,
+  "deliveryDays": 7,
+  "validUntil": "@d+10",
+  "status": "selected",
+  "notes": "",
+  "createdAt": "@h-1968",
+  "updatedAt": "@h-1968"
+ },
+ {
+  "id": "4cbdd0f1-d87f-50bf-b8f1-3d065fd0111f",
+  "requestId": "df85efcf-431a-5ec2-8bf9-93b37212351e",
+  "supplierId": "9898acff-7590-5d93-867a-fe827a05ab69",
+  "totalCents": 11250000,
+  "deliveryDays": 0,
+  "validUntil": "@d+10",
+  "status": "received",
+  "notes": "",
+  "createdAt": "@h-1608",
+  "updatedAt": "@h-1608"
+ }
+]

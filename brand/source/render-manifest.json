@@ -1,0 +1,662 @@
+[
+ {
+  "svg": "brand/logo/symbol/atena-symbol-mono-black.svg",
+  "out": "brand/logo/symbol/atena-symbol-mono-black.png",
+  "width": 128
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-mono-black.svg",
+  "out": "brand/logo/symbol/atena-symbol-mono-black@2x.png",
+  "width": 256
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-mono-black.svg",
+  "out": "brand/logo/symbol/atena-symbol-mono-black@3x.png",
+  "width": 384
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-mono-black.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-mono-black.png",
+  "width": 480
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-mono-black.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-mono-black@2x.png",
+  "width": 960
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-mono-black.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-mono-black@3x.png",
+  "width": 1440
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-mono-black.svg",
+  "out": "brand/logo/tagline/atena-tagline-mono-black.png",
+  "width": 480
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-mono-black.svg",
+  "out": "brand/logo/tagline/atena-tagline-mono-black@2x.png",
+  "width": 960
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-mono-black.svg",
+  "out": "brand/logo/tagline/atena-tagline-mono-black@3x.png",
+  "width": 1440
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-mono-black.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-mono-black.png",
+  "width": 640
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-mono-black.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-mono-black@2x.png",
+  "width": 1280
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-mono-black.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-mono-black@3x.png",
+  "width": 1920
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-mono-black.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-mono-black.png",
+  "width": 640
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-mono-black.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-mono-black@2x.png",
+  "width": 1280
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-mono-black.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-mono-black@3x.png",
+  "width": 1920
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-mono-black.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-mono-black.png",
+  "width": 400
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-mono-black.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-mono-black@2x.png",
+  "width": 800
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-mono-black.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-mono-black@3x.png",
+  "width": 1200
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-mono-black.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-mono-black.png",
+  "width": 400
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-mono-black.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-mono-black@2x.png",
+  "width": 800
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-mono-black.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-mono-black@3x.png",
+  "width": 1200
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-navy.svg",
+  "out": "brand/logo/symbol/atena-symbol-navy.png",
+  "width": 128
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-navy.svg",
+  "out": "brand/logo/symbol/atena-symbol-navy@2x.png",
+  "width": 256
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-navy.svg",
+  "out": "brand/logo/symbol/atena-symbol-navy@3x.png",
+  "width": 384
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-navy.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-navy.png",
+  "width": 480
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-navy.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-navy@2x.png",
+  "width": 960
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-navy.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-navy@3x.png",
+  "width": 1440
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-navy.svg",
+  "out": "brand/logo/tagline/atena-tagline-navy.png",
+  "width": 480
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-navy.svg",
+  "out": "brand/logo/tagline/atena-tagline-navy@2x.png",
+  "width": 960
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-navy.svg",
+  "out": "brand/logo/tagline/atena-tagline-navy@3x.png",
+  "width": 1440
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-navy.png",
+  "width": 640
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-navy@2x.png",
+  "width": 1280
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-navy@3x.png",
+  "width": 1920
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-navy.png",
+  "width": 640
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-navy@2x.png",
+  "width": 1280
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-navy@3x.png",
+  "width": 1920
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-navy.png",
+  "width": 400
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-navy@2x.png",
+  "width": 800
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-navy@3x.png",
+  "width": 1200
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-navy.png",
+  "width": 400
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-navy@2x.png",
+  "width": 800
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-navy@3x.png",
+  "width": 1200
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-white.svg",
+  "out": "brand/logo/symbol/atena-symbol-white.png",
+  "width": 128
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-white.svg",
+  "out": "brand/logo/symbol/atena-symbol-white@2x.png",
+  "width": 256
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-white.svg",
+  "out": "brand/logo/symbol/atena-symbol-white@3x.png",
+  "width": 384
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-white.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-white.png",
+  "width": 480
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-white.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-white@2x.png",
+  "width": 960
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-white.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-white@3x.png",
+  "width": 1440
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-white.svg",
+  "out": "brand/logo/tagline/atena-tagline-white.png",
+  "width": 480
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-white.svg",
+  "out": "brand/logo/tagline/atena-tagline-white@2x.png",
+  "width": 960
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-white.svg",
+  "out": "brand/logo/tagline/atena-tagline-white@3x.png",
+  "width": 1440
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-white.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-white.png",
+  "width": 640
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-white.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-white@2x.png",
+  "width": 1280
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-white.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-white@3x.png",
+  "width": 1920
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-white.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-white.png",
+  "width": 640
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-white.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-white@2x.png",
+  "width": 1280
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-white.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-white@3x.png",
+  "width": 1920
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-white.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-white.png",
+  "width": 400
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-white.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-white@2x.png",
+  "width": 800
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-white.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-white@3x.png",
+  "width": 1200
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-white.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-white.png",
+  "width": 400
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-white.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-white@2x.png",
+  "width": 800
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-white.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-white@3x.png",
+  "width": 1200
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-on-navy.svg",
+  "out": "brand/logo/symbol/atena-symbol-on-navy.png",
+  "width": 128
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-on-navy.svg",
+  "out": "brand/logo/symbol/atena-symbol-on-navy@2x.png",
+  "width": 256
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-on-navy.svg",
+  "out": "brand/logo/symbol/atena-symbol-on-navy@3x.png",
+  "width": 384
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-on-navy.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-on-navy.png",
+  "width": 480
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-on-navy.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-on-navy@2x.png",
+  "width": 960
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-on-navy.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-on-navy@3x.png",
+  "width": 1440
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-on-navy.svg",
+  "out": "brand/logo/tagline/atena-tagline-on-navy.png",
+  "width": 480
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-on-navy.svg",
+  "out": "brand/logo/tagline/atena-tagline-on-navy@2x.png",
+  "width": 960
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-on-navy.svg",
+  "out": "brand/logo/tagline/atena-tagline-on-navy@3x.png",
+  "width": 1440
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-on-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-on-navy.png",
+  "width": 640
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-on-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-on-navy@2x.png",
+  "width": 1280
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-on-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-on-navy@3x.png",
+  "width": 1920
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-on-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-on-navy.png",
+  "width": 640
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-on-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-on-navy@2x.png",
+  "width": 1280
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-on-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-on-navy@3x.png",
+  "width": 1920
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-on-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-on-navy.png",
+  "width": 400
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-on-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-on-navy@2x.png",
+  "width": 800
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-on-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-on-navy@3x.png",
+  "width": 1200
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-on-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-on-navy.png",
+  "width": 400
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-on-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-on-navy@2x.png",
+  "width": 800
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-on-navy.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-on-navy@3x.png",
+  "width": 1200
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-duotone.svg",
+  "out": "brand/logo/symbol/atena-symbol-duotone.png",
+  "width": 128
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-duotone.svg",
+  "out": "brand/logo/symbol/atena-symbol-duotone@2x.png",
+  "width": 256
+ },
+ {
+  "svg": "brand/logo/symbol/atena-symbol-duotone.svg",
+  "out": "brand/logo/symbol/atena-symbol-duotone@3x.png",
+  "width": 384
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-duotone.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-duotone.png",
+  "width": 480
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-duotone.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-duotone@2x.png",
+  "width": 960
+ },
+ {
+  "svg": "brand/logo/wordmark/atena-wordmark-duotone.svg",
+  "out": "brand/logo/wordmark/atena-wordmark-duotone@3x.png",
+  "width": 1440
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-duotone.svg",
+  "out": "brand/logo/tagline/atena-tagline-duotone.png",
+  "width": 480
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-duotone.svg",
+  "out": "brand/logo/tagline/atena-tagline-duotone@2x.png",
+  "width": 960
+ },
+ {
+  "svg": "brand/logo/tagline/atena-tagline-duotone.svg",
+  "out": "brand/logo/tagline/atena-tagline-duotone@3x.png",
+  "width": 1440
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-duotone.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-duotone.png",
+  "width": 640
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-duotone.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-duotone@2x.png",
+  "width": 1280
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-duotone.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-duotone@3x.png",
+  "width": 1920
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-duotone.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-duotone.png",
+  "width": 640
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-duotone.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-duotone@2x.png",
+  "width": 1280
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-horizontal-tagline-duotone.svg",
+  "out": "brand/logo/lockup/atena-lockup-horizontal-tagline-duotone@3x.png",
+  "width": 1920
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-duotone.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-duotone.png",
+  "width": 400
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-duotone.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-duotone@2x.png",
+  "width": 800
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-duotone.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-duotone@3x.png",
+  "width": 1200
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-duotone.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-duotone.png",
+  "width": 400
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-duotone.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-duotone@2x.png",
+  "width": 800
+ },
+ {
+  "svg": "brand/logo/lockup/atena-lockup-vertical-tagline-duotone.svg",
+  "out": "brand/logo/lockup/atena-lockup-vertical-tagline-duotone@3x.png",
+  "width": 1200
+ },
+ {
+  "svg": "brand/icons/favicon/favicon-16.svg",
+  "out": "brand/icons/favicon/favicon-16.png",
+  "width": 16
+ },
+ {
+  "svg": "brand/icons/favicon/favicon-32.svg",
+  "out": "brand/icons/favicon/favicon-32.png",
+  "width": 32
+ },
+ {
+  "svg": "brand/icons/favicon/favicon-48.svg",
+  "out": "brand/icons/favicon/favicon-48.png",
+  "width": 48
+ },
+ {
+  "svg": "brand/icons/pwa/pwa-192.svg",
+  "out": "brand/icons/pwa/pwa-192.png",
+  "width": 192
+ },
+ {
+  "svg": "brand/icons/pwa/pwa-maskable-192.svg",
+  "out": "brand/icons/pwa/pwa-maskable-192.png",
+  "width": 192
+ },
+ {
+  "svg": "brand/icons/pwa/pwa-512.svg",
+  "out": "brand/icons/pwa/pwa-512.png",
+  "width": 512
+ },
+ {
+  "svg": "brand/icons/pwa/pwa-maskable-512.svg",
+  "out": "brand/icons/pwa/pwa-maskable-512.png",
+  "width": 512
+ },
+ {
+  "svg": "brand/icons/apple/apple-touch-icon.svg",
+  "out": "brand/icons/apple/apple-touch-icon.png",
+  "width": 180
+ },
+ {
+  "svg": "brand/icons/macos/macos-icon.svg",
+  "out": "brand/icons/macos/atena.iconset/icon_16x16.png",
+  "width": 16
+ },
+ {
+  "svg": "brand/icons/macos/macos-icon.svg",
+  "out": "brand/icons/macos/atena.iconset/icon_16x16@2x.png",
+  "width": 32
+ },
+ {
+  "svg": "brand/icons/macos/macos-icon.svg",
+  "out": "brand/icons/macos/atena.iconset/icon_32x32.png",
+  "width": 32
+ },
+ {
+  "svg": "brand/icons/macos/macos-icon.svg",
+  "out": "brand/icons/macos/atena.iconset/icon_32x32@2x.png",
+  "width": 64
+ },
+ {
+  "svg": "brand/icons/macos/macos-icon.svg",
+  "out": "brand/icons/macos/atena.iconset/icon_128x128.png",
+  "width": 128
+ },
+ {
+  "svg": "brand/icons/macos/macos-icon.svg",
+  "out": "brand/icons/macos/atena.iconset/icon_128x128@2x.png",
+  "width": 256
+ },
+ {
+  "svg": "brand/icons/macos/macos-icon.svg",
+  "out": "brand/icons/macos/atena.iconset/icon_256x256.png",
+  "width": 256
+ },
+ {
+  "svg": "brand/icons/macos/macos-icon.svg",
+  "out": "brand/icons/macos/atena.iconset/icon_256x256@2x.png",
+  "width": 512
+ },
+ {
+  "svg": "brand/icons/macos/macos-icon.svg",
+  "out": "brand/icons/macos/atena.iconset/icon_512x512.png",
+  "width": 512
+ },
+ {
+  "svg": "brand/icons/macos/macos-icon.svg",
+  "out": "brand/icons/macos/atena.iconset/icon_512x512@2x.png",
+  "width": 1024
+ },
+ {
+  "svg": "brand/icons/windows/win-16.svg",
+  "out": "brand/icons/windows/win-16.png",
+  "width": 16
+ },
+ {
+  "svg": "brand/icons/windows/win-24.svg",
+  "out": "brand/icons/windows/win-24.png",
+  "width": 24
+ },
+ {
+  "svg": "brand/icons/windows/win-32.svg",
+  "out": "brand/icons/windows/win-32.png",
+  "width": 32
+ },
+ {
+  "svg": "brand/icons/windows/win-48.svg",
+  "out": "brand/icons/windows/win-48.png",
+  "width": 48
+ },
+ {
+  "svg": "brand/icons/windows/win-64.svg",
+  "out": "brand/icons/windows/win-64.png",
+  "width": 64
+ },
+ {
+  "svg": "brand/icons/windows/win-128.svg",
+  "out": "brand/icons/windows/win-128.png",
+  "width": 128
+ },
+ {
+  "svg": "brand/icons/windows/win-256.svg",
+  "out": "brand/icons/windows/win-256.png",
+  "width": 256
+ },
+ {
+  "svg": "brand/icons/social/avatar-square.svg",
+  "out": "brand/icons/social/avatar-square.png",
+  "width": 800
+ },
+ {
+  "svg": "brand/icons/social/avatar-circle.svg",
+  "out": "brand/icons/social/avatar-circle.png",
+  "width": 800
+ }
+]

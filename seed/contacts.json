@@ -1,0 +1,986 @@
+[
+ {
+  "id": "d036ec8d-9eee-51ff-bc04-771e42446e35",
+  "kind": "company",
+  "name": "Atlas Distribuidora de Combustíveis S.A.",
+  "roles": [
+   "contratante"
+  ],
+  "city": "Candeias",
+  "state": "BA",
+  "tags": [],
+  "document": "00.111.222/0001-00",
+  "phone": "(71) 3333-1200",
+  "email": "contratos@atlas-comb.example",
+  "createdAt": "@h-1584",
+  "updatedAt": "@h-1584"
+ },
+ {
+  "id": "66435e3e-b803-5994-9b65-79db6558ba65",
+  "kind": "company",
+  "name": "Vértice Montagens Industriais Ltda.",
+  "roles": [
+   "contratante"
+  ],
+  "city": "Candeias",
+  "state": "BA",
+  "tags": [],
+  "document": "00.333.444/0001-00",
+  "phone": "(71) 3555-2100",
+  "email": "obras@verticemontagens.example",
+  "createdAt": "@h-432",
+  "updatedAt": "@h-432"
+ },
+ {
+  "id": "5be154c1-e194-58ac-aaa6-76d995fef19e",
+  "kind": "company",
+  "name": "Aço Brasil Distribuidora de Ferros",
+  "roles": [
+   "fornecedor"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "document": "00.555.666/0001-00",
+  "phone": "(71) 3011-4500",
+  "email": "vendas@acobrasil-dist.example",
+  "createdAt": "@h-1560",
+  "updatedAt": "@h-1560"
+ },
+ {
+  "id": "d61b001e-4cd2-55b6-8386-3f8f9bf8914e",
+  "kind": "company",
+  "name": "Concreteira Planalto Ltda.",
+  "roles": [
+   "fornecedor"
+  ],
+  "city": "Cuiabá",
+  "state": "MT",
+  "tags": [],
+  "document": "00.777.888/0001-00",
+  "phone": "(65) 3622-7000",
+  "email": "comercial@concreteiraplanalto.example",
+  "createdAt": "@h-120",
+  "updatedAt": "@h-120"
+ },
+ {
+  "id": "0196dde3-debc-596b-bcf0-cdf17c800b94",
+  "kind": "company",
+  "name": "LocaMax Equipamentos",
+  "roles": [
+   "fornecedor"
+  ],
+  "city": "Lauro de Freitas",
+  "state": "BA",
+  "tags": [],
+  "document": "00.999.000/0001-00",
+  "phone": "(71) 3288-9900",
+  "email": "locacao@locamax.example",
+  "createdAt": "@h-1392",
+  "updatedAt": "@h-1392"
+ },
+ {
+  "id": "d2883427-0de3-59f0-bb75-40af2ee2cca5",
+  "kind": "company",
+  "name": "Hotel Pantanal Palace",
+  "roles": [
+   "fornecedor"
+  ],
+  "city": "Cuiabá",
+  "state": "MT",
+  "tags": [],
+  "document": "01.111.222/0001-00",
+  "phone": "(65) 3644-1000",
+  "email": "reservas@pantanalpalace.example",
+  "createdAt": "@h-768",
+  "updatedAt": "@h-768"
+ },
+ {
+  "id": "9898acff-7590-5d93-867a-fe827a05ab69",
+  "kind": "company",
+  "name": "Pousada Recôncavo",
+  "roles": [
+   "fornecedor"
+  ],
+  "city": "Candeias",
+  "state": "BA",
+  "tags": [],
+  "document": "01.333.444/0001-00",
+  "phone": "(71) 3601-2020",
+  "email": "reservas@pousadareconcavo.example",
+  "createdAt": "@h-1368",
+  "updatedAt": "@h-1368"
+ },
+ {
+  "id": "45acae98-c4b0-50e3-87bd-c2b51306d6e3",
+  "kind": "company",
+  "name": "Terraplan Terraplenagem Ltda.",
+  "roles": [
+   "fornecedor",
+   "terceiro"
+  ],
+  "city": "Simões Filho",
+  "state": "BA",
+  "tags": [],
+  "document": "01.555.666/0001-00",
+  "phone": "(71) 3396-4040",
+  "email": "contato@terraplan.example",
+  "createdAt": "@h-504",
+  "updatedAt": "@h-504"
+ },
+ {
+  "id": "0a3002ec-b03b-5202-8b35-4a094c98a104",
+  "kind": "company",
+  "name": "Eletromaq Instalações Elétricas",
+  "roles": [
+   "fornecedor",
+   "terceiro"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "document": "01.777.888/0001-00",
+  "phone": "(71) 3452-8800",
+  "email": "projetos@eletromaq.example",
+  "createdAt": "@h-120",
+  "updatedAt": "@h-120"
+ },
+ {
+  "id": "921c2b11-54ed-5c0c-a590-863603bc856a",
+  "kind": "company",
+  "name": "Hidrotec Combate a Incêndio",
+  "roles": [
+   "fornecedor",
+   "terceiro"
+  ],
+  "city": "Camaçari",
+  "state": "BA",
+  "tags": [],
+  "document": "01.999.000/0001-00",
+  "phone": "(71) 3621-3300",
+  "email": "orcamentos@hidrotec.example",
+  "createdAt": "@h-1320",
+  "updatedAt": "@h-1320"
+ },
+ {
+  "id": "87e9f1c6-d0ff-5479-860e-42515e34cfbf",
+  "kind": "company",
+  "name": "Mineração Sertão — Brita e Areia",
+  "roles": [
+   "fornecedor"
+  ],
+  "city": "Santo Amaro",
+  "state": "BA",
+  "tags": [],
+  "document": "02.111.222/0001-00",
+  "phone": "(75) 3241-5050",
+  "email": "vendas@mineracaosertao.example",
+  "createdAt": "@h-1920",
+  "updatedAt": "@h-1920"
+ },
+ {
+  "id": "49b63df0-6251-5524-9c94-d2697776819e",
+  "kind": "company",
+  "name": "Ferragens Central Campo Grande",
+  "roles": [
+   "fornecedor"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "document": "02.333.444/0001-00",
+  "phone": "(67) 3312-7070",
+  "email": "pedidos@ferragenscentral.example",
+  "createdAt": "@h-2040",
+  "updatedAt": "@h-2040"
+ },
+ {
+  "id": "eb9018cd-d4b9-5879-b2dc-0ee28196e6b8",
+  "kind": "company",
+  "name": "Bastos Contabilidade",
+  "roles": [
+   "profissional",
+   "contador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "document": "02.555.666/0001-00",
+  "phone": "(67) 3325-1100",
+  "email": "atendimento@bastoscontabil.example",
+  "createdAt": "@h-1704",
+  "updatedAt": "@h-1704"
+ },
+ {
+  "id": "be9e1b7d-2a8c-56f8-866b-3bdde7fc3999",
+  "kind": "company",
+  "name": "Prefeitura de Osasco — Secretaria de Obras",
+  "roles": [
+   "orgao"
+  ],
+  "city": "Osasco",
+  "state": "SP",
+  "tags": [],
+  "createdAt": "@h-1200",
+  "updatedAt": "@h-1200"
+ },
+ {
+  "id": "35b40b70-0971-5eeb-9ebc-efc23bd29084",
+  "kind": "company",
+  "name": "CETESB — Agência Ambiental de São Paulo",
+  "roles": [
+   "orgao"
+  ],
+  "city": "São Paulo",
+  "state": "SP",
+  "tags": [],
+  "createdAt": "@h-1248",
+  "updatedAt": "@h-1248"
+ },
+ {
+  "id": "aec5ec02-1c2b-5472-a800-6ce74a70d942",
+  "kind": "company",
+  "name": "INEMA — Instituto do Meio Ambiente e Recursos Hídricos",
+  "roles": [
+   "orgao"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "createdAt": "@h-864",
+  "updatedAt": "@h-864"
+ },
+ {
+  "id": "4b322881-bed6-5622-b498-d897afff6564",
+  "kind": "company",
+  "name": "SEMA-MT — Secretaria de Estado de Meio Ambiente",
+  "roles": [
+   "orgao"
+  ],
+  "city": "Cuiabá",
+  "state": "MT",
+  "tags": [],
+  "createdAt": "@h-720",
+  "updatedAt": "@h-720"
+ },
+ {
+  "id": "d419e8a9-fd81-5968-8bdb-c35bc75f5c7b",
+  "kind": "company",
+  "name": "Corpo de Bombeiros — Polícia Militar de SP",
+  "roles": [
+   "orgao"
+  ],
+  "city": "São Paulo",
+  "state": "SP",
+  "tags": [],
+  "createdAt": "@h-768",
+  "updatedAt": "@h-768"
+ },
+ {
+  "id": "69d0d476-35d2-5ec8-8c4c-712e5a30aa58",
+  "kind": "company",
+  "name": "Corpo de Bombeiros Militar da Bahia",
+  "roles": [
+   "orgao"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "createdAt": "@h-1440",
+  "updatedAt": "@h-1440"
+ },
+ {
+  "id": "c12f0a80-33cb-5121-8ffe-d4475f03f033",
+  "kind": "company",
+  "name": "Corpo de Bombeiros Militar de Mato Grosso",
+  "roles": [
+   "orgao"
+  ],
+  "city": "Cuiabá",
+  "state": "MT",
+  "tags": [],
+  "createdAt": "@h-504",
+  "updatedAt": "@h-504"
+ },
+ {
+  "id": "b3651fa8-79a3-5949-99fe-9c3e68b94f1b",
+  "kind": "company",
+  "name": "Receita Federal do Brasil",
+  "roles": [
+   "orgao"
+  ],
+  "city": "Brasília",
+  "state": "DF",
+  "tags": [],
+  "createdAt": "@h-2040",
+  "updatedAt": "@h-2040"
+ },
+ {
+  "id": "0c765cbc-7c6b-5b40-a4f1-3c60ecc9643b",
+  "kind": "company",
+  "name": "CREA-MS",
+  "roles": [
+   "orgao"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "createdAt": "@h-1632",
+  "updatedAt": "@h-1632"
+ },
+ {
+  "id": "bca8dda5-fedd-5272-ac80-087f594d9805",
+  "kind": "company",
+  "name": "Prefeitura de Candeias — Secretaria de Infraestrutura",
+  "roles": [
+   "orgao"
+  ],
+  "city": "Candeias",
+  "state": "BA",
+  "tags": [],
+  "createdAt": "@h-1776",
+  "updatedAt": "@h-1776"
+ },
+ {
+  "id": "5d8130aa-1372-58dd-b782-12cbe3a5c1ed",
+  "kind": "company",
+  "name": "ANP — Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",
+  "roles": [
+   "orgao"
+  ],
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "tags": [],
+  "createdAt": "@h-696",
+  "updatedAt": "@h-696"
+ },
+ {
+  "id": "ef529531-cb58-5a89-b9c5-80629d9c8197",
+  "kind": "person",
+  "name": "Ricardo Menezes",
+  "roles": [
+   "representante"
+  ],
+  "city": "Candeias",
+  "state": "BA",
+  "tags": [],
+  "title": "Fiscal de contrato — Atlas",
+  "parentId": "d036ec8d-9eee-51ff-bc04-771e42446e35",
+  "email": "ricardo@contato.example",
+  "phone": "(71) 99812-7019",
+  "createdAt": "@h-624",
+  "updatedAt": "@h-624"
+ },
+ {
+  "id": "91ad29eb-3401-5bdf-957f-cbce40300efd",
+  "kind": "person",
+  "name": "Paula Siqueira",
+  "roles": [
+   "representante"
+  ],
+  "city": "Candeias",
+  "state": "BA",
+  "tags": [],
+  "title": "Gerente de contrato — Vértice",
+  "parentId": "66435e3e-b803-5994-9b65-79db6558ba65",
+  "email": "paula@contato.example",
+  "phone": "(71) 98808-8878",
+  "createdAt": "@h-936",
+  "updatedAt": "@h-936"
+ },
+ {
+  "id": "26096447-602f-5d05-8fba-0eaa8f1fe81d",
+  "kind": "person",
+  "name": "Jorge Taveira",
+  "roles": [
+   "representante"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Vendas — Aço Brasil",
+  "parentId": "5be154c1-e194-58ac-aaa6-76d995fef19e",
+  "email": "jorge@contato.example",
+  "phone": "(71) 99589-3046",
+  "createdAt": "@h-1992",
+  "updatedAt": "@h-1992"
+ },
+ {
+  "id": "fce83de5-d05a-5ea4-a460-b4fb58260e5f",
+  "kind": "person",
+  "name": "Marina Tavares",
+  "roles": [
+   "profissional"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Advogada empresarial",
+  "parentId": null,
+  "email": "marina@contato.example",
+  "phone": "(71) 98377-6852",
+  "createdAt": "@h-576",
+  "updatedAt": "@h-576"
+ },
+ {
+  "id": "09486579-f4ea-5889-a155-4bf2ac7eadb8",
+  "kind": "person",
+  "name": "Hélio Bastos",
+  "roles": [
+   "profissional"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Contador responsável",
+  "parentId": "eb9018cd-d4b9-5879-b2dc-0ee28196e6b8",
+  "email": "helio@contato.example",
+  "phone": "(71) 98936-7878",
+  "createdAt": "@h-1992",
+  "updatedAt": "@h-1992"
+ },
+ {
+  "id": "a801bd2d-9038-52ff-a080-a3a114e7fbdc",
+  "kind": "person",
+  "name": "Ademir Duarte",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Mestre de obras",
+  "document": "***.543.219-**",
+  "phone": "(71) 98255-4860",
+  "createdAt": "@h-1392",
+  "updatedAt": "@h-1392"
+ },
+ {
+  "id": "5b536aee-2864-5ecb-9b5f-4c7edbb8a3af",
+  "kind": "person",
+  "name": "Rafael Pereira",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Encarregado",
+  "document": "***.311.858-**",
+  "phone": "(71) 98345-9320",
+  "createdAt": "@h-1920",
+  "updatedAt": "@h-1920"
+ },
+ {
+  "id": "7208631b-1438-5984-8aba-3e69254bba90",
+  "kind": "person",
+  "name": "Marcelo Barbosa",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Encarregado",
+  "document": "***.854.879-**",
+  "phone": "(71) 99734-5453",
+  "createdAt": "@h-1416",
+  "updatedAt": "@h-1416"
+ },
+ {
+  "id": "7468caf3-e836-5cc0-b05b-1622418b3c3a",
+  "kind": "person",
+  "name": "Everton Gomes",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Pedreiro",
+  "document": "***.157.129-**",
+  "phone": "(71) 98601-6996",
+  "createdAt": "@h-360",
+  "updatedAt": "@h-360"
+ },
+ {
+  "id": "78a16b5a-82df-5ab3-9117-58692b9ac92b",
+  "kind": "person",
+  "name": "Marcelo Araújo",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Pedreiro",
+  "document": "***.251.158-**",
+  "phone": "(71) 99346-3322",
+  "createdAt": "@h-864",
+  "updatedAt": "@h-864"
+ },
+ {
+  "id": "460d4ae2-c101-5d60-b31d-4d510f3c3e0a",
+  "kind": "person",
+  "name": "Gilmar Freitas",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Pedreiro",
+  "document": "***.883.599-**",
+  "phone": "(71) 99918-8417",
+  "createdAt": "@h-984",
+  "updatedAt": "@h-984"
+ },
+ {
+  "id": "806c1af2-512b-5d51-bb18-566d2b6d8fa1",
+  "kind": "person",
+  "name": "Nilton Mendes",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Carpinteiro",
+  "document": "***.838.399-**",
+  "phone": "(71) 99138-2452",
+  "createdAt": "@h-1368",
+  "updatedAt": "@h-1368"
+ },
+ {
+  "id": "2953c411-c201-5261-adf3-b07403b544cb",
+  "kind": "person",
+  "name": "Ademir Monteiro",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Carpinteiro",
+  "document": "***.402.482-**",
+  "phone": "(71) 99441-1741",
+  "createdAt": "@h-960",
+  "updatedAt": "@h-960"
+ },
+ {
+  "id": "4cf9c291-dbb3-5dd2-9eeb-fe9034e2a63d",
+  "kind": "person",
+  "name": "Ronaldo Cardoso",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Armador",
+  "document": "***.768.775-**",
+  "phone": "(71) 98014-9375",
+  "createdAt": "@h-864",
+  "updatedAt": "@h-864"
+ },
+ {
+  "id": "51cfb54a-6eee-5a19-8d66-5455484df467",
+  "kind": "person",
+  "name": "Leandro Mendes",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Armador",
+  "document": "***.882.279-**",
+  "phone": "(71) 98361-7176",
+  "createdAt": "@h-600",
+  "updatedAt": "@h-600"
+ },
+ {
+  "id": "cf187f77-e94d-56e2-9ae0-fffcdd7cc919",
+  "kind": "person",
+  "name": "Josué Cardoso",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Armador",
+  "document": "***.341.841-**",
+  "phone": "(71) 98231-7607",
+  "createdAt": "@h-120",
+  "updatedAt": "@h-120"
+ },
+ {
+  "id": "fb4b756f-49ec-57a6-b697-ca95ea8ec36a",
+  "kind": "person",
+  "name": "Genival Lima",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Armador",
+  "document": "***.691.357-**",
+  "phone": "(71) 98419-5915",
+  "createdAt": "@h-144",
+  "updatedAt": "@h-144"
+ },
+ {
+  "id": "175585b8-4159-5406-a1aa-c0ddabd95a05",
+  "kind": "person",
+  "name": "Elias Ramos",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Armador",
+  "document": "***.543.641-**",
+  "phone": "(71) 99654-1620",
+  "createdAt": "@h-552",
+  "updatedAt": "@h-552"
+ },
+ {
+  "id": "cfc274ba-5563-57bd-8948-5cb87f8b7135",
+  "kind": "person",
+  "name": "Vinícius Monteiro",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Servente",
+  "document": "***.481.995-**",
+  "phone": "(71) 98759-7729",
+  "createdAt": "@h-888",
+  "updatedAt": "@h-888"
+ },
+ {
+  "id": "4b6da843-40ac-54eb-afb5-1d6324f1725e",
+  "kind": "person",
+  "name": "Ademir Araújo",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Servente",
+  "document": "***.515.740-**",
+  "phone": "(71) 99541-7429",
+  "createdAt": "@h-1176",
+  "updatedAt": "@h-1176"
+ },
+ {
+  "id": "f378766b-b10f-5b9e-bea2-48b909eb633f",
+  "kind": "person",
+  "name": "Vinícius Duarte",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Operador de máquinas",
+  "document": "***.594.634-**",
+  "phone": "(71) 99818-9231",
+  "createdAt": "@h-2040",
+  "updatedAt": "@h-2040"
+ },
+ {
+  "id": "40a28e4e-f277-5edc-8e79-042fdda8f7e2",
+  "kind": "person",
+  "name": "Dionísio Lima",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Operador de máquinas",
+  "document": "***.685.273-**",
+  "phone": "(71) 99825-8520",
+  "createdAt": "@h-1344",
+  "updatedAt": "@h-1344"
+ },
+ {
+  "id": "db076a3b-4b18-5f16-ba8b-56cffeba4b69",
+  "kind": "person",
+  "name": "Altair Cardoso",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Técnico de segurança do trabalho",
+  "document": "***.276.999-**",
+  "phone": "(71) 98416-3612",
+  "createdAt": "@h-1392",
+  "updatedAt": "@h-1392"
+ },
+ {
+  "id": "e8f950bf-ca03-528f-acd0-5f77e4a2c0c4",
+  "kind": "person",
+  "name": "Cleiton Lima",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Mestre de obras",
+  "document": "***.728.146-**",
+  "phone": "(67) 99160-2201",
+  "createdAt": "@h-1416",
+  "updatedAt": "@h-1416"
+ },
+ {
+  "id": "aa3b2961-f410-58fb-994f-b5ec2b2d7136",
+  "kind": "person",
+  "name": "Reinaldo Gomes",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Encarregado",
+  "document": "***.173.732-**",
+  "phone": "(67) 98695-4261",
+  "createdAt": "@h-1152",
+  "updatedAt": "@h-1152"
+ },
+ {
+  "id": "5669edf2-5581-544c-bd2d-4afe5d8f26c0",
+  "kind": "person",
+  "name": "Tiago Pereira",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Pedreiro",
+  "document": "***.201.593-**",
+  "phone": "(67) 98255-4516",
+  "createdAt": "@h-1680",
+  "updatedAt": "@h-1680"
+ },
+ {
+  "id": "d3a7825c-852f-5c2f-a496-1b24c3f990f6",
+  "kind": "person",
+  "name": "Osvaldo Gomes",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Pedreiro",
+  "document": "***.381.746-**",
+  "phone": "(67) 98559-5288",
+  "createdAt": "@h-528",
+  "updatedAt": "@h-528"
+ },
+ {
+  "id": "202ebbeb-bac7-51c4-9c2d-7573699f2f93",
+  "kind": "person",
+  "name": "Everton Teixeira",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Pedreiro",
+  "document": "***.198.582-**",
+  "phone": "(67) 98945-2810",
+  "createdAt": "@h-48",
+  "updatedAt": "@h-48"
+ },
+ {
+  "id": "f9cd10ba-4e31-52f5-87bb-c23548092fb8",
+  "kind": "person",
+  "name": "Dionísio Duarte",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Carpinteiro",
+  "document": "***.423.797-**",
+  "phone": "(67) 99646-2111",
+  "createdAt": "@h-1392",
+  "updatedAt": "@h-1392"
+ },
+ {
+  "id": "ff7dee93-de16-5d7d-9dc3-08508c47abdd",
+  "kind": "person",
+  "name": "Altair Freitas",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Servente",
+  "document": "***.404.728-**",
+  "phone": "(67) 98975-9901",
+  "createdAt": "@h-1464",
+  "updatedAt": "@h-1464"
+ },
+ {
+  "id": "481c63a4-24f6-5cd0-8482-5a2739d20b33",
+  "kind": "person",
+  "name": "Fabrício Souza",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Servente",
+  "document": "***.360.116-**",
+  "phone": "(67) 99769-4739",
+  "createdAt": "@h-408",
+  "updatedAt": "@h-408"
+ },
+ {
+  "id": "6dfa81fd-6764-56de-930a-c6a81bb97d96",
+  "kind": "person",
+  "name": "Wagner Araújo",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Técnico de segurança do trabalho",
+  "document": "***.365.761-**",
+  "phone": "(67) 98147-9350",
+  "createdAt": "@h-1224",
+  "updatedAt": "@h-1224"
+ },
+ {
+  "id": "5a18ac67-a8f5-5614-847d-a0c587a589c8",
+  "kind": "person",
+  "name": "Fabrício Ramos",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Encarregado",
+  "document": "***.304.517-**",
+  "phone": "(71) 99833-6176",
+  "createdAt": "@h-312",
+  "updatedAt": "@h-312"
+ },
+ {
+  "id": "e2a2a646-9249-5015-a83f-b38daf8d1695",
+  "kind": "person",
+  "name": "Genival Cardoso",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Pedreiro",
+  "document": "***.542.622-**",
+  "phone": "(71) 99024-7313",
+  "createdAt": "@h-912",
+  "updatedAt": "@h-912"
+ },
+ {
+  "id": "5f099f8c-fef7-5141-acc1-c51a9ecf4f8f",
+  "kind": "person",
+  "name": "Elias Teixeira",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Pedreiro",
+  "document": "***.355.413-**",
+  "phone": "(71) 98176-8189",
+  "createdAt": "@h-408",
+  "updatedAt": "@h-408"
+ },
+ {
+  "id": "aaf8557e-9c73-56bd-a6d4-b4009ecbaa81",
+  "kind": "person",
+  "name": "Vinícius Batista",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Carpinteiro",
+  "document": "***.917.870-**",
+  "phone": "(71) 98817-2297",
+  "createdAt": "@h-1440",
+  "updatedAt": "@h-1440"
+ },
+ {
+  "id": "90d4f249-334c-5477-9456-5fd42674f6d8",
+  "kind": "person",
+  "name": "Marcelo Souza",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Servente",
+  "document": "***.707.426-**",
+  "phone": "(71) 99553-4939",
+  "createdAt": "@h-1536",
+  "updatedAt": "@h-1536"
+ },
+ {
+  "id": "a1f217b7-2189-5bdd-b43e-2adc866955a4",
+  "kind": "person",
+  "name": "Reinaldo Monteiro",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Salvador",
+  "state": "BA",
+  "tags": [],
+  "title": "Servente",
+  "document": "***.459.715-**",
+  "phone": "(71) 99750-3995",
+  "createdAt": "@h-1704",
+  "updatedAt": "@h-1704"
+ },
+ {
+  "id": "c8916e2d-20e1-55be-bab8-0d6590173569",
+  "kind": "person",
+  "name": "Marcelo Freitas",
+  "roles": [
+   "colaborador"
+  ],
+  "city": "Campo Grande",
+  "state": "MS",
+  "tags": [],
+  "title": "Operador de máquinas",
+  "document": "***.926.450-**",
+  "phone": "(71) 98907-6611",
+  "createdAt": "@h-2112",
+  "updatedAt": "@h-2112"
+ }
+]

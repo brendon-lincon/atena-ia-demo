@@ -1,0 +1,12 @@
+[
+ {
+  "svg": "brand/marketing/og-image.svg",
+  "out": "brand/marketing/og-image.png",
+  "width": 1200
+ },
+ {
+  "svg": "brand/marketing/banner.svg",
+  "out": "brand/marketing/banner.png",
+  "width": 1500
+ }
+]

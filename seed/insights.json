@@ -1,0 +1,282 @@
+[
+ {
+  "id": "0204b0eb-e4a9-533c-90f9-c62cb0acad6e",
+  "kind": "risk",
+  "severity": "critical",
+  "title": "Falta de aço CA-50 12,5 mm",
+  "body": "A nota do diário de ontem informa que o estoque cobre só mais 1 dia. A frente de armação do TQ-09 vai parar sem reposição.",
+  "shift": "morning",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "source": {
+   "type": "diary-entries",
+   "recordId": "a9193d1f-6baf-5d5b-8413-8501b6758a5d",
+   "label": "Nota do diário de ontem, Candeias"
+  },
+  "suggestedAction": {
+   "label": "Criar requisição de aço CA-50 12,5 mm (12 t)",
+   "type": "open-record",
+   "recordType": "purchase-requests",
+   "recordId": "4f9cdfb6-483f-5804-8710-c7cb7cccfc38"
+  },
+  "status": "new",
+  "generatedAt": "@h-6",
+  "createdAt": "@h-1008",
+  "updatedAt": "@h-1008"
+ },
+ {
+  "id": "5fd0eb7c-8738-54be-8723-ded5f919c02b",
+  "kind": "conflict",
+  "severity": "attention",
+  "title": "Conflito de alocação — equipe de armação",
+  "body": "Os 5 armadores estão alocados em Candeias e em Cuiabá na mesma semana (próximos 12 dias).",
+  "shift": "morning",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "source": {
+   "type": "allocations",
+   "recordId": null,
+   "label": "Alocações da equipe de armação"
+  },
+  "suggestedAction": {
+   "label": "Reprogramar a equipe de armação",
+   "type": "navigate",
+   "to": "/planning?tab=resources"
+  },
+  "status": "new",
+  "generatedAt": "@h-6",
+  "createdAt": "@h-1536",
+  "updatedAt": "@h-1536"
+ },
+ {
+  "id": "e1c79a96-1346-545e-9745-15cd19122f50",
+  "kind": "deadline",
+  "severity": "attention",
+  "title": "Condicionante da licença de operação vence em 20 dias",
+  "body": "Relatório de monitoramento de águas subterrâneas da LO de Cuiabá.",
+  "shift": "afternoon",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "source": {
+   "type": "compliance-items",
+   "recordId": "268862d2-104d-5104-b26d-5d419e85b74a",
+   "label": "Licença de Operação — Cuiabá"
+  },
+  "suggestedAction": {
+   "label": "Criar tarefa para protocolar o relatório",
+   "type": "create-task",
+   "title": "Protocolar o relatório da condicionante da LO",
+   "obraId": "79496055-a0cd-549d-a515-1d8d38ead179"
+  },
+  "status": "new",
+  "generatedAt": "@h-20",
+  "createdAt": "@h-864",
+  "updatedAt": "@h-864"
+ },
+ {
+  "id": "75683a93-b412-5705-b7b0-92f40752319d",
+  "kind": "omission",
+  "severity": "attention",
+  "title": "Hospedagem da mobilização de Osasco fora do orçamento",
+  "body": "O planejamento prevê 9 colaboradores por 6 semanas, mas o orçamento não tem custo de hospedagem.",
+  "shift": "afternoon",
+  "obraId": "4d7771c4-41b3-5aaa-a475-7cd99378c006",
+  "source": {
+   "type": "mobilization",
+   "recordId": null,
+   "label": "Mobilização — Osasco"
+  },
+  "suggestedAction": {
+   "label": "Incluir hospedagem no orçamento",
+   "type": "open-record",
+   "recordType": "purchase-requests",
+   "recordId": "df85efcf-431a-5ec2-8bf9-93b37212351e"
+  },
+  "status": "new",
+  "generatedAt": "@h-20",
+  "createdAt": "@h-1968",
+  "updatedAt": "@h-1968"
+ },
+ {
+  "id": "0bb0b296-8cae-549f-8c2a-75ea252da04b",
+  "kind": "risk",
+  "severity": "critical",
+  "title": "Atividade crítica atrasada — Concretagem da base TQ-08",
+  "body": "A atividade, que está no caminho crítico, está 3 dias atrasada em relação à linha de base.",
+  "shift": "morning",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "source": {
+   "type": "schedule-activities",
+   "recordId": "c89dc10f-ae12-53e9-9aba-7b6ec8af91d3",
+   "label": "Cronograma — Candeias"
+  },
+  "suggestedAction": {
+   "label": "Replanejar o TQ-08 e recuperar o prazo",
+   "type": "navigate",
+   "to": "/planning?tab=gantt"
+  },
+  "status": "new",
+  "generatedAt": "@h-30",
+  "createdAt": "@h-696",
+  "updatedAt": "@h-696"
+ },
+ {
+  "id": "62e9bc8a-432c-5990-85a1-788bbb68f850",
+  "kind": "deadline",
+  "severity": "attention",
+  "title": "2 ASO vencem em 7 dias",
+  "body": "Colaboradores com exame periódico vencendo.",
+  "shift": "afternoon",
+  "obraId": null,
+  "source": {
+   "type": "health-exams",
+   "recordId": "a207df61-aae3-5bd3-aebe-20c9d442d2a0",
+   "label": "Exames — SST"
+  },
+  "suggestedAction": {
+   "label": "Agendar os exames periódicos",
+   "type": "navigate",
+   "to": "/safety?tab=exams"
+  },
+  "status": "new",
+  "generatedAt": "@h-30",
+  "createdAt": "@h-2112",
+  "updatedAt": "@h-2112"
+ },
+ {
+  "id": "8453c314-896c-5cb1-b0db-38a4f5f63944",
+  "kind": "risk",
+  "severity": "info",
+  "title": "Desvio de custo em Candeias: +2,1%",
+  "body": "O desvio está concentrado em concreto usinado e locação de equipamentos.",
+  "shift": "night",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "source": {
+   "type": "cost-entries",
+   "recordId": null,
+   "label": "Custos — Candeias"
+  },
+  "suggestedAction": {
+   "label": "Revisar custos de concreto",
+   "type": "navigate",
+   "to": "/finance"
+  },
+  "status": "new",
+  "generatedAt": "@h-54",
+  "createdAt": "@h-1776",
+  "updatedAt": "@h-1776"
+ },
+ {
+  "id": "c4677c04-3321-5c90-84a3-517503d52ba5",
+  "kind": "risk",
+  "severity": "info",
+  "title": "Previsão de chuva forte na quinta-feira",
+  "body": "A concretagem da base do TQ-09 está programada para o mesmo dia.",
+  "shift": "night",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "source": {
+   "type": "weather",
+   "recordId": null,
+   "label": "Previsão do tempo — Candeias"
+  },
+  "suggestedAction": {
+   "label": "Antecipar a concretagem ou preparar proteção",
+   "type": "navigate",
+   "to": "/works"
+  },
+  "status": "new",
+  "generatedAt": "@h-54",
+  "createdAt": "@h-1152",
+  "updatedAt": "@h-1152"
+ },
+ {
+  "id": "b05ecfdf-cff4-5ec1-b88a-5402bf3ec539",
+  "kind": "deadline",
+  "severity": "info",
+  "title": "NR-35 de colaborador vence em 25 dias",
+  "body": "Reciclagem de trabalho em altura necessária para manter a frente de cobertura.",
+  "shift": "morning",
+  "obraId": null,
+  "source": {
+   "type": "trainings",
+   "recordId": null,
+   "label": "Treinamentos — SST"
+  },
+  "suggestedAction": {
+   "label": "Agendar reciclagem",
+   "type": "navigate",
+   "to": "/safety?tab=trainings"
+  },
+  "status": "new",
+  "generatedAt": "@h-78",
+  "createdAt": "@h-2016",
+  "updatedAt": "@h-2016"
+ },
+ {
+  "id": "ac8a1686-575a-51c4-9c37-cb3d4759f8c5",
+  "kind": "reminder",
+  "severity": "attention",
+  "title": "Medição nº 4 de Cuiabá pronta para envio",
+  "body": "O boletim está aprovado internamente; o contrato prevê envio em até 5 dias após o fechamento.",
+  "shift": "morning",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "source": {
+   "type": "measurements",
+   "recordId": "ec54e27f-7900-5f32-a35e-2b502163b08b",
+   "label": "Medição nº 4 — Cuiabá"
+  },
+  "suggestedAction": {
+   "label": "Revisar e enviar ao contratante",
+   "type": "open-record",
+   "recordType": "measurements",
+   "recordId": "ec54e27f-7900-5f32-a35e-2b502163b08b"
+  },
+  "status": "accepted",
+  "generatedAt": "@h-78",
+  "createdAt": "@h-1248",
+  "updatedAt": "@h-1248"
+ },
+ {
+  "id": "a4098878-10e0-5642-8c01-c4deeb08c11e",
+  "kind": "risk",
+  "severity": "info",
+  "title": "Franquia de horas do guindaste quase no limite",
+  "body": "92% das 220 h/mês contratadas já foram usadas.",
+  "shift": "afternoon",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "source": {
+   "type": "contracts",
+   "recordId": "1b032092-e5ab-59b1-b1cc-7bc956a9f2c6",
+   "label": "Contrato de locação LocaMax"
+  },
+  "suggestedAction": {
+   "label": "Negociar horas adicionais",
+   "type": "navigate",
+   "to": "/procurement"
+  },
+  "status": "snoozed",
+  "generatedAt": "@h-102",
+  "createdAt": "@h-1344",
+  "updatedAt": "@h-1344"
+ },
+ {
+  "id": "498d7f84-69a6-57e7-8d09-d38cebdb4650",
+  "kind": "opportunity",
+  "severity": "info",
+  "title": "Oportunidade: reaproveitar fôrmas do TQ-08 no TQ-12",
+  "body": "A sequência das bases permite reaproveitar o jogo de fôrmas e reduzir a compra de compensado.",
+  "shift": "night",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "source": {
+   "type": "schedule-activities",
+   "recordId": "c89dc10f-ae12-53e9-9aba-7b6ec8af91d3",
+   "label": "Cronograma — bases dos tanques"
+  },
+  "suggestedAction": {
+   "label": "Ajustar o plano de fôrmas",
+   "type": "navigate",
+   "to": "/planning"
+  },
+  "status": "snoozed",
+  "generatedAt": "@h-102",
+  "createdAt": "@h-1560",
+  "updatedAt": "@h-1560"
+ }
+]

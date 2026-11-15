@@ -1,0 +1,695 @@
+[
+ {
+  "id": "7ce69e06-54b6-5ed0-89cb-031a56e9b888",
+  "code": "CGA-0101",
+  "description": "Locação de obra com topografia",
+  "unit": "m²",
+  "inputs": [
+   {
+    "kind": "labor",
+    "description": "Topógrafo",
+    "unit": "h",
+    "coefficient": 0.03,
+    "unitCostCents": 6200
+   },
+   {
+    "kind": "labor",
+    "description": "Auxiliar de topografia",
+    "unit": "h",
+    "coefficient": 0.06,
+    "unitCostCents": 2400
+   },
+   {
+    "kind": "material",
+    "description": "Piquetes e estacas de madeira",
+    "unit": "un",
+    "coefficient": 0.2,
+    "unitCostCents": 280
+   }
+  ],
+  "unitCostCents": 386,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-1464",
+  "updatedAt": "@h-1464"
+ },
+ {
+  "id": "e0650661-422b-5c97-a9fa-857d408fb50b",
+  "code": "CGA-0102",
+  "description": "Escavação mecanizada de vala em solo de 1ª categoria",
+  "unit": "m³",
+  "inputs": [
+   {
+    "kind": "equipment",
+    "description": "Retroescavadeira",
+    "unit": "h",
+    "coefficient": 0.06,
+    "unitCostCents": 16500
+   },
+   {
+    "kind": "labor",
+    "description": "Servente",
+    "unit": "h",
+    "coefficient": 0.12,
+    "unitCostCents": 1950
+   }
+  ],
+  "unitCostCents": 1224,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-936",
+  "updatedAt": "@h-936"
+ },
+ {
+  "id": "34da28c6-a843-5b72-9288-d4479d7e8569",
+  "code": "CGA-0103",
+  "description": "Lastro de concreto magro e = 5 cm",
+  "unit": "m²",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Concreto magro fck 15 MPa",
+    "unit": "m³",
+    "coefficient": 0.055,
+    "unitCostCents": 39500
+   },
+   {
+    "kind": "labor",
+    "description": "Pedreiro",
+    "unit": "h",
+    "coefficient": 0.18,
+    "unitCostCents": 2600
+   },
+   {
+    "kind": "labor",
+    "description": "Servente",
+    "unit": "h",
+    "coefficient": 0.18,
+    "unitCostCents": 1950
+   }
+  ],
+  "unitCostCents": 2992,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-2136",
+  "updatedAt": "@h-2136"
+ },
+ {
+  "id": "e4ede04b-2050-5b8f-bcc3-707fdbeb000e",
+  "code": "CGA-0104",
+  "description": "Fôrma de madeira compensada resinada, 5 usos",
+  "unit": "m²",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Compensado resinado 17 mm",
+    "unit": "m²",
+    "coefficient": 0.22,
+    "unitCostCents": 7800
+   },
+   {
+    "kind": "labor",
+    "description": "Carpinteiro",
+    "unit": "h",
+    "coefficient": 0.7,
+    "unitCostCents": 2800
+   },
+   {
+    "kind": "labor",
+    "description": "Servente",
+    "unit": "h",
+    "coefficient": 0.35,
+    "unitCostCents": 1950
+   }
+  ],
+  "unitCostCents": 4358,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-2064",
+  "updatedAt": "@h-2064"
+ },
+ {
+  "id": "b15922e1-0b5b-598c-94f6-e395849f8489",
+  "code": "CGA-0105",
+  "description": "Armação em aço CA-50, corte, dobra e montagem",
+  "unit": "kg",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Aço CA-50 diâmetros variados",
+    "unit": "kg",
+    "coefficient": 1.08,
+    "unitCostCents": 790
+   },
+   {
+    "kind": "labor",
+    "description": "Armador",
+    "unit": "h",
+    "coefficient": 0.075,
+    "unitCostCents": 2750
+   },
+   {
+    "kind": "labor",
+    "description": "Servente",
+    "unit": "h",
+    "coefficient": 0.075,
+    "unitCostCents": 1950
+   }
+  ],
+  "unitCostCents": 1206,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-2112",
+  "updatedAt": "@h-2112"
+ },
+ {
+  "id": "3b302192-89df-509c-b71d-585f5a72cdb9",
+  "code": "CGA-0106",
+  "description": "Concreto fck 30 MPa, lançamento e adensamento",
+  "unit": "m³",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Concreto usinado fck 30 MPa",
+    "unit": "m³",
+    "coefficient": 1.05,
+    "unitCostCents": 46800
+   },
+   {
+    "kind": "equipment",
+    "description": "Bomba de concreto",
+    "unit": "h",
+    "coefficient": 0.12,
+    "unitCostCents": 28000
+   },
+   {
+    "kind": "labor",
+    "description": "Servente",
+    "unit": "h",
+    "coefficient": 1.6,
+    "unitCostCents": 1950
+   }
+  ],
+  "unitCostCents": 55620,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-1152",
+  "updatedAt": "@h-1152"
+ },
+ {
+  "id": "650d3bd5-7145-554a-bf6b-77850de52f9b",
+  "code": "CGA-0107",
+  "description": "Alvenaria de bloco de concreto 14 cm",
+  "unit": "m²",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Bloco de concreto 14x19x39",
+    "unit": "un",
+    "coefficient": 12.5,
+    "unitCostCents": 435
+   },
+   {
+    "kind": "material",
+    "description": "Argamassa de assentamento",
+    "unit": "m³",
+    "coefficient": 0.012,
+    "unitCostCents": 52000
+   },
+   {
+    "kind": "labor",
+    "description": "Pedreiro",
+    "unit": "h",
+    "coefficient": 0.62,
+    "unitCostCents": 2600
+   },
+   {
+    "kind": "labor",
+    "description": "Servente",
+    "unit": "h",
+    "coefficient": 0.45,
+    "unitCostCents": 1950
+   }
+  ],
+  "unitCostCents": 8551,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-1176",
+  "updatedAt": "@h-1176"
+ },
+ {
+  "id": "4c8704e3-0375-54e7-b6fd-7e3235873c8b",
+  "code": "CGA-0108",
+  "description": "Chapisco, emboço e reboco",
+  "unit": "m²",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Argamassa industrializada",
+    "unit": "kg",
+    "coefficient": 38.0,
+    "unitCostCents": 62
+   },
+   {
+    "kind": "labor",
+    "description": "Pedreiro",
+    "unit": "h",
+    "coefficient": 0.55,
+    "unitCostCents": 2600
+   },
+   {
+    "kind": "labor",
+    "description": "Servente",
+    "unit": "h",
+    "coefficient": 0.3,
+    "unitCostCents": 1950
+   }
+  ],
+  "unitCostCents": 4371,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-1752",
+  "updatedAt": "@h-1752"
+ },
+ {
+  "id": "1d9eb67a-4652-51c2-8186-6ac2ae6c3ed8",
+  "code": "CGA-0109",
+  "description": "Laje pré-moldada treliçada com capa",
+  "unit": "m²",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Painel treliçado e lajota",
+    "unit": "m²",
+    "coefficient": 1.0,
+    "unitCostCents": 6200
+   },
+   {
+    "kind": "material",
+    "description": "Concreto fck 25 MPa da capa",
+    "unit": "m³",
+    "coefficient": 0.07,
+    "unitCostCents": 45500
+   },
+   {
+    "kind": "labor",
+    "description": "Pedreiro",
+    "unit": "h",
+    "coefficient": 0.5,
+    "unitCostCents": 2600
+   }
+  ],
+  "unitCostCents": 10685,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-600",
+  "updatedAt": "@h-600"
+ },
+ {
+  "id": "44428222-6f45-5269-a02d-af061935b316",
+  "code": "CGA-0110",
+  "description": "Cobertura em telha metálica trapezoidal com estrutura",
+  "unit": "m²",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Telha trapezoidal e = 0,5 mm",
+    "unit": "m²",
+    "coefficient": 1.12,
+    "unitCostCents": 5800
+   },
+   {
+    "kind": "material",
+    "description": "Estrutura metálica de apoio",
+    "unit": "kg",
+    "coefficient": 9.5,
+    "unitCostCents": 1480
+   },
+   {
+    "kind": "labor",
+    "description": "Montador",
+    "unit": "h",
+    "coefficient": 0.55,
+    "unitCostCents": 3200
+   }
+  ],
+  "unitCostCents": 22316,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-1680",
+  "updatedAt": "@h-1680"
+ },
+ {
+  "id": "891c27c9-85fc-52df-9010-5ec44331bd5e",
+  "code": "CGA-0111",
+  "description": "Impermeabilização com manta asfáltica 4 mm",
+  "unit": "m²",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Manta asfáltica 4 mm",
+    "unit": "m²",
+    "coefficient": 1.15,
+    "unitCostCents": 4900
+   },
+   {
+    "kind": "labor",
+    "description": "Impermeabilizador",
+    "unit": "h",
+    "coefficient": 0.4,
+    "unitCostCents": 2800
+   }
+  ],
+  "unitCostCents": 6755,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-1920",
+  "updatedAt": "@h-1920"
+ },
+ {
+  "id": "93d3dfb3-06f9-55aa-907e-cef664c7ffe8",
+  "code": "CGA-0112",
+  "description": "Piso de concreto armado e = 12 cm, acabamento polido",
+  "unit": "m²",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Concreto fck 30 MPa",
+    "unit": "m³",
+    "coefficient": 0.126,
+    "unitCostCents": 46800
+   },
+   {
+    "kind": "material",
+    "description": "Tela soldada Q-138",
+    "unit": "m²",
+    "coefficient": 1.1,
+    "unitCostCents": 1450
+   },
+   {
+    "kind": "labor",
+    "description": "Pedreiro",
+    "unit": "h",
+    "coefficient": 0.42,
+    "unitCostCents": 2600
+   },
+   {
+    "kind": "equipment",
+    "description": "Acabadora de piso",
+    "unit": "h",
+    "coefficient": 0.08,
+    "unitCostCents": 5500
+   }
+  ],
+  "unitCostCents": 9024,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-1656",
+  "updatedAt": "@h-1656"
+ },
+ {
+  "id": "bc0817ce-224c-5c9b-af24-05a2de603fdb",
+  "code": "CGA-0113",
+  "description": "Pintura epóxi em duas demãos",
+  "unit": "m²",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Tinta epóxi bicomponente",
+    "unit": "L",
+    "coefficient": 0.28,
+    "unitCostCents": 7400
+   },
+   {
+    "kind": "labor",
+    "description": "Pintor",
+    "unit": "h",
+    "coefficient": 0.35,
+    "unitCostCents": 2500
+   }
+  ],
+  "unitCostCents": 2947,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-1968",
+  "updatedAt": "@h-1968"
+ },
+ {
+  "id": "e91c429d-e2c9-5e80-a31b-8393a9ed4efa",
+  "code": "CGA-0114",
+  "description": "Porta metálica de abrir com ferragens",
+  "unit": "un",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Porta metálica 0,90 x 2,10",
+    "unit": "un",
+    "coefficient": 1.0,
+    "unitCostCents": 98000
+   },
+   {
+    "kind": "labor",
+    "description": "Serralheiro",
+    "unit": "h",
+    "coefficient": 2.0,
+    "unitCostCents": 3000
+   }
+  ],
+  "unitCostCents": 104000,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-1728",
+  "updatedAt": "@h-1728"
+ },
+ {
+  "id": "a2dbf604-afc6-56ab-a89d-44db947ebb20",
+  "code": "CGA-0115",
+  "description": "Ponto elétrico de iluminação ou tomada",
+  "unit": "un",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Eletroduto, fiação e caixa",
+    "unit": "vb",
+    "coefficient": 1.0,
+    "unitCostCents": 11800
+   },
+   {
+    "kind": "labor",
+    "description": "Eletricista",
+    "unit": "h",
+    "coefficient": 2.2,
+    "unitCostCents": 2900
+   }
+  ],
+  "unitCostCents": 18180,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-1896",
+  "updatedAt": "@h-1896"
+ },
+ {
+  "id": "663e0edb-a82e-5f2e-bcfd-527a9e51b9ab",
+  "code": "CGA-0116",
+  "description": "Quadro de distribuição de circuitos",
+  "unit": "un",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Quadro 24 disjuntores com barramento",
+    "unit": "un",
+    "coefficient": 1.0,
+    "unitCostCents": 265000
+   },
+   {
+    "kind": "labor",
+    "description": "Eletricista",
+    "unit": "h",
+    "coefficient": 6.0,
+    "unitCostCents": 2900
+   }
+  ],
+  "unitCostCents": 282400,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-576",
+  "updatedAt": "@h-576"
+ },
+ {
+  "id": "0c262c1e-f2f9-5772-b216-270318863604",
+  "code": "CGA-0117",
+  "description": "Ponto hidráulico com tubulação",
+  "unit": "un",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Tubos e conexões",
+    "unit": "vb",
+    "coefficient": 1.0,
+    "unitCostCents": 9600
+   },
+   {
+    "kind": "labor",
+    "description": "Encanador",
+    "unit": "h",
+    "coefficient": 2.0,
+    "unitCostCents": 2700
+   }
+  ],
+  "unitCostCents": 15000,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-1224",
+  "updatedAt": "@h-1224"
+ },
+ {
+  "id": "4eb31937-7c11-5ede-8fa7-3f6c954dd9cc",
+  "code": "CGA-0118",
+  "description": "Malha de aterramento com hastes",
+  "unit": "un",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Hastes, cabo de cobre e conectores",
+    "unit": "vb",
+    "coefficient": 1.0,
+    "unitCostCents": 145000
+   },
+   {
+    "kind": "labor",
+    "description": "Eletricista",
+    "unit": "h",
+    "coefficient": 12.0,
+    "unitCostCents": 2900
+   }
+  ],
+  "unitCostCents": 179800,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-408",
+  "updatedAt": "@h-408"
+ },
+ {
+  "id": "d93783a7-c7fe-5b68-9584-6f43e8bd4d96",
+  "code": "CGA-0119",
+  "description": "Junta de dilatação com selante",
+  "unit": "m",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Selante e fundo de junta",
+    "unit": "m",
+    "coefficient": 1.0,
+    "unitCostCents": 1150
+   },
+   {
+    "kind": "labor",
+    "description": "Pedreiro",
+    "unit": "h",
+    "coefficient": 0.18,
+    "unitCostCents": 2600
+   }
+  ],
+  "unitCostCents": 1618,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-1704",
+  "updatedAt": "@h-1704"
+ },
+ {
+  "id": "500fedfd-359f-598d-928c-56932e87f89e",
+  "code": "CGA-0120",
+  "description": "Demolição mecanizada de piso e remoção de entulho",
+  "unit": "m²",
+  "inputs": [
+   {
+    "kind": "equipment",
+    "description": "Rompedor hidráulico",
+    "unit": "h",
+    "coefficient": 0.09,
+    "unitCostCents": 19000
+   },
+   {
+    "kind": "labor",
+    "description": "Servente",
+    "unit": "h",
+    "coefficient": 0.3,
+    "unitCostCents": 1950
+   },
+   {
+    "kind": "equipment",
+    "description": "Caminhão basculante",
+    "unit": "h",
+    "coefficient": 0.05,
+    "unitCostCents": 21000
+   }
+  ],
+  "unitCostCents": 3345,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-528",
+  "updatedAt": "@h-528"
+ },
+ {
+  "id": "9c53f44e-6eb8-59d2-af7f-4d759830100e",
+  "code": "CGA-0121",
+  "description": "Reforço de pilar com encamisamento em concreto",
+  "unit": "m",
+  "inputs": [
+   {
+    "kind": "material",
+    "description": "Concreto autoadensável",
+    "unit": "m³",
+    "coefficient": 0.08,
+    "unitCostCents": 64000
+   },
+   {
+    "kind": "material",
+    "description": "Aço CA-50",
+    "unit": "kg",
+    "coefficient": 18.0,
+    "unitCostCents": 790
+   },
+   {
+    "kind": "labor",
+    "description": "Armador",
+    "unit": "h",
+    "coefficient": 1.4,
+    "unitCostCents": 2750
+   },
+   {
+    "kind": "labor",
+    "description": "Carpinteiro",
+    "unit": "h",
+    "coefficient": 1.2,
+    "unitCostCents": 2800
+   }
+  ],
+  "unitCostCents": 26550,
+  "source": "Própria da empresa",
+  "baseDate": "2026-10",
+  "state": "MS",
+  "createdAt": "@h-672",
+  "updatedAt": "@h-672"
+ }
+]

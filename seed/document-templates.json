@@ -1,0 +1,658 @@
+[
+ {
+  "id": "b42dd98a-9bf2-5616-b018-d8836d74d96d",
+  "name": "Memorial descritivo",
+  "category": "engineering",
+  "description": "Descrição do objeto, serviços por frente, materiais e normas aplicáveis.",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "MEMORIAL DESCRITIVO — {{obra}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "1. OBJETO\nO presente memorial descreve os serviços de {{escopo}} da obra {{obra}}, localizada em {{cidade}}/{{uf}}, contratada por {{contratante}}."
+   },
+   {
+    "type": "paragraph",
+    "text": "2. DESCRIÇÃO DOS SERVIÇOS\n{{servicos}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "3. NORMAS APLICÁVEIS\nOs serviços serão executados conforme as normas da ABNT aplicáveis, com destaque para NBR 6118, NBR 17505 e NBR 5410, e as Normas Regulamentadoras de segurança e saúde no trabalho, em especial a NR-18."
+   },
+   {
+    "type": "paragraph",
+    "text": "4. MATERIAIS E CONTROLE TECNOLÓGICO\nOs materiais serão recebidos mediante conferência de nota fiscal e certificado. O concreto estrutural terá controle de resistência por corpos de prova, conforme o plano de controle tecnológico da obra."
+   },
+   {
+    "type": "paragraph",
+    "text": "5. RESPONSABILIDADE TÉCNICA\nResponsável técnico: {{responsavel}} — {{conselho}} {{registro}}."
+   },
+   {
+    "type": "signature",
+    "text": "{{responsavel}}\nResponsável técnico"
+   }
+  ],
+  "fields": [
+   {
+    "key": "cidade",
+    "label": "Cidade"
+   },
+   {
+    "key": "conselho",
+    "label": "Conselho"
+   },
+   {
+    "key": "contratante",
+    "label": "Contratante"
+   },
+   {
+    "key": "escopo",
+    "label": "Escopo"
+   },
+   {
+    "key": "obra",
+    "label": "Obra"
+   },
+   {
+    "key": "registro",
+    "label": "Registro"
+   },
+   {
+    "key": "responsavel",
+    "label": "Responsavel"
+   },
+   {
+    "key": "servicos",
+    "label": "Servicos"
+   },
+   {
+    "key": "uf",
+    "label": "Uf"
+   }
+  ],
+  "system": true,
+  "version": 1,
+  "createdAt": "@h-1344",
+  "updatedAt": "@h-1344"
+ },
+ {
+  "id": "a56d5698-ee24-598d-a68a-117d079c6fe6",
+  "name": "Contrato de empreitada",
+  "category": "legal",
+  "description": "Contrato de empreitada de obra industrial com preço global.",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "CONTRATO DE EMPREITADA Nº {{numero}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "CONTRATANTE: {{contratante}}.\nCONTRATADA: {{empresa}}, CNPJ {{cnpj}}, com sede em {{sede}}."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 1ª — DO OBJETO\nA CONTRATADA executará, em regime de empreitada por preço global, a obra {{obra}}, em {{cidade}}/{{uf}}, conforme projetos, memoriais e planilha contratual."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 2ª — DO PREÇO E DO PAGAMENTO\nO preço global é de {{valor}}. O pagamento será feito por medição mensal, em até 30 (trinta) dias após a emissão da nota fiscal, com retenção contratual de {{retencao}}%."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 3ª — DO PRAZO\nA obra será executada entre {{inicio}} e {{termino}}, salvo prorrogações formalizadas por aditivo."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 4ª — DO REAJUSTE\nO preço será reajustado anualmente pelo índice {{indice}}, a contar da data-base da proposta."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 5ª — DA RESPONSABILIDADE TÉCNICA E DA SEGURANÇA\nA CONTRATADA manterá responsável técnico habilitado, com ART registrada, e cumprirá as Normas Regulamentadoras de segurança e saúde no trabalho aplicáveis."
+   },
+   {
+    "type": "paragraph",
+    "text": "CLÁUSULA 6ª — DA GARANTIA\nA CONTRATADA oferece garantia de {{garantia}}% do valor do contrato, nos termos da lei civil para o contrato de empreitada."
+   },
+   {
+    "type": "signature",
+    "text": "{{empresa}}\nContratada"
+   },
+   {
+    "type": "signature",
+    "text": "{{contratante}}\nContratante"
+   }
+  ],
+  "fields": [
+   {
+    "key": "cidade",
+    "label": "Cidade"
+   },
+   {
+    "key": "cnpj",
+    "label": "Cnpj"
+   },
+   {
+    "key": "contratante",
+    "label": "Contratante"
+   },
+   {
+    "key": "empresa",
+    "label": "Empresa"
+   },
+   {
+    "key": "garantia",
+    "label": "Garantia"
+   },
+   {
+    "key": "indice",
+    "label": "Indice"
+   },
+   {
+    "key": "inicio",
+    "label": "Inicio"
+   },
+   {
+    "key": "numero",
+    "label": "Numero"
+   },
+   {
+    "key": "obra",
+    "label": "Obra"
+   },
+   {
+    "key": "retencao",
+    "label": "Retencao"
+   },
+   {
+    "key": "sede",
+    "label": "Sede"
+   },
+   {
+    "key": "termino",
+    "label": "Termino"
+   },
+   {
+    "key": "uf",
+    "label": "Uf"
+   },
+   {
+    "key": "valor",
+    "label": "Valor"
+   }
+  ],
+  "system": true,
+  "version": 1,
+  "createdAt": "@h-1800",
+  "updatedAt": "@h-1800"
+ },
+ {
+  "id": "1605b0a9-2bb3-5358-85d8-c87663d093d9",
+  "name": "Memorial de cálculo",
+  "category": "engineering",
+  "description": "Memória de cálculo de quantitativos ou dimensionamentos.",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "MEMORIAL DE CÁLCULO — {{obra}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "Este memorial apresenta as premissas, fórmulas e resultados do cálculo de {{escopo}}, em {{cidade}}/{{uf}}."
+   },
+   {
+    "type": "signature",
+    "text": "{{responsavel}}\nResponsável técnico"
+   }
+  ],
+  "fields": [
+   {
+    "key": "cidade",
+    "label": "Cidade"
+   },
+   {
+    "key": "escopo",
+    "label": "Escopo"
+   },
+   {
+    "key": "obra",
+    "label": "Obra"
+   },
+   {
+    "key": "responsavel",
+    "label": "Responsavel"
+   },
+   {
+    "key": "uf",
+    "label": "Uf"
+   }
+  ],
+  "system": true,
+  "version": 1,
+  "createdAt": "@h-1296",
+  "updatedAt": "@h-1296"
+ },
+ {
+  "id": "54592e24-5c86-57f3-ac8a-280acfc01693",
+  "name": "Relatório técnico",
+  "category": "engineering",
+  "description": "Relatório técnico periódico da obra.",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "RELATÓRIO TÉCNICO — {{obra}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "Período: {{periodo}}. Avanço físico acumulado: {{avanco}}%. Efetivo médio: {{efetivo}} colaboradores."
+   },
+   {
+    "type": "paragraph",
+    "text": "Principais ocorrências: {{ocorrencias}}"
+   },
+   {
+    "type": "signature",
+    "text": "{{responsavel}}\nResponsável técnico"
+   }
+  ],
+  "fields": [
+   {
+    "key": "avanco",
+    "label": "Avanco"
+   },
+   {
+    "key": "efetivo",
+    "label": "Efetivo"
+   },
+   {
+    "key": "obra",
+    "label": "Obra"
+   },
+   {
+    "key": "ocorrencias",
+    "label": "Ocorrencias"
+   },
+   {
+    "key": "periodo",
+    "label": "Periodo"
+   },
+   {
+    "key": "responsavel",
+    "label": "Responsavel"
+   }
+  ],
+  "system": true,
+  "version": 1,
+  "createdAt": "@h-1560",
+  "updatedAt": "@h-1560"
+ },
+ {
+  "id": "3c6e81ed-24c8-5b76-ae64-511f8cc6bd24",
+  "name": "Laudo técnico",
+  "category": "engineering",
+  "description": "Laudo de vistoria e conclusão técnica.",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "LAUDO TÉCNICO — {{obra}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "Vistoria realizada em {{data}} em {{cidade}}/{{uf}}. Constatações: {{constatacoes}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "Conclusão: {{conclusao}}"
+   },
+   {
+    "type": "signature",
+    "text": "{{responsavel}}\nResponsável técnico"
+   }
+  ],
+  "fields": [
+   {
+    "key": "cidade",
+    "label": "Cidade"
+   },
+   {
+    "key": "conclusao",
+    "label": "Conclusao"
+   },
+   {
+    "key": "constatacoes",
+    "label": "Constatacoes"
+   },
+   {
+    "key": "data",
+    "label": "Data"
+   },
+   {
+    "key": "obra",
+    "label": "Obra"
+   },
+   {
+    "key": "responsavel",
+    "label": "Responsavel"
+   },
+   {
+    "key": "uf",
+    "label": "Uf"
+   }
+  ],
+  "system": true,
+  "version": 1,
+  "createdAt": "@h-696",
+  "updatedAt": "@h-696"
+ },
+ {
+  "id": "134871c2-6d2d-56e7-b216-da9fb04a9ec5",
+  "name": "Parecer técnico",
+  "category": "engineering",
+  "description": "Parecer sobre consulta técnica.",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "PARECER TÉCNICO Nº {{numero}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "Consulta: {{consulta}}\nParecer: {{parecer}}"
+   },
+   {
+    "type": "signature",
+    "text": "{{responsavel}}\nResponsável técnico"
+   }
+  ],
+  "fields": [
+   {
+    "key": "consulta",
+    "label": "Consulta"
+   },
+   {
+    "key": "numero",
+    "label": "Numero"
+   },
+   {
+    "key": "parecer",
+    "label": "Parecer"
+   },
+   {
+    "key": "responsavel",
+    "label": "Responsavel"
+   }
+  ],
+  "system": true,
+  "version": 1,
+  "createdAt": "@h-1944",
+  "updatedAt": "@h-1944"
+ },
+ {
+  "id": "146a77f9-c5d3-52ae-84da-5d8da879e5d0",
+  "name": "Ata de reunião",
+  "category": "obra",
+  "description": "Ata com pauta, participantes e encaminhamentos.",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "ATA DE REUNIÃO — {{obra}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "Data: {{data}}. Pauta: {{pauta}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "Encaminhamentos: {{encaminhamentos}}"
+   }
+  ],
+  "fields": [
+   {
+    "key": "data",
+    "label": "Data"
+   },
+   {
+    "key": "encaminhamentos",
+    "label": "Encaminhamentos"
+   },
+   {
+    "key": "obra",
+    "label": "Obra"
+   },
+   {
+    "key": "pauta",
+    "label": "Pauta"
+   }
+  ],
+  "system": true,
+  "version": 1,
+  "createdAt": "@h-1032",
+  "updatedAt": "@h-1032"
+ },
+ {
+  "id": "39211231-7899-5a93-9c89-d6d7ea4406f2",
+  "name": "Ordem de serviço",
+  "category": "obra",
+  "description": "Ordem de serviço para execução de atividade.",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "ORDEM DE SERVIÇO Nº {{numero}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "Fica autorizada a execução de {{servico}} na obra {{obra}}, a partir de {{data}}."
+   },
+   {
+    "type": "signature",
+    "text": "{{responsavel}}\nResponsável técnico"
+   }
+  ],
+  "fields": [
+   {
+    "key": "data",
+    "label": "Data"
+   },
+   {
+    "key": "numero",
+    "label": "Numero"
+   },
+   {
+    "key": "obra",
+    "label": "Obra"
+   },
+   {
+    "key": "responsavel",
+    "label": "Responsavel"
+   },
+   {
+    "key": "servico",
+    "label": "Servico"
+   }
+  ],
+  "system": true,
+  "version": 1,
+  "createdAt": "@h-624",
+  "updatedAt": "@h-624"
+ },
+ {
+  "id": "36dce6b3-8b03-53dc-9a28-2e04117da58b",
+  "name": "Declaração",
+  "category": "avulso",
+  "description": "Declaração avulsa.",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "DECLARAÇÃO"
+   },
+   {
+    "type": "paragraph",
+    "text": "A {{empresa}}, CNPJ {{cnpj}}, declara para os devidos fins que {{declaracao}}."
+   },
+   {
+    "type": "signature",
+    "text": "{{responsavel}}\n{{empresa}}"
+   }
+  ],
+  "fields": [
+   {
+    "key": "cnpj",
+    "label": "Cnpj"
+   },
+   {
+    "key": "declaracao",
+    "label": "Declaracao"
+   },
+   {
+    "key": "empresa",
+    "label": "Empresa"
+   },
+   {
+    "key": "responsavel",
+    "label": "Responsavel"
+   }
+  ],
+  "system": true,
+  "version": 1,
+  "createdAt": "@h-408",
+  "updatedAt": "@h-408"
+ },
+ {
+  "id": "56bd758e-52a5-56d5-8249-20c394f19fce",
+  "name": "Recibo",
+  "category": "avulso",
+  "description": "Recibo de pagamento.",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "RECIBO"
+   },
+   {
+    "type": "paragraph",
+    "text": "Recebemos de {{contratante}} a importância de {{valor}}, referente a {{referencia}}."
+   },
+   {
+    "type": "signature",
+    "text": "{{empresa}}"
+   }
+  ],
+  "fields": [
+   {
+    "key": "contratante",
+    "label": "Contratante"
+   },
+   {
+    "key": "empresa",
+    "label": "Empresa"
+   },
+   {
+    "key": "referencia",
+    "label": "Referencia"
+   },
+   {
+    "key": "valor",
+    "label": "Valor"
+   }
+  ],
+  "system": true,
+  "version": 1,
+  "createdAt": "@h-1656",
+  "updatedAt": "@h-1656"
+ },
+ {
+  "id": "76d2952b-7c12-52c7-ae68-703fe3e8abb2",
+  "name": "Ofício",
+  "category": "avulso",
+  "description": "Ofício a contratante ou órgão.",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "OFÍCIO Nº {{numero}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "Prezado(a) {{contratante}}, {{texto}}"
+   },
+   {
+    "type": "signature",
+    "text": "{{responsavel}}\n{{empresa}}"
+   }
+  ],
+  "fields": [
+   {
+    "key": "contratante",
+    "label": "Contratante"
+   },
+   {
+    "key": "empresa",
+    "label": "Empresa"
+   },
+   {
+    "key": "numero",
+    "label": "Numero"
+   },
+   {
+    "key": "responsavel",
+    "label": "Responsavel"
+   },
+   {
+    "key": "texto",
+    "label": "Texto"
+   }
+  ],
+  "system": true,
+  "version": 1,
+  "createdAt": "@h-384",
+  "updatedAt": "@h-384"
+ },
+ {
+  "id": "9757abee-d857-515e-978d-9e0b5c7d0264",
+  "name": "Termo de recebimento",
+  "category": "obra",
+  "description": "Termo de recebimento provisório ou definitivo.",
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "TERMO DE RECEBIMENTO {{tipo}} — {{obra}}"
+   },
+   {
+    "type": "paragraph",
+    "text": "As partes reconhecem o recebimento {{tipo}} da obra {{obra}}, em {{data}}, com as pendências listadas em anexo."
+   },
+   {
+    "type": "signature",
+    "text": "{{contratante}}\nContratante"
+   },
+   {
+    "type": "signature",
+    "text": "{{empresa}}\nContratada"
+   }
+  ],
+  "fields": [
+   {
+    "key": "contratante",
+    "label": "Contratante"
+   },
+   {
+    "key": "data",
+    "label": "Data"
+   },
+   {
+    "key": "empresa",
+    "label": "Empresa"
+   },
+   {
+    "key": "obra",
+    "label": "Obra"
+   },
+   {
+    "key": "tipo",
+    "label": "Tipo"
+   }
+  ],
+  "system": true,
+  "version": 1,
+  "createdAt": "@h-1320",
+  "updatedAt": "@h-1320"
+ }
+]

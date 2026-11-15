@@ -1,0 +1,2042 @@
+[
+ {
+  "id": "5633084a-8c31-5087-9351-780f3c649c5b",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "a9193d1f-6baf-5d5b-8413-8501b6758a5d",
+  "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+  "takenAt": "@h-12",
+  "caption": "Base do tanque TQ-09",
+  "file": "photo-001.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 1,
+  "createdAt": "@h-1464",
+  "updatedAt": "@h-1464"
+ },
+ {
+  "id": "f1798654-9ef9-5602-a5c4-7e20a361dfba",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "a9193d1f-6baf-5d5b-8413-8501b6758a5d",
+  "eapItemId": "34678ab5-4411-51c6-89f7-0c8e97298e61",
+  "takenAt": "@h-15",
+  "caption": "Base do tanque TQ-10",
+  "file": "photo-002.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 2,
+  "createdAt": "@h-432",
+  "updatedAt": "@h-432"
+ },
+ {
+  "id": "0ae261c3-ac7a-5473-a27c-a4c3bf66dcaf",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "a9193d1f-6baf-5d5b-8413-8501b6758a5d",
+  "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+  "takenAt": "@h-12",
+  "caption": "Base do tanque TQ-08",
+  "file": "photo-003.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 3,
+  "createdAt": "@h-696",
+  "updatedAt": "@h-696"
+ },
+ {
+  "id": "87a15223-5a4d-5a03-83a4-3111b732f3e3",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "4cd574f9-7c82-5b6e-bc54-df94261829ca",
+  "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+  "takenAt": "@h-35",
+  "caption": "Base do tanque TQ-09",
+  "file": "photo-004.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 4,
+  "createdAt": "@h-2136",
+  "updatedAt": "@h-2136"
+ },
+ {
+  "id": "52bc5ff8-4738-5d3d-a07a-0bc7cc919e3f",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "4cd574f9-7c82-5b6e-bc54-df94261829ca",
+  "eapItemId": "34678ab5-4411-51c6-89f7-0c8e97298e61",
+  "takenAt": "@h-39",
+  "caption": "Base do tanque TQ-10",
+  "file": "photo-005.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 0,
+  "createdAt": "@h-2088",
+  "updatedAt": "@h-2088"
+ },
+ {
+  "id": "d02b0904-0e6d-5215-b13e-06d2a9a1920d",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "71f4b211-ef61-5612-90f8-ed110ba1c599",
+  "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+  "takenAt": "@h-57",
+  "caption": "Base do tanque TQ-08",
+  "file": "photo-006.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 1,
+  "createdAt": "@h-936",
+  "updatedAt": "@h-936"
+ },
+ {
+  "id": "3e9992d4-a125-58b1-bc62-bb855b005139",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "71f4b211-ef61-5612-90f8-ed110ba1c599",
+  "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+  "takenAt": "@h-61",
+  "caption": "Base do tanque TQ-09",
+  "file": "photo-007.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 2,
+  "createdAt": "@h-912",
+  "updatedAt": "@h-912"
+ },
+ {
+  "id": "9ae60949-f819-53ee-88a6-074692238f5a",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "71f4b211-ef61-5612-90f8-ed110ba1c599",
+  "eapItemId": "400660b3-cb17-564f-86b7-d8b7ec048d16",
+  "takenAt": "@h-60",
+  "caption": "Fundação dos muros de contenção",
+  "file": "photo-008.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 3,
+  "createdAt": "@h-1080",
+  "updatedAt": "@h-1080"
+ },
+ {
+  "id": "f14dc022-5501-561c-a976-6b3f1af74e9e",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "d8e0548f-f94b-519d-9d73-4c053eaac538",
+  "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+  "takenAt": "@h-82",
+  "caption": "Base do tanque TQ-08",
+  "file": "photo-009.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 4,
+  "createdAt": "@h-1896",
+  "updatedAt": "@h-1896"
+ },
+ {
+  "id": "2dde76ee-6843-53ff-8b57-86363df3f9cd",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "d8e0548f-f94b-519d-9d73-4c053eaac538",
+  "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+  "takenAt": "@h-81",
+  "caption": "Base do tanque TQ-09",
+  "file": "photo-010.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 0,
+  "createdAt": "@h-480",
+  "updatedAt": "@h-480"
+ },
+ {
+  "id": "d56fecc2-5d22-5c50-aa32-27e57add64ab",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "163b110f-10f5-57bc-b16e-5c202d36d39b",
+  "eapItemId": "400660b3-cb17-564f-86b7-d8b7ec048d16",
+  "takenAt": "@h-105",
+  "caption": "Fundação dos muros de contenção",
+  "file": "photo-011.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 1,
+  "createdAt": "@h-1368",
+  "updatedAt": "@h-1368"
+ },
+ {
+  "id": "4b6e755b-ca29-5c62-b8bb-619e3a0a7a1e",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "163b110f-10f5-57bc-b16e-5c202d36d39b",
+  "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+  "takenAt": "@h-111",
+  "caption": "Base do tanque TQ-08",
+  "file": "photo-012.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 2,
+  "createdAt": "@h-96",
+  "updatedAt": "@h-96"
+ },
+ {
+  "id": "19e245f6-2966-5703-8965-15604b708a88",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "163b110f-10f5-57bc-b16e-5c202d36d39b",
+  "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+  "takenAt": "@h-107",
+  "caption": "Base do tanque TQ-09",
+  "file": "photo-013.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 3,
+  "createdAt": "@h-2016",
+  "updatedAt": "@h-2016"
+ },
+ {
+  "id": "0fc009c1-0652-5dac-b857-53c89aa1f7ff",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "256e7a75-d436-5aa8-9b0e-3047b45d90f7",
+  "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+  "takenAt": "@h-131",
+  "caption": "Base do tanque TQ-09",
+  "file": "photo-014.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 4,
+  "createdAt": "@h-408",
+  "updatedAt": "@h-408"
+ },
+ {
+  "id": "2f0c45f2-da22-5748-a76b-f3fb3907bcd1",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "256e7a75-d436-5aa8-9b0e-3047b45d90f7",
+  "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+  "takenAt": "@h-134",
+  "caption": "Base do tanque TQ-07",
+  "file": "photo-015.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 0,
+  "createdAt": "@h-360",
+  "updatedAt": "@h-360"
+ },
+ {
+  "id": "73b9e35d-8b69-5c50-abef-40b691c04f75",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "05813400-b592-5507-9378-6e21be271479",
+  "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+  "takenAt": "@h-155",
+  "caption": "Base do tanque TQ-08",
+  "file": "photo-016.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 1,
+  "createdAt": "@h-1200",
+  "updatedAt": "@h-1200"
+ },
+ {
+  "id": "6c0e360d-933b-517c-b1e2-f9a57d75c6b0",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "05813400-b592-5507-9378-6e21be271479",
+  "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+  "takenAt": "@h-157",
+  "caption": "Base do tanque TQ-09",
+  "file": "photo-017.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 2,
+  "createdAt": "@h-1128",
+  "updatedAt": "@h-1128"
+ },
+ {
+  "id": "e3957054-cafb-593e-ad6b-d804d81159ff",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "05813400-b592-5507-9378-6e21be271479",
+  "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+  "takenAt": "@h-154",
+  "caption": "Base do tanque TQ-07",
+  "file": "photo-018.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 3,
+  "createdAt": "@h-1560",
+  "updatedAt": "@h-1560"
+ },
+ {
+  "id": "743e8ec2-fb69-5e74-87b5-7275d3149789",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "41c81764-9a3a-55e6-b642-43ed70683e45",
+  "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+  "takenAt": "@h-182",
+  "caption": "Base do tanque TQ-08",
+  "file": "photo-019.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 4,
+  "createdAt": "@h-1656",
+  "updatedAt": "@h-1656"
+ },
+ {
+  "id": "d21e9579-7b88-5ea6-9d06-04005159df15",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "41c81764-9a3a-55e6-b642-43ed70683e45",
+  "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+  "takenAt": "@h-182",
+  "caption": "Base do tanque TQ-09",
+  "file": "photo-020.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 0,
+  "createdAt": "@h-1056",
+  "updatedAt": "@h-1056"
+ },
+ {
+  "id": "d0b13159-7699-5757-9c19-7890c40c297a",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "53adca8f-e976-5ba9-82d9-97de57ed7aa9",
+  "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+  "takenAt": "@h-205",
+  "caption": "Base do tanque TQ-07",
+  "file": "photo-021.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 1,
+  "createdAt": "@h-1920",
+  "updatedAt": "@h-1920"
+ },
+ {
+  "id": "e9531d68-f372-510e-90d6-5abeebc89b78",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "53adca8f-e976-5ba9-82d9-97de57ed7aa9",
+  "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+  "takenAt": "@h-207",
+  "caption": "Base do tanque TQ-08",
+  "file": "photo-022.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 2,
+  "createdAt": "@h-1080",
+  "updatedAt": "@h-1080"
+ },
+ {
+  "id": "9070028b-0097-5def-8c14-04929584b5d6",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "53adca8f-e976-5ba9-82d9-97de57ed7aa9",
+  "eapItemId": "48eed616-2aed-5d1f-8b9b-09ec6c7d81a3",
+  "takenAt": "@h-207",
+  "caption": "Base do tanque TQ-09",
+  "file": "photo-023.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 3,
+  "createdAt": "@h-312",
+  "updatedAt": "@h-312"
+ },
+ {
+  "id": "cf0133c8-37fe-5e61-9e54-d4d3786af3e5",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "96cfa0c2-0af1-556a-af3f-69e5c3febbc9",
+  "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+  "takenAt": "@h-231",
+  "caption": "Base do tanque TQ-06",
+  "file": "photo-024.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 4,
+  "createdAt": "@h-840",
+  "updatedAt": "@h-840"
+ },
+ {
+  "id": "50e1490c-48b5-5a40-acb3-df925690997a",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "96cfa0c2-0af1-556a-af3f-69e5c3febbc9",
+  "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+  "takenAt": "@h-229",
+  "caption": "Base do tanque TQ-07",
+  "file": "photo-025.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 0,
+  "createdAt": "@h-1608",
+  "updatedAt": "@h-1608"
+ },
+ {
+  "id": "4997aee3-24b4-5f25-9be5-867a7f8749d1",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "70eb945a-03bf-59c7-a2e2-11e04c80ea50",
+  "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+  "takenAt": "@h-254",
+  "caption": "Base do tanque TQ-08",
+  "file": "photo-026.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 1,
+  "createdAt": "@h-1920",
+  "updatedAt": "@h-1920"
+ },
+ {
+  "id": "41418184-05bc-5d9f-9b12-434ac9d5a0d4",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "70eb945a-03bf-59c7-a2e2-11e04c80ea50",
+  "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+  "takenAt": "@h-249",
+  "caption": "Base do tanque TQ-06",
+  "file": "photo-027.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 2,
+  "createdAt": "@h-1056",
+  "updatedAt": "@h-1056"
+ },
+ {
+  "id": "cb2534ee-61d6-525a-896d-10de98807d7f",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "70eb945a-03bf-59c7-a2e2-11e04c80ea50",
+  "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+  "takenAt": "@h-250",
+  "caption": "Base do tanque TQ-07",
+  "file": "photo-028.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 3,
+  "createdAt": "@h-2064",
+  "updatedAt": "@h-2064"
+ },
+ {
+  "id": "c68c48d8-2122-57ba-93d4-181508947e9d",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "d1bf45cf-519f-56c6-beef-4593399ae133",
+  "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+  "takenAt": "@h-273",
+  "caption": "Base do tanque TQ-08",
+  "file": "photo-029.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 4,
+  "createdAt": "@h-1248",
+  "updatedAt": "@h-1248"
+ },
+ {
+  "id": "41ce2d1a-6d5f-544c-9fa4-b97d295f14cc",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "d1bf45cf-519f-56c6-beef-4593399ae133",
+  "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+  "takenAt": "@h-278",
+  "caption": "Base do tanque TQ-06",
+  "file": "photo-030.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 0,
+  "createdAt": "@h-72",
+  "updatedAt": "@h-72"
+ },
+ {
+  "id": "5168e20e-7b8a-5e4c-8115-115cd345b565",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "82143150-ea19-5f5f-9c5d-6d3e0efb1554",
+  "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+  "takenAt": "@h-301",
+  "caption": "Base do tanque TQ-07",
+  "file": "photo-031.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 1,
+  "createdAt": "@h-744",
+  "updatedAt": "@h-744"
+ },
+ {
+  "id": "a28d9716-78ab-5cc8-9254-119a29800a9e",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "82143150-ea19-5f5f-9c5d-6d3e0efb1554",
+  "eapItemId": "472ed3d7-987c-50ca-9734-03ed9b50fd53",
+  "takenAt": "@h-300",
+  "caption": "Base do tanque TQ-08",
+  "file": "photo-032.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 2,
+  "createdAt": "@h-1896",
+  "updatedAt": "@h-1896"
+ },
+ {
+  "id": "1fc9b227-291c-55f1-a3e6-ce3b8c19a8bc",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "82143150-ea19-5f5f-9c5d-6d3e0efb1554",
+  "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+  "takenAt": "@h-300",
+  "caption": "Base do tanque TQ-06",
+  "file": "photo-033.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 3,
+  "createdAt": "@h-2088",
+  "updatedAt": "@h-2088"
+ },
+ {
+  "id": "021f3244-d140-5eef-925f-415435837c61",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "c2a1d50b-6d40-521a-af90-466b29112b39",
+  "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+  "takenAt": "@h-326",
+  "caption": "Base do tanque TQ-06",
+  "file": "photo-034.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 4,
+  "createdAt": "@h-504",
+  "updatedAt": "@h-504"
+ },
+ {
+  "id": "b21b681d-eaad-5ef2-9c17-745e602f8548",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "c2a1d50b-6d40-521a-af90-466b29112b39",
+  "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+  "takenAt": "@h-322",
+  "caption": "Base do tanque TQ-07",
+  "file": "photo-035.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 0,
+  "createdAt": "@h-576",
+  "updatedAt": "@h-576"
+ },
+ {
+  "id": "c2086067-7ab8-549a-ba43-0c1762b29bc6",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "abc5ba5b-e4c7-5103-a207-020eee17de61",
+  "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+  "takenAt": "@h-345",
+  "caption": "Base do tanque TQ-05",
+  "file": "photo-036.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 1,
+  "createdAt": "@h-936",
+  "updatedAt": "@h-936"
+ },
+ {
+  "id": "a33c8a0b-970e-543d-aae6-d330131ed16d",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "abc5ba5b-e4c7-5103-a207-020eee17de61",
+  "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+  "takenAt": "@h-346",
+  "caption": "Base do tanque TQ-06",
+  "file": "photo-037.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 2,
+  "createdAt": "@h-1512",
+  "updatedAt": "@h-1512"
+ },
+ {
+  "id": "35449fed-f4a9-568c-8fb4-f9dc21f9c22a",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "abc5ba5b-e4c7-5103-a207-020eee17de61",
+  "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+  "takenAt": "@h-350",
+  "caption": "Base do tanque TQ-07",
+  "file": "photo-038.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 3,
+  "createdAt": "@h-1872",
+  "updatedAt": "@h-1872"
+ },
+ {
+  "id": "34692606-e131-55f3-82bd-0549617d6064",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "ca9fa15a-e469-5dca-a77a-5a320ee796a7",
+  "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+  "takenAt": "@h-375",
+  "caption": "Base do tanque TQ-05",
+  "file": "photo-039.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 4,
+  "createdAt": "@h-240",
+  "updatedAt": "@h-240"
+ },
+ {
+  "id": "82fac996-734a-5f96-b188-00ac47c35031",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "ca9fa15a-e469-5dca-a77a-5a320ee796a7",
+  "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+  "takenAt": "@h-375",
+  "caption": "Base do tanque TQ-06",
+  "file": "photo-040.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 0,
+  "createdAt": "@h-1464",
+  "updatedAt": "@h-1464"
+ },
+ {
+  "id": "bfb99806-3d05-55aa-ac9d-624ae3cc24d6",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "aa3ec29a-0b82-540f-92cb-220786fdd1c2",
+  "eapItemId": "c5285269-213f-5d02-9b1a-523b8595c69a",
+  "takenAt": "@h-393",
+  "caption": "Base do tanque TQ-07",
+  "file": "photo-041.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 1,
+  "createdAt": "@h-2088",
+  "updatedAt": "@h-2088"
+ },
+ {
+  "id": "93dd9eed-dacd-5eba-b27d-57e66fe45656",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "aa3ec29a-0b82-540f-92cb-220786fdd1c2",
+  "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+  "takenAt": "@h-397",
+  "caption": "Base do tanque TQ-05",
+  "file": "photo-042.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 2,
+  "createdAt": "@h-816",
+  "updatedAt": "@h-816"
+ },
+ {
+  "id": "fed31a63-4e9e-5df3-925b-7cbdb07ca9b5",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "aa3ec29a-0b82-540f-92cb-220786fdd1c2",
+  "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+  "takenAt": "@h-393",
+  "caption": "Base do tanque TQ-06",
+  "file": "photo-043.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 3,
+  "createdAt": "@h-1776",
+  "updatedAt": "@h-1776"
+ },
+ {
+  "id": "f22a311f-98c6-560a-9918-cd7f71fc93cd",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "0fc2feeb-3be1-5a03-a535-655cb0a02f70",
+  "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+  "takenAt": "@h-422",
+  "caption": "Base do tanque TQ-06",
+  "file": "photo-044.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 4,
+  "createdAt": "@h-2088",
+  "updatedAt": "@h-2088"
+ },
+ {
+  "id": "56ab93f8-773e-5f23-9451-5e173721c2fe",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "0fc2feeb-3be1-5a03-a535-655cb0a02f70",
+  "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+  "takenAt": "@h-418",
+  "caption": "Base do tanque TQ-04",
+  "file": "photo-045.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 0,
+  "createdAt": "@h-1200",
+  "updatedAt": "@h-1200"
+ },
+ {
+  "id": "b526390b-eeb8-5d40-ab98-52032ddd33b0",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "46987646-40cb-5688-a03b-ec6807cccf09",
+  "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+  "takenAt": "@h-443",
+  "caption": "Base do tanque TQ-05",
+  "file": "photo-046.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 1,
+  "createdAt": "@h-1704",
+  "updatedAt": "@h-1704"
+ },
+ {
+  "id": "7a98fc76-d254-5341-9cbd-9616a8fb6b0d",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "46987646-40cb-5688-a03b-ec6807cccf09",
+  "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+  "takenAt": "@h-446",
+  "caption": "Base do tanque TQ-06",
+  "file": "photo-047.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 2,
+  "createdAt": "@h-1680",
+  "updatedAt": "@h-1680"
+ },
+ {
+  "id": "2e1f9c53-d962-513e-b38e-bd2e6e671ba9",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "46987646-40cb-5688-a03b-ec6807cccf09",
+  "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+  "takenAt": "@h-445",
+  "caption": "Base do tanque TQ-04",
+  "file": "photo-048.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 3,
+  "createdAt": "@h-720",
+  "updatedAt": "@h-720"
+ },
+ {
+  "id": "858c2fe6-217d-540f-a839-5ccc7d4052ed",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "29b4ef17-6677-51ac-93e6-42d7fd2266e2",
+  "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+  "takenAt": "@h-467",
+  "caption": "Base do tanque TQ-05",
+  "file": "photo-049.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 4,
+  "createdAt": "@h-1128",
+  "updatedAt": "@h-1128"
+ },
+ {
+  "id": "241dea3b-d370-53d6-a412-4f4e0bd85591",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "29b4ef17-6677-51ac-93e6-42d7fd2266e2",
+  "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+  "takenAt": "@h-469",
+  "caption": "Base do tanque TQ-06",
+  "file": "photo-050.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 0,
+  "createdAt": "@h-1056",
+  "updatedAt": "@h-1056"
+ },
+ {
+  "id": "5763af58-3454-5134-9346-01104a39b7c3",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "9cc8a832-d017-5c04-a1b1-62fc7384cf4f",
+  "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+  "takenAt": "@h-494",
+  "caption": "Base do tanque TQ-04",
+  "file": "photo-051.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 1,
+  "createdAt": "@h-696",
+  "updatedAt": "@h-696"
+ },
+ {
+  "id": "1afe2dbb-369e-5a62-9411-365ab027f264",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "9cc8a832-d017-5c04-a1b1-62fc7384cf4f",
+  "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+  "takenAt": "@h-491",
+  "caption": "Base do tanque TQ-05",
+  "file": "photo-052.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 2,
+  "createdAt": "@h-48",
+  "updatedAt": "@h-48"
+ },
+ {
+  "id": "8199b4e5-ec71-54f2-84b8-0dfedc8a31c5",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "9cc8a832-d017-5c04-a1b1-62fc7384cf4f",
+  "eapItemId": "6f64bd69-4628-55ba-8d1d-8efa9d3bef9b",
+  "takenAt": "@h-493",
+  "caption": "Base do tanque TQ-06",
+  "file": "photo-053.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 3,
+  "createdAt": "@h-1872",
+  "updatedAt": "@h-1872"
+ },
+ {
+  "id": "b4fcfcfd-f0ef-5dc9-bf3e-00966325a506",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "fba710f1-698e-5c00-a24e-9532caedd2ea",
+  "eapItemId": "049a971d-fe7b-5de9-87a6-5e6dff76642c",
+  "takenAt": "@h-515",
+  "caption": "Base do tanque TQ-03",
+  "file": "photo-054.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 4,
+  "createdAt": "@h-192",
+  "updatedAt": "@h-192"
+ },
+ {
+  "id": "9c8c2523-3dc1-554b-b995-982563060ff5",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "fba710f1-698e-5c00-a24e-9532caedd2ea",
+  "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+  "takenAt": "@h-515",
+  "caption": "Base do tanque TQ-04",
+  "file": "photo-055.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 0,
+  "createdAt": "@h-2040",
+  "updatedAt": "@h-2040"
+ },
+ {
+  "id": "7f9b224c-7d29-5532-a744-5ed5f892895c",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "f7dee5fe-d222-5dbb-a107-50145973e571",
+  "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+  "takenAt": "@h-539",
+  "caption": "Base do tanque TQ-05",
+  "file": "photo-056.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 1,
+  "createdAt": "@h-1728",
+  "updatedAt": "@h-1728"
+ },
+ {
+  "id": "cca73e7d-760c-5158-a68b-f68b6eb9000f",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "f7dee5fe-d222-5dbb-a107-50145973e571",
+  "eapItemId": "049a971d-fe7b-5de9-87a6-5e6dff76642c",
+  "takenAt": "@h-542",
+  "caption": "Base do tanque TQ-03",
+  "file": "photo-057.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 2,
+  "createdAt": "@h-1608",
+  "updatedAt": "@h-1608"
+ },
+ {
+  "id": "5800b7be-f06d-5ef4-9c2a-b1f3230690ce",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "f7dee5fe-d222-5dbb-a107-50145973e571",
+  "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+  "takenAt": "@h-538",
+  "caption": "Base do tanque TQ-04",
+  "file": "photo-058.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 3,
+  "createdAt": "@h-816",
+  "updatedAt": "@h-816"
+ },
+ {
+  "id": "4faebbbb-67f1-5183-9461-46b732ef6c3e",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "4cae852b-90e8-57c7-8ab6-cc0fbe986482",
+  "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+  "takenAt": "@h-567",
+  "caption": "Base do tanque TQ-05",
+  "file": "photo-059.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 4,
+  "createdAt": "@h-1224",
+  "updatedAt": "@h-1224"
+ },
+ {
+  "id": "f47ca40f-2358-56cc-8457-8ad3aae4ba99",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "4cae852b-90e8-57c7-8ab6-cc0fbe986482",
+  "eapItemId": "049a971d-fe7b-5de9-87a6-5e6dff76642c",
+  "takenAt": "@h-567",
+  "caption": "Base do tanque TQ-03",
+  "file": "photo-060.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 0,
+  "createdAt": "@h-1272",
+  "updatedAt": "@h-1272"
+ },
+ {
+  "id": "53264add-7fea-5233-8411-0975b2482f66",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "b54a2862-1832-5d73-968a-57841f4c8a0c",
+  "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+  "takenAt": "@h-591",
+  "caption": "Base do tanque TQ-04",
+  "file": "photo-061.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 1,
+  "createdAt": "@h-1608",
+  "updatedAt": "@h-1608"
+ },
+ {
+  "id": "090edbd4-aa2c-5cc6-a1f4-384656a54440",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "b54a2862-1832-5d73-968a-57841f4c8a0c",
+  "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+  "takenAt": "@h-587",
+  "caption": "Base do tanque TQ-05",
+  "file": "photo-062.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 2,
+  "createdAt": "@h-1872",
+  "updatedAt": "@h-1872"
+ },
+ {
+  "id": "3ae594c2-2649-53fd-acaa-31d740cf04f7",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "b54a2862-1832-5d73-968a-57841f4c8a0c",
+  "eapItemId": "049a971d-fe7b-5de9-87a6-5e6dff76642c",
+  "takenAt": "@h-590",
+  "caption": "Base do tanque TQ-03",
+  "file": "photo-063.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 3,
+  "createdAt": "@h-1920",
+  "updatedAt": "@h-1920"
+ },
+ {
+  "id": "074a9f2e-04f0-5b4f-8eea-057fc326ced2",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "b54a2862-1832-5d73-968a-57841f4c8a0c",
+  "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+  "takenAt": "@h-587",
+  "caption": "Base do tanque TQ-04",
+  "file": "photo-064.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 4,
+  "createdAt": "@h-1512",
+  "updatedAt": "@h-1512"
+ },
+ {
+  "id": "2ef9b064-1bea-5149-b5f0-26f8d90cc193",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "b54a2862-1832-5d73-968a-57841f4c8a0c",
+  "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+  "takenAt": "@h-585",
+  "caption": "Base do tanque TQ-05",
+  "file": "photo-065.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 0,
+  "createdAt": "@h-2064",
+  "updatedAt": "@h-2064"
+ },
+ {
+  "id": "4342b18a-f49d-5c50-9ac5-0d0ab1960f59",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "b54a2862-1832-5d73-968a-57841f4c8a0c",
+  "eapItemId": "049a971d-fe7b-5de9-87a6-5e6dff76642c",
+  "takenAt": "@h-587",
+  "caption": "Base do tanque TQ-03",
+  "file": "photo-066.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 1,
+  "createdAt": "@h-936",
+  "updatedAt": "@h-936"
+ },
+ {
+  "id": "587eac2f-e84c-5346-847c-53b9945bf36b",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "b54a2862-1832-5d73-968a-57841f4c8a0c",
+  "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+  "takenAt": "@h-586",
+  "caption": "Base do tanque TQ-04",
+  "file": "photo-067.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 2,
+  "createdAt": "@h-1776",
+  "updatedAt": "@h-1776"
+ },
+ {
+  "id": "4d697f6d-7139-56ec-8d20-fa4ea3ea8ed5",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "b54a2862-1832-5d73-968a-57841f4c8a0c",
+  "eapItemId": "3ff46553-5239-5e34-b9be-03ad8cd640e8",
+  "takenAt": "@h-589",
+  "caption": "Base do tanque TQ-05",
+  "file": "photo-068.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 3,
+  "createdAt": "@h-1536",
+  "updatedAt": "@h-1536"
+ },
+ {
+  "id": "1debe91c-03c3-505a-ac47-bb7a159cbf27",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "b54a2862-1832-5d73-968a-57841f4c8a0c",
+  "eapItemId": "049a971d-fe7b-5de9-87a6-5e6dff76642c",
+  "takenAt": "@h-586",
+  "caption": "Base do tanque TQ-03",
+  "file": "photo-069.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 4,
+  "createdAt": "@h-960",
+  "updatedAt": "@h-960"
+ },
+ {
+  "id": "f8138168-5da4-5d89-8b9a-54f6e87c20c4",
+  "obraId": "68698303-2829-5f33-a34a-f935332607dc",
+  "diaryEntryId": "b54a2862-1832-5d73-968a-57841f4c8a0c",
+  "eapItemId": "05d7b17b-f4b0-5f7b-9248-f4b8c9aaf869",
+  "takenAt": "@h-589",
+  "caption": "Base do tanque TQ-04",
+  "file": "photo-070.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 0,
+  "createdAt": "@h-240",
+  "updatedAt": "@h-240"
+ },
+ {
+  "id": "7bca45cc-8eb0-557b-be36-398e26b6a58c",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "5e4defdf-46c7-5c47-b33b-3fdf5b21071f",
+  "eapItemId": "180033a4-0ae1-5246-a310-ff3b8a9d7d51",
+  "takenAt": "@h-15",
+  "caption": "Instalações elétricas e SPDA",
+  "file": "photo-071.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 1,
+  "createdAt": "@h-1944",
+  "updatedAt": "@h-1944"
+ },
+ {
+  "id": "4f7ceb52-ffc7-5de1-840c-707efd5c37f8",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "5e4defdf-46c7-5c47-b33b-3fdf5b21071f",
+  "eapItemId": "a636784c-524f-5235-9082-8d902619e25a",
+  "takenAt": "@h-14",
+  "caption": "Piso de concreto polido",
+  "file": "photo-072.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 2,
+  "createdAt": "@h-864",
+  "updatedAt": "@h-864"
+ },
+ {
+  "id": "d1d1ab5a-066a-5d90-955f-2cc82280bd38",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "5e4defdf-46c7-5c47-b33b-3fdf5b21071f",
+  "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+  "takenAt": "@h-10",
+  "caption": "Substituição de telhas, calhas e rufos",
+  "file": "photo-073.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 3,
+  "createdAt": "@h-1608",
+  "updatedAt": "@h-1608"
+ },
+ {
+  "id": "142d10dc-c850-5131-bd89-68f6948246db",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "0a5b7629-7ba8-5c85-bde4-30d2644ad9ec",
+  "eapItemId": "180033a4-0ae1-5246-a310-ff3b8a9d7d51",
+  "takenAt": "@h-39",
+  "caption": "Instalações elétricas e SPDA",
+  "file": "photo-074.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 4,
+  "createdAt": "@h-1104",
+  "updatedAt": "@h-1104"
+ },
+ {
+  "id": "2f5a7f8d-def6-5c84-8ae1-a176f62eb346",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "0a5b7629-7ba8-5c85-bde4-30d2644ad9ec",
+  "eapItemId": "a636784c-524f-5235-9082-8d902619e25a",
+  "takenAt": "@h-33",
+  "caption": "Piso de concreto polido",
+  "file": "photo-075.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 0,
+  "createdAt": "@h-96",
+  "updatedAt": "@h-96"
+ },
+ {
+  "id": "5c59ba4a-9694-5092-b2dc-ebbce3b9c873",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "bf8b2d4d-8d4c-511a-bbca-0f80f32583a7",
+  "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+  "takenAt": "@h-62",
+  "caption": "Substituição de telhas, calhas e rufos",
+  "file": "photo-076.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 1,
+  "createdAt": "@h-1944",
+  "updatedAt": "@h-1944"
+ },
+ {
+  "id": "d892d6d4-7689-595c-8ef9-9729d9563a82",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "bf8b2d4d-8d4c-511a-bbca-0f80f32583a7",
+  "eapItemId": "180033a4-0ae1-5246-a310-ff3b8a9d7d51",
+  "takenAt": "@h-57",
+  "caption": "Instalações elétricas e SPDA",
+  "file": "photo-077.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 2,
+  "createdAt": "@h-1272",
+  "updatedAt": "@h-1272"
+ },
+ {
+  "id": "8b42be46-81a4-5c2b-942e-a14b463dd86d",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "bf8b2d4d-8d4c-511a-bbca-0f80f32583a7",
+  "eapItemId": "a636784c-524f-5235-9082-8d902619e25a",
+  "takenAt": "@h-59",
+  "caption": "Piso de concreto polido",
+  "file": "photo-078.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 3,
+  "createdAt": "@h-1464",
+  "updatedAt": "@h-1464"
+ },
+ {
+  "id": "82b48570-cefb-5197-95ca-26e00ff0faff",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "ff619f1f-4457-5855-857f-5772403ceb08",
+  "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+  "takenAt": "@h-84",
+  "caption": "Substituição de telhas, calhas e rufos",
+  "file": "photo-079.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 4,
+  "createdAt": "@h-2112",
+  "updatedAt": "@h-2112"
+ },
+ {
+  "id": "6b563456-3ddb-5bbd-803f-ed48e9af0a67",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "ff619f1f-4457-5855-857f-5772403ceb08",
+  "eapItemId": "180033a4-0ae1-5246-a310-ff3b8a9d7d51",
+  "takenAt": "@h-83",
+  "caption": "Instalações elétricas e SPDA",
+  "file": "photo-080.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 0,
+  "createdAt": "@h-1464",
+  "updatedAt": "@h-1464"
+ },
+ {
+  "id": "d82756b6-8a46-5689-b3b6-2f0d7352a705",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "6cb98138-9ffa-525f-b715-3c4b3297f482",
+  "eapItemId": "a636784c-524f-5235-9082-8d902619e25a",
+  "takenAt": "@h-105",
+  "caption": "Piso de concreto polido",
+  "file": "photo-081.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 1,
+  "createdAt": "@h-624",
+  "updatedAt": "@h-624"
+ },
+ {
+  "id": "265f3098-083a-554f-aa26-8d6381b47af6",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "6cb98138-9ffa-525f-b715-3c4b3297f482",
+  "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+  "takenAt": "@h-107",
+  "caption": "Substituição de telhas, calhas e rufos",
+  "file": "photo-082.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 2,
+  "createdAt": "@h-2040",
+  "updatedAt": "@h-2040"
+ },
+ {
+  "id": "6b86fff1-6dc6-52f2-8d7a-9b0603d87d73",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "6cb98138-9ffa-525f-b715-3c4b3297f482",
+  "eapItemId": "180033a4-0ae1-5246-a310-ff3b8a9d7d51",
+  "takenAt": "@h-108",
+  "caption": "Instalações elétricas e SPDA",
+  "file": "photo-083.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 3,
+  "createdAt": "@h-1680",
+  "updatedAt": "@h-1680"
+ },
+ {
+  "id": "3b862e73-725f-5384-a34f-8fac029a83ff",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "ceddd88e-d343-5487-af22-b86705167326",
+  "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+  "takenAt": "@h-132",
+  "caption": "Tratamento de fissuras e juntas",
+  "file": "photo-084.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 4,
+  "createdAt": "@h-792",
+  "updatedAt": "@h-792"
+ },
+ {
+  "id": "612068e4-9b97-5521-ba22-42dd43f3f688",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "ceddd88e-d343-5487-af22-b86705167326",
+  "eapItemId": "a636784c-524f-5235-9082-8d902619e25a",
+  "takenAt": "@h-129",
+  "caption": "Piso de concreto polido",
+  "file": "photo-085.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 0,
+  "createdAt": "@h-384",
+  "updatedAt": "@h-384"
+ },
+ {
+  "id": "3d35deee-e960-5856-a4e4-b28fd8909c0f",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "b9993e23-71d6-5a8c-a2c7-853db691e03e",
+  "eapItemId": "180033a4-0ae1-5246-a310-ff3b8a9d7d51",
+  "takenAt": "@h-158",
+  "caption": "Instalações elétricas e SPDA",
+  "file": "photo-086.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 1,
+  "createdAt": "@h-1608",
+  "updatedAt": "@h-1608"
+ },
+ {
+  "id": "4cd00484-f248-5beb-9d12-ea4d8956a60d",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "b9993e23-71d6-5a8c-a2c7-853db691e03e",
+  "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+  "takenAt": "@h-158",
+  "caption": "Tratamento de fissuras e juntas",
+  "file": "photo-087.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 2,
+  "createdAt": "@h-1632",
+  "updatedAt": "@h-1632"
+ },
+ {
+  "id": "64ac0863-d69c-504b-8ecc-8eb65f027071",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "b9993e23-71d6-5a8c-a2c7-853db691e03e",
+  "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+  "takenAt": "@h-154",
+  "caption": "Substituição de telhas, calhas e rufos",
+  "file": "photo-088.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 3,
+  "createdAt": "@h-120",
+  "updatedAt": "@h-120"
+ },
+ {
+  "id": "aa704c75-c0bd-51a2-97c2-05822b54d3b8",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "54502b09-7fc3-5841-be85-909bfaa4b59f",
+  "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+  "takenAt": "@h-181",
+  "caption": "Substituição de telhas, calhas e rufos",
+  "file": "photo-089.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 4,
+  "createdAt": "@h-480",
+  "updatedAt": "@h-480"
+ },
+ {
+  "id": "8f7be40e-b22b-5029-8aa7-3e5f205cfb7d",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "54502b09-7fc3-5841-be85-909bfaa4b59f",
+  "eapItemId": "4c9719e7-5d4a-589e-b587-4f9b19645a5e",
+  "takenAt": "@h-178",
+  "caption": "Reforço de pilares e vigas",
+  "file": "photo-090.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 0,
+  "createdAt": "@h-1584",
+  "updatedAt": "@h-1584"
+ },
+ {
+  "id": "08af23cb-9df9-5849-99ab-bacc14915c14",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "dbf80b4d-bf45-59c1-80ab-97c03c0f8052",
+  "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+  "takenAt": "@h-207",
+  "caption": "Tratamento de fissuras e juntas",
+  "file": "photo-091.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 1,
+  "createdAt": "@h-888",
+  "updatedAt": "@h-888"
+ },
+ {
+  "id": "7eff65cb-4d39-504b-8fc7-79df9f066ab9",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "dbf80b4d-bf45-59c1-80ab-97c03c0f8052",
+  "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+  "takenAt": "@h-207",
+  "caption": "Substituição de telhas, calhas e rufos",
+  "file": "photo-092.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 2,
+  "createdAt": "@h-48",
+  "updatedAt": "@h-48"
+ },
+ {
+  "id": "6315ca58-b15e-58ce-bb66-5e8e67568e9e",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "dbf80b4d-bf45-59c1-80ab-97c03c0f8052",
+  "eapItemId": "4c9719e7-5d4a-589e-b587-4f9b19645a5e",
+  "takenAt": "@h-207",
+  "caption": "Reforço de pilares e vigas",
+  "file": "photo-093.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 3,
+  "createdAt": "@h-1560",
+  "updatedAt": "@h-1560"
+ },
+ {
+  "id": "76ddce65-d7f9-57e3-8de6-913d6bd33d38",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "9b2a7bd8-0f9c-54a4-8cd0-2231e2051dc4",
+  "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+  "takenAt": "@h-231",
+  "caption": "Tratamento de fissuras e juntas",
+  "file": "photo-094.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 4,
+  "createdAt": "@h-96",
+  "updatedAt": "@h-96"
+ },
+ {
+  "id": "1fb06f80-181d-5bac-924b-32475495a09f",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "9b2a7bd8-0f9c-54a4-8cd0-2231e2051dc4",
+  "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+  "takenAt": "@h-227",
+  "caption": "Substituição de telhas, calhas e rufos",
+  "file": "photo-095.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 0,
+  "createdAt": "@h-2040",
+  "updatedAt": "@h-2040"
+ },
+ {
+  "id": "de8f6111-0d35-5002-8ac7-e4eca6da7c9a",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "bd881d16-51c2-53d7-b77c-acb99598d035",
+  "eapItemId": "4c9719e7-5d4a-589e-b587-4f9b19645a5e",
+  "takenAt": "@h-254",
+  "caption": "Reforço de pilares e vigas",
+  "file": "photo-096.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 1,
+  "createdAt": "@h-936",
+  "updatedAt": "@h-936"
+ },
+ {
+  "id": "54f2f2cc-f726-5623-8eca-fbdeea7ddd74",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "bd881d16-51c2-53d7-b77c-acb99598d035",
+  "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+  "takenAt": "@h-255",
+  "caption": "Tratamento de fissuras e juntas",
+  "file": "photo-097.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 2,
+  "createdAt": "@h-1392",
+  "updatedAt": "@h-1392"
+ },
+ {
+  "id": "5d2f9b41-90c5-5a6b-a5e0-7b68a00ce631",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "bd881d16-51c2-53d7-b77c-acb99598d035",
+  "eapItemId": "09f0d3b6-9878-599e-9047-4cec1cfac5f3",
+  "takenAt": "@h-250",
+  "caption": "Substituição de telhas, calhas e rufos",
+  "file": "photo-098.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 3,
+  "createdAt": "@h-1968",
+  "updatedAt": "@h-1968"
+ },
+ {
+  "id": "a10df9c9-137d-51e0-b345-91524d33410c",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "3da16f29-d211-51fe-965f-37718c4d351d",
+  "eapItemId": "4c9719e7-5d4a-589e-b587-4f9b19645a5e",
+  "takenAt": "@h-279",
+  "caption": "Reforço de pilares e vigas",
+  "file": "photo-099.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 4,
+  "createdAt": "@h-1008",
+  "updatedAt": "@h-1008"
+ },
+ {
+  "id": "301db05d-8f78-526d-b28d-51fc6b900a05",
+  "obraId": "79496055-a0cd-549d-a515-1d8d38ead179",
+  "diaryEntryId": "3da16f29-d211-51fe-965f-37718c4d351d",
+  "eapItemId": "8e4e6d8a-3089-57b0-8607-f8aa4bd658b1",
+  "takenAt": "@h-277",
+  "caption": "Tratamento de fissuras e juntas",
+  "file": "photo-100.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 0,
+  "createdAt": "@h-168",
+  "updatedAt": "@h-168"
+ },
+ {
+  "id": "8e2cbee9-fd02-5db5-9f64-ee8d8d5aff65",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "19234b8d-5053-5828-8cc1-8a2f71da343c",
+  "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+  "takenAt": "@h-9",
+  "caption": "Piso industrial do parque de tanques",
+  "file": "photo-101.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 1,
+  "createdAt": "@h-936",
+  "updatedAt": "@h-936"
+ },
+ {
+  "id": "63b37ea7-2ead-5783-8437-49c7aa61d5fa",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "19234b8d-5053-5828-8cc1-8a2f71da343c",
+  "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+  "takenAt": "@h-14",
+  "caption": "Escavação e canaletas",
+  "file": "photo-102.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 2,
+  "createdAt": "@h-1560",
+  "updatedAt": "@h-1560"
+ },
+ {
+  "id": "96bfc97d-7346-5392-8b73-f93e66e3365d",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "19234b8d-5053-5828-8cc1-8a2f71da343c",
+  "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+  "takenAt": "@h-12",
+  "caption": "Caixas separadoras e interligações",
+  "file": "photo-103.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 3,
+  "createdAt": "@h-600",
+  "updatedAt": "@h-600"
+ },
+ {
+  "id": "7ac5831a-ecb9-5135-9238-bbc2ad22ab13",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "6e75f166-498e-5b93-8800-a31a41744733",
+  "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+  "takenAt": "@h-39",
+  "caption": "Piso industrial do parque de tanques",
+  "file": "photo-104.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 4,
+  "createdAt": "@h-1104",
+  "updatedAt": "@h-1104"
+ },
+ {
+  "id": "a6e1ed4f-f8ef-5fed-8013-cb9b5977595e",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "6e75f166-498e-5b93-8800-a31a41744733",
+  "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+  "takenAt": "@h-37",
+  "caption": "Escavação e canaletas",
+  "file": "photo-105.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 0,
+  "createdAt": "@h-936",
+  "updatedAt": "@h-936"
+ },
+ {
+  "id": "6f722d3a-f417-5d15-b462-6bcc2df57291",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "ca3bd5b9-85f9-5aea-8d43-5c8e763d8402",
+  "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+  "takenAt": "@h-63",
+  "caption": "Caixas separadoras e interligações",
+  "file": "photo-106.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 1,
+  "createdAt": "@h-1320",
+  "updatedAt": "@h-1320"
+ },
+ {
+  "id": "185f32fe-a5f0-5e46-96fb-80f9702be8b8",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "ca3bd5b9-85f9-5aea-8d43-5c8e763d8402",
+  "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+  "takenAt": "@h-60",
+  "caption": "Piso industrial do parque de tanques",
+  "file": "photo-107.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 2,
+  "createdAt": "@h-1512",
+  "updatedAt": "@h-1512"
+ },
+ {
+  "id": "b59da222-087e-595b-bcb5-5dc922c9707f",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "ca3bd5b9-85f9-5aea-8d43-5c8e763d8402",
+  "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+  "takenAt": "@h-61",
+  "caption": "Escavação e canaletas",
+  "file": "photo-108.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 3,
+  "createdAt": "@h-216",
+  "updatedAt": "@h-216"
+ },
+ {
+  "id": "7f188d6d-5577-57d6-a337-2ae9658f9429",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "fc227ced-75bc-5b5b-83ae-ad1f478e9a6b",
+  "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+  "takenAt": "@h-87",
+  "caption": "Caixas separadoras e interligações",
+  "file": "photo-109.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 4,
+  "createdAt": "@h-648",
+  "updatedAt": "@h-648"
+ },
+ {
+  "id": "08e452f3-8bea-54c7-9e29-5a6b1ba70218",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "fc227ced-75bc-5b5b-83ae-ad1f478e9a6b",
+  "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+  "takenAt": "@h-85",
+  "caption": "Piso industrial do parque de tanques",
+  "file": "photo-110.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 0,
+  "createdAt": "@h-1176",
+  "updatedAt": "@h-1176"
+ },
+ {
+  "id": "6d272761-83c2-56b5-9df1-f5ea9d71c172",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "bc29f117-d6d1-55f0-b12c-66b6cece404b",
+  "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+  "takenAt": "@h-107",
+  "caption": "Escavação e canaletas",
+  "file": "photo-111.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 1,
+  "createdAt": "@h-1104",
+  "updatedAt": "@h-1104"
+ },
+ {
+  "id": "20646b4a-8fad-5b81-acfe-7d7fefbcc514",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "bc29f117-d6d1-55f0-b12c-66b6cece404b",
+  "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+  "takenAt": "@h-107",
+  "caption": "Caixas separadoras e interligações",
+  "file": "photo-112.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 2,
+  "createdAt": "@h-1344",
+  "updatedAt": "@h-1344"
+ },
+ {
+  "id": "2c070df7-77c4-50ca-b350-fdb63acf396a",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "bc29f117-d6d1-55f0-b12c-66b6cece404b",
+  "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+  "takenAt": "@h-105",
+  "caption": "Piso industrial do parque de tanques",
+  "file": "photo-113.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 3,
+  "createdAt": "@h-2064",
+  "updatedAt": "@h-2064"
+ },
+ {
+  "id": "a644bf85-eff3-5c39-89ac-5f39f16b9d27",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "34c44db1-46f2-5d25-961c-b9543020f66c",
+  "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+  "takenAt": "@h-134",
+  "caption": "Escavação e canaletas",
+  "file": "photo-114.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 4,
+  "createdAt": "@h-504",
+  "updatedAt": "@h-504"
+ },
+ {
+  "id": "874b2270-b760-52cf-81fc-863ed9ca73eb",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "34c44db1-46f2-5d25-961c-b9543020f66c",
+  "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+  "takenAt": "@h-132",
+  "caption": "Caixas separadoras e interligações",
+  "file": "photo-115.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "wall",
+  "hue": 0,
+  "createdAt": "@h-528",
+  "updatedAt": "@h-528"
+ },
+ {
+  "id": "e5b1c2e8-ab12-5014-b083-18e3a05f1ba5",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "b8aa949d-c546-5678-ba30-9d267d846bc3",
+  "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+  "takenAt": "@h-155",
+  "caption": "Piso industrial do parque de tanques",
+  "file": "photo-116.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "truck",
+  "hue": 1,
+  "createdAt": "@h-120",
+  "updatedAt": "@h-120"
+ },
+ {
+  "id": "ac52c3ce-ba62-5ad2-9a8d-60297ff55aac",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "b8aa949d-c546-5678-ba30-9d267d846bc3",
+  "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+  "takenAt": "@h-159",
+  "caption": "Escavação e canaletas",
+  "file": "photo-117.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "rebar",
+  "hue": 2,
+  "createdAt": "@h-672",
+  "updatedAt": "@h-672"
+ },
+ {
+  "id": "e6383058-1bcd-5934-82ec-bc1a4a0ac7f7",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "b8aa949d-c546-5678-ba30-9d267d846bc3",
+  "eapItemId": "8ab81e7e-55a6-522a-934b-30d71b092347",
+  "takenAt": "@h-155",
+  "caption": "Caixas separadoras e interligações",
+  "file": "photo-118.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "building",
+  "hue": 3,
+  "createdAt": "@h-1824",
+  "updatedAt": "@h-1824"
+ },
+ {
+  "id": "aeb3f024-5e66-5611-8c30-f834967597b8",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "966e2af5-359a-5c08-bb06-9cffd48e3a01",
+  "eapItemId": "f3a88ab8-e54e-56c8-87e4-7e8a32fbbb39",
+  "takenAt": "@h-181",
+  "caption": "Piso industrial do parque de tanques",
+  "file": "photo-119.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "crane",
+  "hue": 4,
+  "createdAt": "@h-984",
+  "updatedAt": "@h-984"
+ },
+ {
+  "id": "0b597f51-b1ab-58ca-8eda-561c0cff2178",
+  "obraId": "b8c99797-a70b-5427-92cd-e9c3e81e10bc",
+  "diaryEntryId": "966e2af5-359a-5c08-bb06-9cffd48e3a01",
+  "eapItemId": "5bfbb0c0-3514-543e-bb09-297e019d61c1",
+  "takenAt": "@h-182",
+  "caption": "Escavação e canaletas",
+  "file": "photo-120.svg",
+  "takenBy": "03f64fe4-b8b5-55b2-89f3-181591d4277e",
+  "tags": [
+   "registro do dia"
+  ],
+  "icon": "tank",
+  "hue": 0,
+  "createdAt": "@h-720",
+  "updatedAt": "@h-720"
+ }
+]

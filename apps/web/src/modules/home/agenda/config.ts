@@ -1,0 +1,85 @@
+import type { ConfigTab } from '@/core/module-config/types';
+import { t } from '@/modules/home/agenda/i18n';
+
+export const tabs: ConfigTab[] = [
+  {
+    id: 'calendar',
+    label: t('tab_calendar'),
+    resource: 'calendar-events',
+    columns: [
+      { id: 'title', header: t('col_calendar_title'), field: 'title' },
+      { id: 'date', header: t('col_calendar_date'), field: 'date', format: 'date' },
+      {
+        id: 'kind',
+        header: t('col_calendar_kind'),
+        field: 'kind',
+        format: 'badge',
+        labels: {
+          meeting: { label: t('lab_calendar_kind_meeting'), tone: 'info' },
+          inspection: { label: t('lab_calendar_kind_inspection'), tone: 'warning' },
+          work: { label: t('lab_calendar_kind_work'), tone: 'neutral' },
+          travel: { label: t('lab_calendar_kind_travel'), tone: 'neutral' },
+          delivery: { label: t('lab_calendar_kind_delivery'), tone: 'neutral' },
+          training: { label: t('lab_calendar_kind_training'), tone: 'info' },
+          deadline: { label: t('lab_calendar_kind_deadline'), tone: 'danger' },
+          holiday: { label: t('lab_calendar_kind_holiday'), tone: 'neutral' },
+        },
+      },
+      {
+        id: 'startTime',
+        header: t('col_calendar_startTime'),
+        field: 'startTime',
+        hideOnMobile: true,
+      },
+      { id: 'location', header: t('col_calendar_location'), field: 'location', hideOnMobile: true },
+      {
+        id: 'obraId',
+        header: t('col_calendar_obraId'),
+        field: 'obraId',
+        format: 'name',
+        hideOnMobile: true,
+      },
+    ],
+    sort: 'date',
+    views: ['calendar', 'table'],
+    dateField: 'date',
+    titleField: 'title',
+  },
+  {
+    id: 'deadlines',
+    label: t('tab_deadlines'),
+    resource: 'deadlines',
+    columns: [
+      { id: 'title', header: t('col_deadlines_title'), field: 'title' },
+      { id: 'dueDate', header: t('col_deadlines_dueDate'), field: 'dueDate', format: 'validity' },
+      {
+        id: 'kind',
+        header: t('col_deadlines_kind'),
+        field: 'kind',
+        format: 'badge',
+        labels: {
+          aso: { label: t('lab_deadlines_kind_aso'), tone: 'warning' },
+          training: { label: t('lab_deadlines_kind_training'), tone: 'info' },
+          license: { label: t('lab_deadlines_kind_license'), tone: 'info' },
+          certificate: { label: t('lab_deadlines_kind_certificate'), tone: 'neutral' },
+          insurance: { label: t('lab_deadlines_kind_insurance'), tone: 'neutral' },
+          contract: { label: t('lab_deadlines_kind_contract'), tone: 'neutral' },
+          obligation: { label: t('lab_deadlines_kind_obligation'), tone: 'warning' },
+          registration: { label: t('lab_deadlines_kind_registration'), tone: 'neutral' },
+          ppe: { label: t('lab_deadlines_kind_ppe'), tone: 'neutral' },
+        },
+      },
+      {
+        id: 'obraId',
+        header: t('col_deadlines_obraId'),
+        field: 'obraId',
+        format: 'name',
+        hideOnMobile: true,
+      },
+    ],
+    sort: 'dueDate',
+    views: ['table', 'timeline', 'calendar'],
+    dateField: 'dueDate',
+    titleField: 'title',
+  },
+];
